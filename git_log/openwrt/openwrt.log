@@ -2,8 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e1a9636959|George Moussalem|Thu Jan 8 13:22:33 2026 +0400|qualcommax: ipq50xx: Correct USB DWC3 wrapper interrupts
-0ff1553bd7|Robert Marko|Thu Jan 8 11:16:46 2026 +0100|ipq-wifi: rename BDF for EAP623-Outdoor HD v1
-d6ab889e45|George Moussalem|Wed Jan 7 18:31:15 2026 +0400|qualcommax: ipq50xx: correct assigned cmn pll clock rate
-fdce6f99be|George Moussalem|Wed Jan 7 17:44:44 2026 +0400|qualcommax: ipq50xx: enable ipq-cmn-pll driver compilation
+93e98b4082|Goetz Goerisch|Fri Jan 9 21:14:47 2026 +0100|feeds: revert to git.openwrt.org
+fa9f925951|Stijn Tintel|Tue Jun 28 17:44:51 2022 +0300|realtek/rtl839x: Edgecore ECS4100-12PH support
+7b351062d2|Markus Stockhausen|Sun Jan 4 21:21:23 2026 +0100|realtek: eth: move init_mac() into configuration structure
+320e6f3188|Markus Stockhausen|Sun Jan 4 21:00:33 2026 +0100|realtek: eth: add init_mac() for RTL930x
+f8ec6a3b5f|Markus Stockhausen|Sun Jan 4 20:52:29 2026 +0100|realtek: eth: reorder init_mac() functions
+7fb393fa7d|Markus Stockhausen|Sun Jan 4 20:42:13 2026 +0100|realtek: eth: simplify rtl8380_init_mac()
+28c7524e78|Markus Stockhausen|Sun Jan 4 20:31:08 2026 +0100|realtek: eth: harmonize mac (aka chip) init
+985f30d576|Markus Stockhausen|Fri Jan 9 19:17:38 2026 +0100|realtek: dts: RTL93xx whitespace cleanup
+a2e49c4d72|Jonas Jelonek|Tue Jan 6 20:58:11 2026 +0000|realtek: replace remove_new with remove
+66e6ebbc1e|Robert Marko|Fri Jan 9 18:52:20 2026 +0100|microchipsw: drop source-only
+29b3d929a6|Robert Marko|Sun Nov 2 15:15:35 2025 +0100|microchipsw: lan969x: add Novarq Tactical 1000
+7b7a559976|Robert Marko|Fri Jan 9 18:27:33 2026 +0100|microchipsw: use upstreamed patches
+6e0379deb9|Robert Marko|Fri Jan 9 18:10:35 2026 +0100|boot: arm-trusted-firmware-microchipsw: update to latest
+6944f1c6a0|Robert Marko|Fri Jan 9 16:50:34 2026 +0100|microchipsw: use latest DTS
+de9faf9e75|Jonas Jelonek|Tue Jan 6 19:54:44 2026 +0000|realtek: mdio: drop SerDes access functionality
+
+.....................
+
 </details>
