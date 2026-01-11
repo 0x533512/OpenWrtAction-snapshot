@@ -2,22 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-93e98b4082|Goetz Goerisch|Fri Jan 9 21:14:47 2026 +0100|feeds: revert to git.openwrt.org
-fa9f925951|Stijn Tintel|Tue Jun 28 17:44:51 2022 +0300|realtek/rtl839x: Edgecore ECS4100-12PH support
-7b351062d2|Markus Stockhausen|Sun Jan 4 21:21:23 2026 +0100|realtek: eth: move init_mac() into configuration structure
-320e6f3188|Markus Stockhausen|Sun Jan 4 21:00:33 2026 +0100|realtek: eth: add init_mac() for RTL930x
-f8ec6a3b5f|Markus Stockhausen|Sun Jan 4 20:52:29 2026 +0100|realtek: eth: reorder init_mac() functions
-7fb393fa7d|Markus Stockhausen|Sun Jan 4 20:42:13 2026 +0100|realtek: eth: simplify rtl8380_init_mac()
-28c7524e78|Markus Stockhausen|Sun Jan 4 20:31:08 2026 +0100|realtek: eth: harmonize mac (aka chip) init
-985f30d576|Markus Stockhausen|Fri Jan 9 19:17:38 2026 +0100|realtek: dts: RTL93xx whitespace cleanup
-a2e49c4d72|Jonas Jelonek|Tue Jan 6 20:58:11 2026 +0000|realtek: replace remove_new with remove
-66e6ebbc1e|Robert Marko|Fri Jan 9 18:52:20 2026 +0100|microchipsw: drop source-only
-29b3d929a6|Robert Marko|Sun Nov 2 15:15:35 2025 +0100|microchipsw: lan969x: add Novarq Tactical 1000
-7b7a559976|Robert Marko|Fri Jan 9 18:27:33 2026 +0100|microchipsw: use upstreamed patches
-6e0379deb9|Robert Marko|Fri Jan 9 18:10:35 2026 +0100|boot: arm-trusted-firmware-microchipsw: update to latest
-6944f1c6a0|Robert Marko|Fri Jan 9 16:50:34 2026 +0100|microchipsw: use latest DTS
-de9faf9e75|Jonas Jelonek|Tue Jan 6 19:54:44 2026 +0000|realtek: mdio: drop SerDes access functionality
-
-.....................
-
+93665d0aa3|Robert Marko|Fri Jan 9 20:37:01 2026 +0100|linux: crypto: fix dependencies for curve25519 and poly1305
+dd519f6c05|Thomas Perale|Wed Jan 7 14:03:22 2026 +0100|ppp: update deprecated cpe
+2a55846bf4|Andreas Böhler|Fri Jan 9 23:07:02 2026 +0100|realtek: add support for ZyXEL GS1920-24HPv1
+1c63273d8d|Andreas Böhler|Sun Oct 12 19:33:19 2025 +0200|realtek: Makefile: add rt-loader-standalone and zynsig recipes
+6150f9ceab|Pawel Dembicki|Sun Nov 30 23:50:48 2025 +0100|mpc85xx: p2020: add support for WatchGuard XTM330 (NC5AE7)
+e4b8d3f294|Yanase Yuki|Wed Dec 24 15:35:02 2025 +0900|projectsmirrors: switch to HTTPS
+b378868a39|Yanase Yuki|Wed Dec 24 15:27:14 2025 +0900|projectsmirrors: drop some sites
+89d982d723|JINLIANG GU|Sat Jan 10 09:45:58 2026 +0800|netifd: dhcp: suppress udhcpc default vendor class if specified in sendopts
 </details>
