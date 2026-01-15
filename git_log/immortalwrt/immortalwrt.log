@@ -2,22 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0927a303ed|Tianling Shen|Tue Jan 13 15:59:57 2026 +0800|Merge Official Source
-02f0efd60b|Jakub Vaněk|Mon Jan 5 00:10:46 2026 +0100|mediatek: fix PHY autodetection on Cudy WR3000H
-dbafbab876|Andrew MacIntyre|Tue Dec 30 12:22:41 2025 +1100|mediatek: add Motorcomm PHY driver to Cudy WR3000H
-96a1337374|Andrew MacIntyre|Mon Dec 29 23:38:10 2025 +1100|kernel: add kmod-phy-motorcomm
-082fe669f7|Robert Marko|Mon Jan 12 17:33:02 2026 +0100|boot: arm-trusted-firmware-microchipsw: depend on host Ruby
-410277ca12|Robert Marko|Mon Jan 12 17:28:06 2026 +0100|boot: arm-trusted-firmware-microchipsw: fix compilation against LibreSSL
-5c5823afdc|Markus Stockhausen|Fri Jan 9 18:53:04 2026 +0100|realtek: mdio: drop interfaces attribute
-b2717357a7|Markus Stockhausen|Fri Jan 9 11:40:22 2026 +0100|realtek: mdio: Simplify RTL930x phy polling setup
-93711307e0|Markus Stockhausen|Sun Jan 11 10:40:12 2026 +0100|realtek: mdio: provide phy info helper
-4acbbf6f05|Markus Stockhausen|Sat Jan 10 08:35:35 2026 +0100|realtek: mdio: improve iterator readability
-470e030a5e|George Sapkin|Tue Jan 6 03:50:37 2026 +0200|build: add default priority to ABI-versioned packages
-1dec4683f6|George Sapkin|Tue Jan 6 00:56:06 2026 +0200|build: remove redundant shebang from apk lifecycle scripts
-2d844a0770|George Sapkin|Mon Jan 5 04:03:00 2026 +0200|build: fix implicit self-provides
-8cc2743c48|George Sapkin|Sun Jan 4 23:02:21 2026 +0200|elfutils: drop libelf1 provide
-af1fa176c3|George Sapkin|Fri Jan 2 16:26:40 2026 +0200|uclient: provide virtual wget-any
-
-.....................
-
+b57fa3ab8d|Tianling Shen|Thu Jan 15 10:10:22 2026 +0800|Merge Official Source
+226981d49c|John Audia|Sun Jan 11 10:43:45 2026 -0500|kernel: bump 6.12 to 6.12.65
+ba6b07a4ab|John Audia|Tue Jan 6 17:43:30 2026 -0500|kernel: bump 6.12 to 6.12.64
+39700aeaa1|Hauke Mehrtens|Mon Jan 12 23:05:57 2026 +0100|bcm27xx: refresh kernel patches
+5b887135ba|John Audia|Thu Jan 8 07:13:08 2026 -0500|mac80211: fix build for 6.12.64 bump
+e1c125c167|Álvaro Fernández Rojas|Sat Jan 10 15:44:48 2026 +0100|netifd: use stable IAID for DHCPv4
+e1f2b666ff|Álvaro Fernández Rojas|Tue Jan 13 18:19:48 2026 +0100|base-files: introduce a function to generate IAID
+4953db3aef|Aleksander Jan Bajkowski|Sat Jan 10 18:05:38 2026 +0100|airoha: show link rate and duplex
+43039157ba|FUKAUMI Naoki|Wed Jan 14 01:52:55 2026 +0000|rockchip: add `"compat_version": "1.1"` for Radxa E52C
+cb82479475|Stijn Tintel|Mon Jan 12 03:49:19 2026 +0200|kernel: add kmod-hwmon-adt7470
+f6429413d9|Hauke Mehrtens|Wed Jan 14 00:34:45 2026 +0100|libiwinfo: update to Git HEAD (2026-01-14)
+a73db6d0a0|Pawel Dembicki|Mon Jan 12 15:44:05 2026 +0100|mpc85xx: fix failsafe iface selection for mpc85xx boards
+6ff4557317|Fil Dunsky|Sun Jan 4 01:00:14 2026 +0300|mediatek: add support for Airpi AP3000M
+31cdd13d22|George Sapkin|Thu Jan 8 05:00:26 2026 +0200|imagebuilder: add ABI suffix to packages when using apk
 </details>
