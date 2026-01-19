@@ -2,9 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e9ef0eb49f|Paul Donald|Sat Jan 17 23:44:56 2026 +0100|Merge remote-tracking branch 'weblate/master'
-1df1bb4066|Hyeonjeong Lee|Thu Jan 15 18:18:35 2026 +0100|Translated using Weblate (Korean)
-fe5055a02a|Hyeonjeong Lee|Thu Jan 15 18:11:17 2026 +0100|Translated using Weblate (Korean)
-fdfd00a783|Hyeonjeong Lee|Thu Jan 15 18:18:00 2026 +0100|Translated using Weblate (Korean)
-f0044557ab|Hosted Weblate|Thu Jan 15 17:55:46 2026 +0100|Translated using Weblate (Korean)
+b72dad0a00|Dirk Brenken|Sun Jan 18 23:39:39 2026 +0100|luci-app-adblock: sync with adblock 4.5.0-1
+b5cb136860|Paul Donald|Sat Jan 17 16:58:26 2026 +0100|luci-base: fix null error
+f894913007|Paul Donald|Wed Jan 14 21:21:46 2026 +0100|luci-base: document delbtntitle clonebtntitle
+7f0c172ee1|Paul Donald|Wed Jan 14 01:43:48 2026 +0100|luci-theme: alignment fixes
+2012b36215|Paul Donald|Sun Jul 6 04:04:28 2025 +0200|luci-base: extend FileUpload; create DirectoryPicker
+31949c1b43|Hannu Nyman|Sun Jan 18 08:15:03 2026 +0200|treewide: sync translations - i18n
+41f7043582|Hosted Weblate|Sun Jan 18 01:25:11 2026 +0100|Translated using Weblate (Polish)
 </details>
