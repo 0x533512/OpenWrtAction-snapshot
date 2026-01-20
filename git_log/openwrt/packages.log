@@ -2,19 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-389baa9d0|Dirk Brenken|Sun Jan 18 23:34:19 2026 +0100|adblock: release 4.5.0-1
-ae659deb4|monokoo|Tue Jan 6 06:57:46 2026 +0000|ddns-scripts: add multiple DNS records support for aliyun ddns
-cd4e1a0bd|Tianling Shen|Sun Jan 18 14:51:32 2026 +0800|v2ray-geodata: Update to latest version
-7e6e847f0|Tianling Shen|Sun Jan 18 14:48:43 2026 +0800|v2ray-core: Update to 5.44.1
-ae9787397|Til Kaiser|Tue Jan 6 15:52:45 2026 +0100|madplay: fix compilation with GCC 15
-b2146d595|Othmar Truniger|Wed Jan 14 17:01:38 2026 +0100|knxd: bump to version 0.14.75
-64e9681a1|Niklas Thorild|Tue Jan 13 10:51:56 2026 +0100|telegraf: update to 1.37.1
-40234e5b5|Jan Hák|Fri Jan 16 14:00:05 2026 +0100|knot: update to version 3.5.3
-8ab5a3d7c|Daniel F. Dickinson|Fri Jan 16 01:55:41 2026 -0500|zabbix: avoid unnecessary configure/compile
-f798e1737|Daniel F. Dickinson|Fri Jan 16 01:47:28 2026 -0500|zabbix: deduplicate zabbix-agentd Makefile parts
-907e9c6b1|Daniel F. Dickinson|Thu Jan 15 07:41:05 2026 -0500|zabbix: use separate users for agent and server
-1f3251545|Daniel F. Dickinson|Thu Jan 1 08:42:13 2026 -0500|zabbix: bump to 7.0.22 LTS
-1938656f7|Wei-Ting Yang|Fri Jan 9 20:14:24 2026 +0800|coreutils: patch possible infinite loop with SEEK_HOLE
-4a02dcb1c|Wei-Ting Yang|Thu Jan 8 12:50:46 2026 +0800|bash: update to 5.3 patch level 9
-d9802c8ba|Wei-Ting Yang|Mon Jan 5 21:35:21 2026 +0800|bash: refactor Makefile
+47a3e4d93|Ray Wang|Mon Jan 19 20:02:35 2026 +0800|hev-socks5-tunnel: update to 2.14.3
 </details>

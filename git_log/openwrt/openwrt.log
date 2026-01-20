@@ -2,18 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-687a2535d5|Maximilian Baumgartner|Thu Jan 15 23:46:46 2026 +0100|mediatek: fix gmac definition for cudy m3000
-294945b8e9|Stijn Tintel|Thu Jan 15 22:21:36 2026 +0200|generic: filter out more rust related symbols
-a20ea50dec|Jonas Jelonek|Sun Jan 11 22:28:35 2026 +0000|realtek: pcs: rtl930x: rework SerDes mode setting
-13f7a9977b|Jonas Jelonek|Fri Jan 16 20:15:54 2026 +0000|realtek: pcs: rtl930x: rename internal mode helpers
-a282999087|Jonas Jelonek|Sun Jan 11 20:06:58 2026 +0000|realtek: pcs: rtl930x: use SerDes hw mode in calibration
-eba83bc57e|Jonas Jelonek|Thu Jan 8 12:43:02 2026 +0000|realtek: pcs: rtl930x: use SerDes hw mode for mode setting
-d48e7bbacd|Jonas Jelonek|Thu Jan 8 12:33:26 2026 +0000|realtek: pcs: rtl930x: use SerDes hw mode in TX config
-2df05f8b84|Jonas Jelonek|Thu Jan 8 12:28:43 2026 +0000|realtek: pcs: rtl930x: use SerDes hw mode in patching
-4406f96e3b|Jonas Jelonek|Thu Jan 8 12:21:47 2026 +0000|realtek: pcs: rtl930x: use SerDes hw mode in setup entry
-4a66133724|Markus Stockhausen|Fri Jan 16 11:16:35 2026 +0100|realtek: eth: adapt counter() and irq() functions
-b7eb2fdcab|Markus Stockhausen|Fri Jan 16 10:47:26 2026 +0100|realtek: eth: use device specifc hardware reset
-41acf8f4f7|Markus Stockhausen|Sat Jan 17 08:32:33 2026 +0100|realtek: image: switch cameo devices from gzip to lzma
-1c582f7c73|Chukun Pan|Wed Apr 9 21:10:20 2025 +0800|qualcommax: ipq60xx: add JDCloud RE-CS-07 support
-53a8e7b2d4|Chukun Pan|Tue Apr 8 22:19:30 2025 +0800|qualcommax: ipq60xx: add JDCloud RE-CS-02 support
+1c62e21a8d|Kamil Jońca|Tue Jan 6 09:03:33 2026 +0100|ramips: mt76x8: add support for Cudy LT400E v1
+c0fb8e1f35|John Audia|Sun Jan 18 05:13:53 2026 -0500|kernel: bump 6.12 to 6.12.66
+7d79346581|Chen Minqiang|Fri Dec 12 10:58:16 2025 +0800|mediatek: filogic: add support for Tenda BE12 Pro
+16ae5c23e5|Paul Donald|Tue Jan 6 01:53:25 2026 +0100|ucode: enable ucode-mod-zlib
+468ee567c9|Daniel Golle|Sun Jan 18 22:02:28 2026 +0000|kernel: net: phy: realtek: backport upstream commits
+e8997e7e03|Chukun Pan|Wed Dec 10 18:10:29 2025 +0800|rockchip: add HINLINK H28K support
+384127320e|Chukun Pan|Tue Dec 9 18:06:25 2025 +0800|uboot-rockchip: add HINLINK H28K support
+7a07d38f33|Chukun Pan|Tue Dec 16 21:27:02 2025 +0800|rockchip: correct MAC address for Radxa E20C
+dccfc10957|Chukun Pan|Mon Dec 15 21:08:05 2025 +0800|rockchip: configure WAN port LED of Radxa E20C
+eb87c8b82b|Chukun Pan|Thu Jul 10 22:15:05 2025 +0800|generic: restore network port name for r8169 LED
+e45ba0ef6e|Pierre-Emmanuel Frot|Sun Jan 18 21:13:28 2026 +0100|x86: cs5535audio: add support for subtarget legacy
 </details>

@@ -2,11 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b72dad0a00|Dirk Brenken|Sun Jan 18 23:39:39 2026 +0100|luci-app-adblock: sync with adblock 4.5.0-1
-b5cb136860|Paul Donald|Sat Jan 17 16:58:26 2026 +0100|luci-base: fix null error
-f894913007|Paul Donald|Wed Jan 14 21:21:46 2026 +0100|luci-base: document delbtntitle clonebtntitle
-7f0c172ee1|Paul Donald|Wed Jan 14 01:43:48 2026 +0100|luci-theme: alignment fixes
-2012b36215|Paul Donald|Sun Jul 6 04:04:28 2025 +0200|luci-base: extend FileUpload; create DirectoryPicker
-31949c1b43|Hannu Nyman|Sun Jan 18 08:15:03 2026 +0200|treewide: sync translations - i18n
-41f7043582|Hosted Weblate|Sun Jan 18 01:25:11 2026 +0100|Translated using Weblate (Polish)
+637c075193|Daniel F. Dickinson|Mon Jan 19 02:44:52 2026 -0500|luci-app-radicale3: use ip6 bracket notation
 </details>
