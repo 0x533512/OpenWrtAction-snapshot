@@ -2,15 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1c62e21a8d|Kamil Jońca|Tue Jan 6 09:03:33 2026 +0100|ramips: mt76x8: add support for Cudy LT400E v1
-c0fb8e1f35|John Audia|Sun Jan 18 05:13:53 2026 -0500|kernel: bump 6.12 to 6.12.66
-7d79346581|Chen Minqiang|Fri Dec 12 10:58:16 2025 +0800|mediatek: filogic: add support for Tenda BE12 Pro
-16ae5c23e5|Paul Donald|Tue Jan 6 01:53:25 2026 +0100|ucode: enable ucode-mod-zlib
-468ee567c9|Daniel Golle|Sun Jan 18 22:02:28 2026 +0000|kernel: net: phy: realtek: backport upstream commits
-e8997e7e03|Chukun Pan|Wed Dec 10 18:10:29 2025 +0800|rockchip: add HINLINK H28K support
-384127320e|Chukun Pan|Tue Dec 9 18:06:25 2025 +0800|uboot-rockchip: add HINLINK H28K support
-7a07d38f33|Chukun Pan|Tue Dec 16 21:27:02 2025 +0800|rockchip: correct MAC address for Radxa E20C
-dccfc10957|Chukun Pan|Mon Dec 15 21:08:05 2025 +0800|rockchip: configure WAN port LED of Radxa E20C
-eb87c8b82b|Chukun Pan|Thu Jul 10 22:15:05 2025 +0800|generic: restore network port name for r8169 LED
-e45ba0ef6e|Pierre-Emmanuel Frot|Sun Jan 18 21:13:28 2026 +0100|x86: cs5535audio: add support for subtarget legacy
+8076376aca|Hauke Mehrtens|Wed Jan 21 01:07:38 2026 +0100|Revert "kernel: pcs-mtk-lynxi: backport fix for in-band status capabilities"
+30f8ceaa7e|Jan Hoffmann|Mon Jan 19 18:45:46 2026 +0100|realtek: make all link speeds work for RTL8221B in Zyxel XGS1210-12 rev B1
 </details>

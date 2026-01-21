@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-47a3e4d93|Ray Wang|Mon Jan 19 20:02:35 2026 +0800|hev-socks5-tunnel: update to 2.14.3
+6b58aa69c|Stijn Tintel|Thu Jan 15 20:10:10 2026 +0200|kea: create /var/lib/kea directory in init script
+e4f965537|Stijn Tintel|Thu Jan 15 20:03:16 2026 +0200|kea: fix /var/run/kea permissions
 </details>

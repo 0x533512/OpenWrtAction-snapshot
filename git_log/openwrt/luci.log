@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-637c075193|Daniel F. Dickinson|Mon Jan 19 02:44:52 2026 -0500|luci-app-radicale3: use ip6 bracket notation
+aca7cc1756|Daniel F. Dickinson|Tue Jan 20 07:29:56 2026 -0500|luci-app-radicale3: fix bcrypt/libpass detection
+c3e48a7960|Florian Eckert|Tue Jan 20 12:20:36 2026 +0100|Merge pull request #8233 from TDT-AG/pr/20260120-luci-app-mwan3
+4ddbf0831c|Florian Eckert|Tue Jan 20 09:01:00 2026 +0100|Revert "luci-app-mwan3: delete additional mwan3 load call"
 </details>
