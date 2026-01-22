@@ -2,6 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8076376aca|Hauke Mehrtens|Wed Jan 21 01:07:38 2026 +0100|Revert "kernel: pcs-mtk-lynxi: backport fix for in-band status capabilities"
-30f8ceaa7e|Jan Hoffmann|Mon Jan 19 18:45:46 2026 +0100|realtek: make all link speeds work for RTL8221B in Zyxel XGS1210-12 rev B1
+46129bbbf5|Shiji Yang|Mon Jan 19 22:26:09 2026 +0800|mediatek: dts: mt7981: fix spi clocks
+3462789923|Shiji Yang|Sat Jan 3 12:59:19 2026 +0800|mediatek: dts: mt7981: remove internal phy LED pinctrl
+c9cae03d35|Shiji Yang|Fri Dec 19 19:39:55 2025 +0800|mediatek: dts: mt7981: add mediatek,wed-pcie syscon phandle
+5e3e73c969|Shiji Yang|Fri Dec 19 19:39:55 2025 +0800|mediatek: dts: mt7981: load xhci phy efuse by default
+0d13738ef4|Shiji Yang|Fri Dec 19 19:39:55 2025 +0800|mediatek: dts: mt7981: remove useless nodes
+b4b12a8239|Caleb James DeLisle|Wed Jan 14 23:20:52 2026 +0000|econet: add clock/reset support
+609deedd87|Tianling Shen|Tue Jan 20 10:12:12 2026 +0800|rockchip: fix set default serial_{addr,port} in boot script
+a82738d83f|Paul Donald|Sun Jan 18 00:28:44 2026 +0100|ucode: update to Git 85922056ef7 (2026-01-16)
+7e39a2d485|Markus Stockhausen|Mon Jan 12 17:56:31 2026 +0100|realtek: mdio: derive phy smi-bus from parent node
+b948cc17b4|Markus Stockhausen|Wed Jan 7 12:16:53 2026 +0100|realtek: dts: convert devices to mdio bus 1-3
+cfe534dc8e|Markus Stockhausen|Wed Jan 7 10:42:48 2026 +0100|realtek: dts: add mdio bus 1-3 to RTL93xx
+3b73474f71|Markus Stockhausen|Mon Jan 12 16:43:40 2026 +0100|realtek: mdio/dsa: refactor mdio bus initialization
+3722b006a6|Markus Stockhausen|Mon Jan 12 17:33:19 2026 +0100|realtek: mdio: rename iterator to "addr"
+631e066bc3|Markus Stockhausen|Mon Jan 12 17:20:39 2026 +0100|realtek: mdio: register mdio bus at controller node
+84a6288a08|Markus Stockhausen|Tue Jan 13 13:55:38 2026 +0100|realtek: dsa: Remove family check from port_get_stp_state()
+
+.....................
+
 </details>

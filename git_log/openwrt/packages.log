@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6b58aa69c|Stijn Tintel|Thu Jan 15 20:10:10 2026 +0200|kea: create /var/lib/kea directory in init script
-e4f965537|Stijn Tintel|Thu Jan 15 20:03:16 2026 +0200|kea: fix /var/run/kea permissions
+4fd9971c5|Michael Heimpold|Sun Jan 18 13:09:23 2026 +0100|mmc-utils: update to upstream's 8f41ccbb40b8 commit
+afd01e303|Juan Antonio|Sun Dec 7 16:08:50 2025 +0100|ddns-scripts: fix luci XHR timeout when restarting ddns service
+c199e3741|Daniel F. Dickinson|Wed Jan 14 23:32:05 2026 -0500|radicale3: make the empty uci config consistent
+9e33952b6|Daniel F. Dickinson|Wed Jan 14 23:29:20 2026 -0500|radicale3: add better reload handling
+78cf89d7d|Daniel F. Dickinson|Wed Jan 14 23:24:48 2026 -0500|radicale3: update initial uci config
+ecf9fb51d|Daniel F. Dickinson|Sun Jan 11 19:14:35 2026 -0500|radicale3: fix permissions on ssl cert/key
 </details>
