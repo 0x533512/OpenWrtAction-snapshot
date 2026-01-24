@@ -1,0 +1,18 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+ed4a3fa933|Paul Donald|Fri Jan 23 20:53:21 2026 +0100|luci-base: add validator array support
+04b289c16d|Paul Donald|Fri Jan 23 19:46:58 2026 +0100|luci-base: add IPv6 LL and ULA validation
+20fd3ca00f|NaOH Lin|Sat Jan 24 01:22:17 2026 +0800|luci-app-attendedsysupgrade: fix syntax error
+18d41ebb18|Norman Gehrsitz|Sat Jan 3 18:09:48 2026 +0100|luci-app-acme: support --cert-profile option
+17645e6dd8|Paul Donald|Fri Jan 23 07:01:08 2026 +0100|luci-app-ocserv: convert to JS
+df90c60a72|Paul Donald|Sat Jan 17 20:18:37 2026 +0100|luci-base: dispatcher; improve wildcard routing
+fddc70391f|Paul Donald|Thu Jan 8 18:12:40 2026 +0100|luci-base: amend rpc to handle objects in param
+05f90a2044|Eric Fahlgren|Wed Jan 21 15:53:35 2026 -0800|luci-mod-status: clean up presentation of dhcp section
+d52b59cbf0|LASER-Yi|Wed Jan 21 01:25:27 2026 +0800|luci-base: fix JSDoc errors in form.Flag and form.Button
+2aa6aba3bc|Eric Fahlgren|Thu Jan 22 16:12:33 2026 -0800|luci-app-attendedsysupgrade: rework check-for-new-firmware
+720c96ce5b|Ramon Van Gorkom|Sun Jan 4 18:48:47 2026 +0100|luci-base: make some tables better searchable
+471ac6b59c|Tokisaki Galaxy|Sun Nov 16 00:05:13 2025 +0800|luci-app-tailscale-community: add new application
+62fd5284f6|Konstantin Glukhov|Thu Jan 22 11:13:35 2026 +0900|luci-mod-status: resolve service names for ports
+</details>

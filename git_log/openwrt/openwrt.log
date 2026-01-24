@@ -2,10 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3af12632ef|gongzi miao|Mon Jan 19 00:43:55 2026 +0800|dnsmasq: bump release to 2.92
-e855f32bdd|Felix Fietkau|Thu Jan 22 11:25:49 2026 +0100|wifi-scripts: iwinfo.uc: cache survey data in iface object
-26eab84f81|John Crispin|Fri Sep 19 17:05:30 2025 +0200|wifi-scripts: refactor iwinfo.uc to support dynamic data updates
-55c498eb7b|Felix Fietkau|Fri Jan 16 08:53:27 2026 +0000|udebug: update to Git HEAD (2026-01-16)
-bb22a514dc|Felix Fietkau|Tue Jan 13 12:37:50 2026 +0000|build: fix stale package install stamps for unselected variants
-6d5c71f748|Felix Fietkau|Tue Jan 13 09:31:22 2026 +0000|build: auto-generate CONFLICTS for package variants sharing PROVIDES
+7c26668217|Roc Lai|Fri Jan 23 19:54:41 2026 +0800|kexec-tools: remove upstreamed patch
+a4285d7cc0|Hauke Mehrtens|Thu Jan 22 23:14:21 2026 +0100|lantiq: AVM Fritz 736x: fix PCIe reset GPIO
+b94de14baf|Shiji Yang|Tue Jan 6 20:50:06 2026 +0800|uboot-mediatek: update to v2026.01
+8dec72061f|Linus Walleij|Fri Jan 23 21:24:47 2026 +0100|gemini: Fix up the rootfs device for SQ201
+92682593d5|Linus Walleij|Fri Jan 23 16:32:10 2026 +0100|gemini: Add DTS fix from upstream kernel
+7bb79b9d53|George Sapkin|Fri Jan 23 18:58:36 2026 +0200|imagebuilder: skip repository file when standalone
+78c98abd30|Robert Marko|Fri Jan 23 11:07:23 2026 +0100|uboot-microchipsw: add FIP update flashing shortcut
+19e097e18a|Robert Marko|Fri Jan 23 10:54:19 2026 +0100|microchipsw: update DTS with the latest pending upstream
+088f6e563e|Gabriel Roper|Mon Oct 6 21:24:05 2025 -0700|d1: Enable LED driver for D1 builds
+12992dcb7e|Gabriel Roper|Mon Oct 6 21:21:40 2025 -0700|d1: Add device tree configuration for D1 RGB LED Controller
+8dccd1e44f|Chukun Pan|Tue Oct 21 19:30:09 2025 +0800|d1: refresh kernel config
+1e7950a45d|Chukun Pan|Mon Oct 20 22:16:21 2025 +0800|d1: enable overlay support
+81580cc92c|Chukun Pan|Sun Oct 19 22:01:25 2025 +0800|d1: enable usbgadget feature
+a8a0d9c12f|Chukun Pan|Sat Oct 18 20:16:08 2025 +0800|uboot-d1: update to 2024.01
+e75218ef4a|Roc Lai|Wed Jan 21 22:17:41 2026 +0800|kexec-tools: bump to 2.0.32
+
+.....................
+
 </details>
