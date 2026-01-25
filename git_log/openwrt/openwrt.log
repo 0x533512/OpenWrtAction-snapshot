@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7c26668217|Roc Lai|Fri Jan 23 19:54:41 2026 +0800|kexec-tools: remove upstreamed patch
-a4285d7cc0|Hauke Mehrtens|Thu Jan 22 23:14:21 2026 +0100|lantiq: AVM Fritz 736x: fix PCIe reset GPIO
-b94de14baf|Shiji Yang|Tue Jan 6 20:50:06 2026 +0800|uboot-mediatek: update to v2026.01
-8dec72061f|Linus Walleij|Fri Jan 23 21:24:47 2026 +0100|gemini: Fix up the rootfs device for SQ201
-92682593d5|Linus Walleij|Fri Jan 23 16:32:10 2026 +0100|gemini: Add DTS fix from upstream kernel
-7bb79b9d53|George Sapkin|Fri Jan 23 18:58:36 2026 +0200|imagebuilder: skip repository file when standalone
-78c98abd30|Robert Marko|Fri Jan 23 11:07:23 2026 +0100|uboot-microchipsw: add FIP update flashing shortcut
-19e097e18a|Robert Marko|Fri Jan 23 10:54:19 2026 +0100|microchipsw: update DTS with the latest pending upstream
-088f6e563e|Gabriel Roper|Mon Oct 6 21:24:05 2025 -0700|d1: Enable LED driver for D1 builds
-12992dcb7e|Gabriel Roper|Mon Oct 6 21:21:40 2025 -0700|d1: Add device tree configuration for D1 RGB LED Controller
-8dccd1e44f|Chukun Pan|Tue Oct 21 19:30:09 2025 +0800|d1: refresh kernel config
-1e7950a45d|Chukun Pan|Mon Oct 20 22:16:21 2025 +0800|d1: enable overlay support
-81580cc92c|Chukun Pan|Sun Oct 19 22:01:25 2025 +0800|d1: enable usbgadget feature
-a8a0d9c12f|Chukun Pan|Sat Oct 18 20:16:08 2025 +0800|uboot-d1: update to 2024.01
-e75218ef4a|Roc Lai|Wed Jan 21 22:17:41 2026 +0800|kexec-tools: bump to 2.0.32
+cf84e8ee86|Chukun Pan|Sun Aug 31 22:01:15 2025 +0800|rockchip: add HINLINK H66K / H68K support
+9de9a15427|Chukun Pan|Fri Dec 19 22:06:02 2025 +0800|uboot-rockchip: add HINLINK H66K / H68K support
+48b4160329|Markus Stockhausen|Tue Jan 13 22:15:15 2026 +0100|realtek: mdio: drop driver lock
+5c0e415a4b|Markus Stockhausen|Tue Jan 13 22:06:27 2026 +0100|realtek: mdio: use generic bus command function for RTL931x
+4eeac83917|Markus Stockhausen|Tue Jan 13 21:36:13 2026 +0100|realtek: mdio: use generic bus command function for RTL930x
+a89c72daf5|Markus Stockhausen|Tue Jan 13 17:41:55 2026 +0100|realtek: mdio: use generic bus command function for RTL839x
+ff17bb7839|Markus Stockhausen|Tue Jan 13 20:45:39 2026 +0100|realtek: mdio: use generic bus command function for RTL838x
+3ddee7edc4|Thomas Richard|Mon Jan 5 16:32:44 2026 +0100|kernel: add TIMERLAT_TRACER kernel config option
+c1c37b40c1|Thomas Richard|Mon Jan 5 16:31:36 2026 +0100|kernel: add OSNOISE_TRACER kernel config option
+9a584c631e|Thomas Richard|Mon Jan 5 13:54:42 2026 +0100|kernel: add HWLAT_TRACER kernel config option
+2530c99981|Thomas Richard|Wed Jan 21 13:49:32 2026 +0100|loongarch64: set PREEMPT_NONE as default preemption model
+777fc28040|Thomas Richard|Wed Jan 21 13:34:33 2026 +0100|mediatek: mt7623: set PREEMPT_NONE as default model
+e47c21acfc|Thomas Richard|Wed Jan 21 13:08:23 2026 +0100|gemini: set PREEMPT_NONE as default preemption model
+6924c16745|Thomas Richard|Wed Jan 21 11:54:14 2026 +0100|layerscape: set PREEMPT_NONE as default preemption model
+5d720117f7|Thomas Richard|Mon Jan 5 13:46:52 2026 +0100|kernel: add preemption models
 
 .....................
 

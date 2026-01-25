@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ac5a4f132|George Sapkin|Fri Jan 23 01:42:40 2026 +0200|boringssl: drop package
-a2685bfad|Daniel F. Dickinson|Wed Jan 21 05:52:13 2026 -0500|zabbix: fix agentd default user and minor issues
-88a5c2cc2|Yanase Yuki|Thu Jan 15 16:06:11 2026 +0900|banhostlist: remove package
-19dd33d12|Vladimir Ermakov|Thu Jan 22 13:45:28 2026 +0100|coredns: update to 1.14.1
+61e495e57|Vladimir Ermakov|Sat Jan 24 10:05:38 2026 +0100|go2rtc: update to 1.9.14
+81891964e|Dirk Brenken|Sat Jan 24 14:33:24 2026 +0100|adblock: update 4.5.0-2
+11aee8551|Noah Meyerhans|Thu Jan 22 16:20:11 2026 -0500|bind: bump to 9.20.18
 </details>
