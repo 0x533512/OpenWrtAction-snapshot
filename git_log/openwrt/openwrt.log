@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cf84e8ee86|Chukun Pan|Sun Aug 31 22:01:15 2025 +0800|rockchip: add HINLINK H66K / H68K support
-9de9a15427|Chukun Pan|Fri Dec 19 22:06:02 2025 +0800|uboot-rockchip: add HINLINK H66K / H68K support
-48b4160329|Markus Stockhausen|Tue Jan 13 22:15:15 2026 +0100|realtek: mdio: drop driver lock
-5c0e415a4b|Markus Stockhausen|Tue Jan 13 22:06:27 2026 +0100|realtek: mdio: use generic bus command function for RTL931x
-4eeac83917|Markus Stockhausen|Tue Jan 13 21:36:13 2026 +0100|realtek: mdio: use generic bus command function for RTL930x
-a89c72daf5|Markus Stockhausen|Tue Jan 13 17:41:55 2026 +0100|realtek: mdio: use generic bus command function for RTL839x
-ff17bb7839|Markus Stockhausen|Tue Jan 13 20:45:39 2026 +0100|realtek: mdio: use generic bus command function for RTL838x
-3ddee7edc4|Thomas Richard|Mon Jan 5 16:32:44 2026 +0100|kernel: add TIMERLAT_TRACER kernel config option
-c1c37b40c1|Thomas Richard|Mon Jan 5 16:31:36 2026 +0100|kernel: add OSNOISE_TRACER kernel config option
-9a584c631e|Thomas Richard|Mon Jan 5 13:54:42 2026 +0100|kernel: add HWLAT_TRACER kernel config option
-2530c99981|Thomas Richard|Wed Jan 21 13:49:32 2026 +0100|loongarch64: set PREEMPT_NONE as default preemption model
-777fc28040|Thomas Richard|Wed Jan 21 13:34:33 2026 +0100|mediatek: mt7623: set PREEMPT_NONE as default model
-e47c21acfc|Thomas Richard|Wed Jan 21 13:08:23 2026 +0100|gemini: set PREEMPT_NONE as default preemption model
-6924c16745|Thomas Richard|Wed Jan 21 11:54:14 2026 +0100|layerscape: set PREEMPT_NONE as default preemption model
-5d720117f7|Thomas Richard|Mon Jan 5 13:46:52 2026 +0100|kernel: add preemption models
+17d45f677b|Hauke Mehrtens|Fri Jan 23 00:13:46 2026 +0100|mt76: mt7996: fix crash when using mesh
+ac8b5526bc|Milan Krstic|Fri Jun 13 14:49:18 2025 +0000|qualcommax: ipq807x: add support for TCL LINKHUB HH500V
+8dd1be5f7b|Milan Krstic|Sat Jan 24 11:17:13 2026 +0000|qualcommax: ipq807x: add functions for bootconfig partition
+fcb988be1f|Milan Krstic|Fri Jun 13 06:56:14 2025 +0000|generic: 6.12: backport aw9523 fix can_sleep flag
+cf51728467|Markus Stockhausen|Sat Jan 24 22:43:33 2026 +0100|realtek: eth: use new prefix for ring operations
+7b89702504|Markus Stockhausen|Sat Jan 24 22:35:45 2026 +0100|realtek: eth: use new prefix for open/stop operations
+5dbfbe59bb|Markus Stockhausen|Sat Jan 24 22:17:13 2026 +0100|realtek: dsa: remove half-cooked SoC version determination
+5ebb93158e|Markus Stockhausen|Sat Jan 24 12:52:45 2026 +0100|realtek: phy: drop external RTL8218B firmware blob
+979f70cc7e|Zeyu Dong|Sat Jan 24 13:51:50 2026 -0500|ipq40xx: fix image pipeline for MR6350
+561a8858f5|Hal Martin|Tue Nov 4 20:31:04 2025 +0100|ipq40xx: enable PoE output on Meraki MR30H
+51710e9dd4|Robert Marko|Sun Jan 25 14:44:45 2026 +0100|microchipsw: lan969x: include ip-bridge and dcb tools
+4c0c7442db|Robert Marko|Sun Jan 25 12:04:04 2026 +0100|microchipsw: enable DCB by default
+7a5aa24706|Paweł Owoc|Mon Jan 19 20:56:25 2026 +0100|odhcpd: update to Git HEAD (2026-01-19)
+691aa70e16|Linus Walleij|Sat Jan 24 18:13:24 2026 +0100|gemini: create a copy-kernel for 3072k kernels
+428bcee2f8|John Christoforidis|Thu Jan 8 22:13:27 2026 +0200|qualcommax: ipq60xx: add support for TP-Link EAP620HD v3
 
 .....................
 

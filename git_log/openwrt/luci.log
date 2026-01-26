@@ -2,8 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a52d779164|Paul Donald|Sat Jan 24 15:30:04 2026 +0100|luci-app-attendedsysupgrade: spell fix
-e3478e4ebb|Dirk Brenken|Sat Jan 24 14:39:03 2026 +0100|luci-app-adblock: sync with adblock 4.5.0-2
-893a959831|Tokisaki Galaxy|Fri Jan 23 20:02:41 2026 +0800|luci-app-tailscale-community: refine UI strings
-ef8ef56430|Brian White|Fri Jan 23 21:09:33 2026 -0300|luci-theme-material: fix unreadable text
+77f8596e2a|Hannu Nyman|Sun Jan 25 08:52:33 2026 +0200|treewide: sync translations
+1aa15bef41|Hosted Weblate|Sun Jan 25 07:25:35 2026 +0100|Translated using Weblate (Portuguese (Brazil))
 </details>
