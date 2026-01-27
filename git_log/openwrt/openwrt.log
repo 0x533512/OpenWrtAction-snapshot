@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-17d45f677b|Hauke Mehrtens|Fri Jan 23 00:13:46 2026 +0100|mt76: mt7996: fix crash when using mesh
-ac8b5526bc|Milan Krstic|Fri Jun 13 14:49:18 2025 +0000|qualcommax: ipq807x: add support for TCL LINKHUB HH500V
-8dd1be5f7b|Milan Krstic|Sat Jan 24 11:17:13 2026 +0000|qualcommax: ipq807x: add functions for bootconfig partition
-fcb988be1f|Milan Krstic|Fri Jun 13 06:56:14 2025 +0000|generic: 6.12: backport aw9523 fix can_sleep flag
-cf51728467|Markus Stockhausen|Sat Jan 24 22:43:33 2026 +0100|realtek: eth: use new prefix for ring operations
-7b89702504|Markus Stockhausen|Sat Jan 24 22:35:45 2026 +0100|realtek: eth: use new prefix for open/stop operations
-5dbfbe59bb|Markus Stockhausen|Sat Jan 24 22:17:13 2026 +0100|realtek: dsa: remove half-cooked SoC version determination
-5ebb93158e|Markus Stockhausen|Sat Jan 24 12:52:45 2026 +0100|realtek: phy: drop external RTL8218B firmware blob
-979f70cc7e|Zeyu Dong|Sat Jan 24 13:51:50 2026 -0500|ipq40xx: fix image pipeline for MR6350
-561a8858f5|Hal Martin|Tue Nov 4 20:31:04 2025 +0100|ipq40xx: enable PoE output on Meraki MR30H
-51710e9dd4|Robert Marko|Sun Jan 25 14:44:45 2026 +0100|microchipsw: lan969x: include ip-bridge and dcb tools
-4c0c7442db|Robert Marko|Sun Jan 25 12:04:04 2026 +0100|microchipsw: enable DCB by default
-7a5aa24706|Paweł Owoc|Mon Jan 19 20:56:25 2026 +0100|odhcpd: update to Git HEAD (2026-01-19)
-691aa70e16|Linus Walleij|Sat Jan 24 18:13:24 2026 +0100|gemini: create a copy-kernel for 3072k kernels
-428bcee2f8|John Christoforidis|Thu Jan 8 22:13:27 2026 +0200|qualcommax: ipq60xx: add support for TP-Link EAP620HD v3
+ebf169afa6|Joe Hohertz|Thu Jan 15 14:36:41 2026 -0500|mdadm: move init before fstab init runs
+17003bb0c5|Joe Holden|Sat Aug 30 20:35:28 2025 +0000|realtek: add Zyxel GS1900-24 B1 device definition
+c4cf9da881|Joe Holden|Sat Aug 30 20:34:52 2025 +0000|realtek: use common dtsi for Zyxel GS1900-24
+1e678eb223|Stefan Kalscheuer|Sat Jan 24 09:47:56 2026 +0100|tools/mkimage: update to version 2026.01
+6796bace3e|Stefan Kalscheuer|Sat Jan 24 09:38:13 2026 +0100|uboot-tools: update to version 2026.01
+6ac2a17ebf|Markus Stockhausen|Sun Jan 25 10:23:23 2026 +0100|realtek: eth: simplify mac port control access
+fff4fe32dd|Markus Stockhausen|Sun Jan 25 18:00:35 2026 +0100|realtek: mdio: rename driver data structure from priv to ctrl
+bf9e90c94e|Hauke Mehrtens|Mon Jan 26 01:32:23 2026 +0100|kernel: add missing kernel config option
+daa36b7770|Hauke Mehrtens|Mon Jan 26 01:32:35 2026 +0100|kernel: reorder configuration options
+30378ffea4|Milan Krstic|Mon Jan 26 19:32:54 2026 +0000|qualcommax: ipq807x: fix sysupgrade for TCL LINKHUB HH500V
+118d369ea6|Álvaro Fernández Rojas|Sun Jan 25 19:44:22 2026 +0100|odhcp6c: update to Git HEAD (2026-01-25)
+0b302ec658|Felix Fietkau|Mon Jan 26 17:46:04 2026 +0000|tcpdump: add PROVIDES=tcpdump to tcpdump-tiny
+b44d4290fe|John Crispin|Mon Aug 4 07:37:47 2025 +0200|hostapd: add raw beacon report data to ubus notification
+79cd45ddee|John Crispin|Tue Jul 29 14:20:19 2025 +0200|hostapd: add association frame to taxonomy data
+c1492838f7|John Crispin|Tue Jul 29 14:04:16 2025 +0200|hostapd: add reporting detail support to RRM beacon request
 
 .....................
 
