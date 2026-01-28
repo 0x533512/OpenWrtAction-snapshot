@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-260378b73|Yanase Yuki|Wed Jan 14 17:12:34 2026 +0900|liboil: remove package
-2804ff509|Yanase Yuki|Wed Jan 14 17:16:33 2026 +0900|ostiary: remove package
-4cb00fd5f|Daniel F. Dickinson|Sun Jan 11 01:46:02 2026 -0500|python3: error on host python path too long
+c1f0e9ce1|George Sapkin|Sun Dec 28 01:24:14 2025 +0200|ci: add dependabot
 </details>

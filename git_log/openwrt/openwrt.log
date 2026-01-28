@@ -2,22 +2,17 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ebf169afa6|Joe Hohertz|Thu Jan 15 14:36:41 2026 -0500|mdadm: move init before fstab init runs
-17003bb0c5|Joe Holden|Sat Aug 30 20:35:28 2025 +0000|realtek: add Zyxel GS1900-24 B1 device definition
-c4cf9da881|Joe Holden|Sat Aug 30 20:34:52 2025 +0000|realtek: use common dtsi for Zyxel GS1900-24
-1e678eb223|Stefan Kalscheuer|Sat Jan 24 09:47:56 2026 +0100|tools/mkimage: update to version 2026.01
-6796bace3e|Stefan Kalscheuer|Sat Jan 24 09:38:13 2026 +0100|uboot-tools: update to version 2026.01
-6ac2a17ebf|Markus Stockhausen|Sun Jan 25 10:23:23 2026 +0100|realtek: eth: simplify mac port control access
-fff4fe32dd|Markus Stockhausen|Sun Jan 25 18:00:35 2026 +0100|realtek: mdio: rename driver data structure from priv to ctrl
-bf9e90c94e|Hauke Mehrtens|Mon Jan 26 01:32:23 2026 +0100|kernel: add missing kernel config option
-daa36b7770|Hauke Mehrtens|Mon Jan 26 01:32:35 2026 +0100|kernel: reorder configuration options
-30378ffea4|Milan Krstic|Mon Jan 26 19:32:54 2026 +0000|qualcommax: ipq807x: fix sysupgrade for TCL LINKHUB HH500V
-118d369ea6|Álvaro Fernández Rojas|Sun Jan 25 19:44:22 2026 +0100|odhcp6c: update to Git HEAD (2026-01-25)
-0b302ec658|Felix Fietkau|Mon Jan 26 17:46:04 2026 +0000|tcpdump: add PROVIDES=tcpdump to tcpdump-tiny
-b44d4290fe|John Crispin|Mon Aug 4 07:37:47 2025 +0200|hostapd: add raw beacon report data to ubus notification
-79cd45ddee|John Crispin|Tue Jul 29 14:20:19 2025 +0200|hostapd: add association frame to taxonomy data
-c1492838f7|John Crispin|Tue Jul 29 14:04:16 2025 +0200|hostapd: add reporting detail support to RRM beacon request
-
-.....................
-
+5cd176925e|Aleksander Jan Bajkowski|Mon Jan 26 23:49:55 2026 +0100|airoha: reduce HWRNG quality
+b59a89bde6|Bevan Weiss|Sun Sep 15 18:42:19 2024 +1000|realtek: rtl930x: Add Hasivo s1100wp-8gt-se (excl. PoE)
+c63433acd8|FUKAYA Toshikuni|Mon Jan 12 17:51:23 2026 +0900|realtek: add support for XikeStor SKS8300-8T
+38fea332d9|Markus Stockhausen|Mon Jan 26 14:34:07 2026 +0100|realtek: phy: replace hard coded pages 30/31 with define
+c2a3871387|Markus Stockhausen|Mon Jan 26 14:25:00 2026 +0100|realtek: phy: align page select register naming with upstream
+3c024c00ce|Markus Stockhausen|Mon Jan 26 14:11:09 2026 +0100|realtek: phy: cleanup RTL8214C configuration
+1d0e2859c5|Youfu Zhang|Tue Jan 27 15:11:15 2026 +0800|wifi-scripts: fix ucode mobility_domain default value
+9bdb1b4eb4|Hauke Mehrtens|Mon Jan 26 01:17:54 2026 +0100|mac80211: update to version 6.18.7
+180f53d285|Jonas Jelonek|Sun Jan 25 19:52:37 2026 +0000|realtek: pcs: rtl931x: add sequence for LC PLL
+638ccb6760|Jonas Jelonek|Sun Jan 25 19:45:37 2026 +0000|realtek: pcs: rtl93xx: improve CMU terminology
+48ada316f2|Jonas Jelonek|Sun Jan 25 19:35:44 2026 +0000|realtek: pcs: rtl931x: fix and cleanup CMU functions
+a477315f7e|Jonas Jelonek|Sun Jan 25 18:52:45 2026 +0000|realtek: pcs: rtl931x: use SerDes hw mode for CMU setup
+81f6eca5ec|Markus Stockhausen|Mon Jan 26 17:32:05 2026 +0100|realtek: pcs: rtl930x: enhance symbol error reset
 </details>

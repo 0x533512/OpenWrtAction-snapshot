@@ -1,0 +1,23 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+afe5cb3177|Tianling Shen|Tue Jan 27 21:49:21 2026 +0800|uboot-mediatek: fix typo error in dosilicon spi-nand driver
+9ebbd6be97|Tianling Shen|Tue Jan 27 18:00:45 2026 +0800|Merge Official Source
+7f2d13c2fc|Tianling Shen|Tue Jan 27 16:31:58 2026 +0800|rockchip: fix set PHY LEDs for MangoPi M28C
+180f53d285|Jonas Jelonek|Sun Jan 25 19:52:37 2026 +0000|realtek: pcs: rtl931x: add sequence for LC PLL
+638ccb6760|Jonas Jelonek|Sun Jan 25 19:45:37 2026 +0000|realtek: pcs: rtl93xx: improve CMU terminology
+48ada316f2|Jonas Jelonek|Sun Jan 25 19:35:44 2026 +0000|realtek: pcs: rtl931x: fix and cleanup CMU functions
+a477315f7e|Jonas Jelonek|Sun Jan 25 18:52:45 2026 +0000|realtek: pcs: rtl931x: use SerDes hw mode for CMU setup
+81f6eca5ec|Markus Stockhausen|Mon Jan 26 17:32:05 2026 +0100|realtek: pcs: rtl930x: enhance symbol error reset
+ebf169afa6|Joe Hohertz|Thu Jan 15 14:36:41 2026 -0500|mdadm: move init before fstab init runs
+17003bb0c5|Joe Holden|Sat Aug 30 20:35:28 2025 +0000|realtek: add Zyxel GS1900-24 B1 device definition
+c4cf9da881|Joe Holden|Sat Aug 30 20:34:52 2025 +0000|realtek: use common dtsi for Zyxel GS1900-24
+1e678eb223|Stefan Kalscheuer|Sat Jan 24 09:47:56 2026 +0100|tools/mkimage: update to version 2026.01
+6796bace3e|Stefan Kalscheuer|Sat Jan 24 09:38:13 2026 +0100|uboot-tools: update to version 2026.01
+6ac2a17ebf|Markus Stockhausen|Sun Jan 25 10:23:23 2026 +0100|realtek: eth: simplify mac port control access
+fff4fe32dd|Markus Stockhausen|Sun Jan 25 18:00:35 2026 +0100|realtek: mdio: rename driver data structure from priv to ctrl
+
+.....................
+
+</details>
