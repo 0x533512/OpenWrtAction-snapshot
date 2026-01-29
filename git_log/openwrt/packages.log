@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c1f0e9ce1|George Sapkin|Sun Dec 28 01:24:14 2025 +0200|ci: add dependabot
+808b3e368|Dirk Brenken|Wed Jan 28 20:12:59 2026 +0100|adblock: update 4.5.0-4
+32197de82|dependabot[bot]|Wed Jan 28 00:05:00 2026 +0000|ci: bump actions/checkout from 5 to 6
+34f1c5e37|George Sapkin|Tue Jan 27 04:55:51 2026 +0200|samba4: fix compiling bundled Kerberos
+94c04bee0|George Sapkin|Tue Jan 27 08:09:10 2026 +0200|samba4: remove pthread dependency
+c71c0cfff|George Sapkin|Tue Jan 27 04:55:03 2026 +0200|samba4: sort arguments and dependencies
 </details>

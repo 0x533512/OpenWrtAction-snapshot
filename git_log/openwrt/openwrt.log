@@ -2,17 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5cd176925e|Aleksander Jan Bajkowski|Mon Jan 26 23:49:55 2026 +0100|airoha: reduce HWRNG quality
-b59a89bde6|Bevan Weiss|Sun Sep 15 18:42:19 2024 +1000|realtek: rtl930x: Add Hasivo s1100wp-8gt-se (excl. PoE)
-c63433acd8|FUKAYA Toshikuni|Mon Jan 12 17:51:23 2026 +0900|realtek: add support for XikeStor SKS8300-8T
-38fea332d9|Markus Stockhausen|Mon Jan 26 14:34:07 2026 +0100|realtek: phy: replace hard coded pages 30/31 with define
-c2a3871387|Markus Stockhausen|Mon Jan 26 14:25:00 2026 +0100|realtek: phy: align page select register naming with upstream
-3c024c00ce|Markus Stockhausen|Mon Jan 26 14:11:09 2026 +0100|realtek: phy: cleanup RTL8214C configuration
-1d0e2859c5|Youfu Zhang|Tue Jan 27 15:11:15 2026 +0800|wifi-scripts: fix ucode mobility_domain default value
-9bdb1b4eb4|Hauke Mehrtens|Mon Jan 26 01:17:54 2026 +0100|mac80211: update to version 6.18.7
-180f53d285|Jonas Jelonek|Sun Jan 25 19:52:37 2026 +0000|realtek: pcs: rtl931x: add sequence for LC PLL
-638ccb6760|Jonas Jelonek|Sun Jan 25 19:45:37 2026 +0000|realtek: pcs: rtl93xx: improve CMU terminology
-48ada316f2|Jonas Jelonek|Sun Jan 25 19:35:44 2026 +0000|realtek: pcs: rtl931x: fix and cleanup CMU functions
-a477315f7e|Jonas Jelonek|Sun Jan 25 18:52:45 2026 +0000|realtek: pcs: rtl931x: use SerDes hw mode for CMU setup
-81f6eca5ec|Markus Stockhausen|Mon Jan 26 17:32:05 2026 +0100|realtek: pcs: rtl930x: enhance symbol error reset
+42f9b095d6|Aleksander Jan Bajkowski|Mon Jan 26 23:25:00 2026 +0100|iw: replace patch with upstream version
+788958880b|Aleksander Jan Bajkowski|Mon Dec 1 23:11:17 2025 +0100|airoha: an7581: add switch ports interrups
+6f07cf4fbc|Roc Lai|Wed Jan 28 08:43:05 2026 +0800|kexec-tools: add zstd to package dependencies
+df6db01f4f|Ivan Pavlov|Wed Jan 28 17:01:36 2026 +0300|openssl: update to 3.5.5
+f8a6798bf3|Ziyang Huang|Thu Jan 8 22:38:46 2026 +0800|airoha: an7581: enable USB support
+141d04a4d6|Ivan Pavlov|Tue Jan 27 17:41:05 2026 +0300|tcpdump: update to 4.99.6
+9a7ddcac3f|Ivan Pavlov|Tue Jan 27 17:40:18 2026 +0300|libpcap: update to 1.10.6
+6879c8ea53|Jonas Jelonek|Fri Jan 16 09:32:52 2026 +0000|realtek: pcs: add XSG write operations
+0a1e1016b4|Jonas Jelonek|Sun Jan 18 17:58:58 2026 +0000|realtek: rtl930x: move SerDes mapping from MDIO to PCS
+136cec0e00|Jonas Jelonek|Sun Jan 18 17:26:37 2026 +0000|realtek: pcs: introduce dedicated SerDes ops
+bc8424ab89|Linus Walleij|Wed Jan 28 01:35:20 2026 +0100|ixp4xx: select the GPIO keys input package
+a7cefd9a5c|Linus Walleij|Wed Jan 28 01:31:38 2026 +0100|ixp4xx: select CONFIG_BLK_DEV_LOOP
+434e1461b2|Felix Fietkau|Wed Jan 28 17:56:30 2026 +0000|wifi-scripts: iwinfo.uc: fix null reference in info()
+b7be541dcf|Felix Fietkau|Wed Jan 28 11:49:17 2026 +0000|hostapd: fix compile error in basic variant
+e338446b6b|Felix Fietkau|Wed Jan 28 11:26:26 2026 +0000|mt76: update to Git HEAD (2026-01-28)
+
+.....................
+
 </details>

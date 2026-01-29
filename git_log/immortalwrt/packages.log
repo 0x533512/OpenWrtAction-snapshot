@@ -2,22 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-06eb18fd2|Tianling Shen|Tue Jan 27 18:26:09 2026 +0800|Node.js: sync with upstream source
-a962122fd|Tianling Shen|Tue Jan 27 18:23:52 2026 +0800|Merge Official Source
-260378b73|Yanase Yuki|Wed Jan 14 17:12:34 2026 +0900|liboil: remove package
-2804ff509|Yanase Yuki|Wed Jan 14 17:16:33 2026 +0900|ostiary: remove package
-4cb00fd5f|Daniel F. Dickinson|Sun Jan 11 01:46:02 2026 -0500|python3: error on host python path too long
-6fb525386|George Sapkin|Fri Jan 23 00:29:12 2026 +0200|crowdsec: remove go version tag
-8958c991c|George Sapkin|Wed Jan 21 02:53:04 2026 +0200|golang: add generic package definition
-ca501ee61|George Sapkin|Thu Jan 22 02:55:19 2026 +0200|golang: add versioned package for 1.25
-662972a25|George Sapkin|Thu Jan 1 16:19:55 2026 +0200|golang: split bootstrap into a separate package
-51aa478be|George Sapkin|Thu Jan 1 16:02:01 2026 +0200|golang: add SPDX license identifiers
-c32daaa2a|Eugenio Pérez|Sun Jan 25 17:20:32 2026 +0200|domoticz: fix chown call
-9df8a2b58|Dirk Brenken|Sun Jan 25 15:57:35 2026 +0100|adblock: update 4.5.0-3
-dbaeeb38d|David Mandy|Sun Jan 18 16:12:26 2026 +0800|golang: bump to 1.25.6
-99076937b|Hannu Nyman|Sun Jan 25 12:56:01 2026 +0200|irqbalance: update to version 1.9.5
-80618e704|Xu Wang|Mon Nov 24 08:45:30 2025 -0500|tinyproxy: support DisableViaHeader option
-
-.....................
-
+7ca974fa7|Interesting Gang|Sat Jan 24 09:48:10 2026 +0800|geoview: update to 0.2.5
 </details>
