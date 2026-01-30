@@ -2,5 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-30341aeba9|Dirk Brenken|Wed Jan 28 20:15:55 2026 +0100|luci-app-adblock: sync with adblock 4.5.0-4
+a8e71430d2|Stan Grishin|Wed Jan 28 00:23:53 2026 +0000|luci-app-adblock-fast: update to 1.2.1-r3
+bc2d7b5b1a|Youfu Zhang|Thu Jan 29 03:06:15 2026 +0000|luci-mod-network: fix placeholder for roaming identifiers
+a8328056e4|Paul Donald|Thu Jan 29 19:12:10 2026 +0100|luci-mod-system: make repokeys more future proof
+9a07b1b79d|Paul Donald|Thu Jan 29 19:02:12 2026 +0100|luci-base: fix tab handling in modal dialogues
+fd8c8a4fe3|Paul Donald|Thu Jan 29 06:09:01 2026 +0100|luci-app-splash: drop old Lua app
+4d04877e0f|Paul Donald|Wed Jan 28 06:04:27 2026 +0100|luci-base: fix click and drag handling
 </details>

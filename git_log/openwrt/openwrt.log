@@ -2,22 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-42f9b095d6|Aleksander Jan Bajkowski|Mon Jan 26 23:25:00 2026 +0100|iw: replace patch with upstream version
-788958880b|Aleksander Jan Bajkowski|Mon Dec 1 23:11:17 2025 +0100|airoha: an7581: add switch ports interrups
-6f07cf4fbc|Roc Lai|Wed Jan 28 08:43:05 2026 +0800|kexec-tools: add zstd to package dependencies
-df6db01f4f|Ivan Pavlov|Wed Jan 28 17:01:36 2026 +0300|openssl: update to 3.5.5
-f8a6798bf3|Ziyang Huang|Thu Jan 8 22:38:46 2026 +0800|airoha: an7581: enable USB support
-141d04a4d6|Ivan Pavlov|Tue Jan 27 17:41:05 2026 +0300|tcpdump: update to 4.99.6
-9a7ddcac3f|Ivan Pavlov|Tue Jan 27 17:40:18 2026 +0300|libpcap: update to 1.10.6
-6879c8ea53|Jonas Jelonek|Fri Jan 16 09:32:52 2026 +0000|realtek: pcs: add XSG write operations
-0a1e1016b4|Jonas Jelonek|Sun Jan 18 17:58:58 2026 +0000|realtek: rtl930x: move SerDes mapping from MDIO to PCS
-136cec0e00|Jonas Jelonek|Sun Jan 18 17:26:37 2026 +0000|realtek: pcs: introduce dedicated SerDes ops
-bc8424ab89|Linus Walleij|Wed Jan 28 01:35:20 2026 +0100|ixp4xx: select the GPIO keys input package
-a7cefd9a5c|Linus Walleij|Wed Jan 28 01:31:38 2026 +0100|ixp4xx: select CONFIG_BLK_DEV_LOOP
-434e1461b2|Felix Fietkau|Wed Jan 28 17:56:30 2026 +0000|wifi-scripts: iwinfo.uc: fix null reference in info()
-b7be541dcf|Felix Fietkau|Wed Jan 28 11:49:17 2026 +0000|hostapd: fix compile error in basic variant
-e338446b6b|Felix Fietkau|Wed Jan 28 11:26:26 2026 +0000|mt76: update to Git HEAD (2026-01-28)
-
-.....................
-
+c5479464ad|Kenneth Kasilag|Tue Jan 27 01:30:32 2026 +0000|qualcommbe: add pwm support
+92a94dc9b0|Tim Harvey|Mon Jan 26 17:17:26 2026 -0800|kernel: modules: Add tpm-tis-spi
+71b97c89e5|Milan Krstic|Thu Jan 29 07:49:20 2026 +0000|qualcommax: ipq60xx: fix bootconfig script sysupgrade problem
+ea7d79dce0|Milan Krstic|Wed Jan 28 20:23:17 2026 +0000|qualcommax: ipq807x: fix bootconfig script sysupgrade problem
+37b13b6ea6|Linus Walleij|Wed Jan 28 01:22:52 2026 +0100|gemini: select the right GPIO input package
+f52f1a85d1|Linus Walleij|Mon Jan 26 10:18:57 2026 +0100|gemini: set disk activity on orange LED
+db7a2fb217|Linus Walleij|Sun Jan 25 21:01:47 2026 +0100|gemini: pad storlink reference firmware to 128kb
+04bc0b6d3f|Linus Walleij|Sun Jan 25 19:01:45 2026 +0100|gemini: Fix up sysupgrade platform.sh script
 </details>
