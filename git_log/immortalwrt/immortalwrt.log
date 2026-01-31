@@ -1,0 +1,23 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b8c93e2c66|Tianling Shen|Fri Jan 30 09:55:33 2026 +0800|Merge Official Source
+c5479464ad|Kenneth Kasilag|Tue Jan 27 01:30:32 2026 +0000|qualcommbe: add pwm support
+92a94dc9b0|Tim Harvey|Mon Jan 26 17:17:26 2026 -0800|kernel: modules: Add tpm-tis-spi
+71b97c89e5|Milan Krstic|Thu Jan 29 07:49:20 2026 +0000|qualcommax: ipq60xx: fix bootconfig script sysupgrade problem
+ea7d79dce0|Milan Krstic|Wed Jan 28 20:23:17 2026 +0000|qualcommax: ipq807x: fix bootconfig script sysupgrade problem
+37b13b6ea6|Linus Walleij|Wed Jan 28 01:22:52 2026 +0100|gemini: select the right GPIO input package
+f52f1a85d1|Linus Walleij|Mon Jan 26 10:18:57 2026 +0100|gemini: set disk activity on orange LED
+db7a2fb217|Linus Walleij|Sun Jan 25 21:01:47 2026 +0100|gemini: pad storlink reference firmware to 128kb
+04bc0b6d3f|Linus Walleij|Sun Jan 25 19:01:45 2026 +0100|gemini: Fix up sysupgrade platform.sh script
+42f9b095d6|Aleksander Jan Bajkowski|Mon Jan 26 23:25:00 2026 +0100|iw: replace patch with upstream version
+788958880b|Aleksander Jan Bajkowski|Mon Dec 1 23:11:17 2025 +0100|airoha: an7581: add switch ports interrups
+6f07cf4fbc|Roc Lai|Wed Jan 28 08:43:05 2026 +0800|kexec-tools: add zstd to package dependencies
+df6db01f4f|Ivan Pavlov|Wed Jan 28 17:01:36 2026 +0300|openssl: update to 3.5.5
+f8a6798bf3|Ziyang Huang|Thu Jan 8 22:38:46 2026 +0800|airoha: an7581: enable USB support
+141d04a4d6|Ivan Pavlov|Tue Jan 27 17:41:05 2026 +0300|tcpdump: update to 4.99.6
+
+.....................
+
+</details>

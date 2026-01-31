@@ -2,9 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b19c784ca|George Sapkin|Wed Jan 28 02:49:38 2026 +0200|ci: add day of the week and labels to dependabot
-e1f891ca9|Stan Grishin|Wed Jan 28 00:19:37 2026 +0000|adblock-fast: update to 1.2.1-3
-00fb395a1|Javier Marcet|Sun Jan 25 20:38:09 2026 +0100|docker-compose: Update to version 5.0.2
-d5ec989a4|Georgi Valkov|Wed Jan 28 20:21:28 2026 +0200|libimobiledevice: fix dependency on libtatsu
-1199a4035|Lin Fan|Tue Jan 20 14:49:24 2026 +0800|ddns-scripts: add namesilo.com
+0cb66163d|George Sapkin|Fri Jan 30 00:28:47 2026 +0200|ci: bump HyperStickler to v1-rc.1
 </details>
