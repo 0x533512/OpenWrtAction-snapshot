@@ -2,5 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0cb66163d|George Sapkin|Fri Jan 30 00:28:47 2026 +0200|ci: bump HyperStickler to v1-rc.1
+09c148177|Nate Robinson|Fri Jan 30 22:38:15 2026 -0500|tailscale: disable logging
+66459cd6e|Hannu Nyman|Sat Jan 31 11:20:43 2026 +0200|xz: update to 5.8.2
+6ac97228a|xiao bo|Fri Jan 30 23:32:44 2026 +0800|sing-box: update to 1.12.18
+cdc6ebefc|Sandro Jäckel|Fri Jan 30 18:03:17 2026 +0100|tailscale: update to 1.94.1
+b81df06b4|Rosen Penev|Thu Jan 29 20:55:29 2026 -0800|faad2: update to 2.11.2
+5658afa60|Til Kaiser|Fri Jan 30 18:03:40 2026 +0100|mstflint: update to 4.34.1-3
 </details>

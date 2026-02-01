@@ -2,12 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-bca6c2481c|Stefan Kalscheuer|Fri Jan 23 19:13:25 2026 +0100|uboot-mvebu: update to version 2026.01
-24af2fefbf|Alexey Lotosh|Sat Jan 17 19:01:06 2026 +0300|mediatek: add support for netis NX62
-cd51f0c424|John Audia|Sun Jan 11 07:41:21 2026 -0500|linux-firmware: update to 20260110
-1977301b5f|Linus Walleij|Thu Jan 29 23:40:50 2026 +0100|gemini: use tar stream to write firmware
-8ae035c1ab|Miguel Fuertes|Sun Jan 18 16:51:22 2026 +0100|ramips: add support for TP-Link TL-MR6400 v7
-ee0b160acc|Hirokazu MORIKAWA|Fri Jan 30 10:14:53 2026 +0900|kernel: revert ip6_tunnel use skb_vlan_inet_prepare() in __ip6_tnl_rcv()
-268a0cb363|Andrew LaMarche|Thu Jan 29 14:39:05 2026 +0000|kernel: fix rtl8261n driver for non-realtek chips
-02f40d63e2|Rosen Penev|Sun Dec 7 18:11:02 2025 -0800|lantiq: add missing WAN MAC override
+16239e90ad|Linus Walleij|Fri Jan 30 00:24:31 2026 +0100|kernel: mtd: backport upstream physmap OF partition order
+1bbb60184d|Felix Fietkau|Sat Jan 31 16:56:53 2026 +0000|wifi-scripts: fix ieee80211w override for psk-sae/sae-mixed
+9d496dfb98|Felix Fietkau|Sat Jan 31 14:03:05 2026 +0000|uclient: update to Git HEAD (2026-01-31)
+6952844436|Burak Aydos|Thu Jan 29 22:25:04 2026 +0300|lantiq: xrx200: add env-size for P-2812HNU-F1 u-boot-env
+b59a4c97c9|Markus Stockhausen|Tue Jan 27 14:32:50 2026 +0100|realtek: mdio: convert rtl838x i/o to regmap
+3200085a70|Markus Stockhausen|Tue Jan 27 13:48:04 2026 +0100|realtek: mdio switch run command to regmap
+b8ed99c2ab|Markus Stockhausen|Tue Jan 27 10:53:43 2026 +0100|realtek: mdio: adapt command function signature
+40788a7d0f|Markus Stockhausen|Tue Jan 27 08:44:50 2026 +0100|realtek: mdio: enhance read/write function signature
+5731993557|Markus Stockhausen|Tue Jan 27 08:33:34 2026 +0100|realtek: mdio: add regmap to bus structure
+75fd2497ac|Markus Stockhausen|Fri Jan 30 18:16:02 2026 +0100|realtek: dts: add LGS328C port 21 definition
 </details>
