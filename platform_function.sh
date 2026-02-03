@@ -260,11 +260,17 @@ function Func_DIY2_Script() {
 
 # make defconfig函数
 function Func_Defconfig(){
+    # 获取第一个参数：是否从源注入配置
+    local inject_from_source=$1
     echo
-    Func_LogMessage "开始将OpenwrtAction中config文件夹下的${config_name}注入源码中,准备make toolchain...." "Start to inject ${config_name} under the config folder in OpenwrtAction into source code..."
-    sleep 2s
-    echo
-    cp /home/${user_name}/OpenWrtAction/$config_dir/${config_name} /home/${user_name}/${openwrt_dir}/.config
+    # 判断是否执行注入操作
+    if [ "$inject_from_source" = "true" ]; then
+        Func_LogMessage "开始将OpenwrtAction中config文件夹下的${config_name}注入源码中..." "Start to inject ${config_name} under the config folder in OpenwrtAction into source code..."
+        sleep 2s
+        cp "/home/${user_name}/OpenWrtAction/$config_dir/${config_name}" "/home/${user_name}/${openwrt_dir}/.config"
+    else
+        Func_LogMessage "跳过配置注入，直接使用现有配置。" "Skipping config injection, using existing configuration."
+    fi
 
     cp /home/${user_name}/${openwrt_dir}/.config /home/${user_name}/${log_folder_name}/${folder_name}/.config_old
     # echo -e "\nCONFIG_ALL=y" >> .config
@@ -435,7 +441,9 @@ function Func_MakeFirmware() {
 
 # 编译函数
 function Func_Compile_Firmware() {
-    
+    # 获取第一个参数：是否从源注入配置
+    local inject_from_source=$1
+
     Func_SyncGitSource
 
     Func_CleanCompile
@@ -448,7 +456,7 @@ function Func_Compile_Firmware() {
 
     Func_Copy_Backgroundfiles "1" "${config_name}"
 
-    Func_Defconfig
+    Func_Defconfig "$inject_from_source"
     
     Func_MakeDownload
 
@@ -518,7 +526,7 @@ function Func_SelectBranch(){
         done
 
         Func_LogMessage "" ""  # 空行分隔
-        Func_LogMessage "请输入分支编号使用该分支，或直接回车使用默认分支（$openwrt_branch" \
+        Func_LogMessage "请输入分支编号使用该分支，或直接回车使用默认分支（$openwrt_branch)" \
                         "Enter the branch number to use it, or press Enter directly to use the default branch ($openwrt_branch):"
 
         read -r choice
@@ -603,7 +611,7 @@ function Func_Main() {
         Func_LogMessage "你接下来要干啥？？？" "What are you going to do next? ? ?"
         Func_LogMessage "将会在$timer秒后自动选择默认值" "The default value will be automatically selected after $timer seconds"
         Func_LogMessage "1. 根据config自动编译固件。(默认)" "1. Automatically compile the firmware according to config. (default) "
-        Func_LogMessage "2. 我要配置config，配置完毕后自动同步回OpenwrtAction。" "2. I want to configure config, and automatically synchronize back to OpenwrtAction after configuration."
+        Func_LogMessage "2. 我要配置config。" "2. I want to configure config."
         read -t $timer num
         if [ ! -n "$num" ]; then
             num=1
@@ -615,7 +623,7 @@ function Func_Main() {
             Func_LogMessage "你接下来要干啥？？？" "What are you going to do next? ? ?"
             Func_LogMessage "将会在$timer秒后自动选择默认值" "The default value will be automatically selected after $timer seconds"
             Func_LogMessage "1. 根据config自动编译固件。(默认)" "1.Automatically compile the firmware according to config. (default)"
-            Func_LogMessage "2. 我要配置config，配置完毕后自动同步回OpenwrtAction。" "2.I want to configure config, and automatically synchronize back to OpenwrtAction after configuration."
+            Func_LogMessage "2. 我要配置config。" "2.I want to configure config"
             read -t $timer num
             if [ ! -n "$num" ]; then
                 num=1
@@ -624,7 +632,7 @@ function Func_Main() {
         done
 
         if [[ $num == 1 ]]; then
-            Func_Compile_Firmware
+            Func_Compile_Firmware "true"
         fi
 
         if [[ $num == 2 ]]; then
@@ -661,8 +669,7 @@ function Func_Main() {
 
             cd /home/${user_name}/${openwrt_dir}
             make menuconfig
-            cp /home/${user_name}/${openwrt_dir}/.config /home/${user_name}/OpenWrtAction/$config_dir/${config_name}
-            cd /home/${user_name}/OpenWrtAction
+            
 
             if [ ! -n "$(git config --global user.email)" ]; then
                 Func_LogSuccess "请输入git Global user.email:" "Please enter git Global user.email:"
@@ -684,12 +691,37 @@ function Func_Main() {
                 git config --global user.email "$gitUserName"
             fi
 
-            if [ -n "$(git status -s)" ]; then
-                git add .
-                git commit -m "update $config_name from local bash"
-                git push origin
-                Func_LogSuccess "已将新配置的config同步回OpenwrtAction" "The newly configured config has been synchronized back to OpenwrtAction"
-                sleep 2s
+            Func_LogMessage "是否将新配置的config提交并同步回OpenwrtAction远程仓库？" "Do you want to commit and push the new config to OpenwrtAction remote repository?"
+            Func_LogMessage "将会在$timer秒后自动选择默认值" "The default value will be automatically selected after $timer seconds"
+            Func_LogMessage "1. 是(默认值)" "1. Yes(Default)"
+            Func_LogMessage "2. 不提交" "2. No"
+            read -t $timer is_push_config
+            if [ ! -n "$is_push_config" ]; then
+                is_push_config=1
+            fi
+            until [[ $is_push_config -ge 1 && $is_push_config -le 2 ]]; do
+                Func_LogError "输入无效，请重新输入" "Invalid input, please re-enter"
+                Func_LogMessage "是否将新配置的config提交并同步回OpenwrtAction远程仓库？" "Do you want to commit and push the new config to OpenwrtAction remote repository?"
+                Func_LogMessage "1. 是(默认值)" "1. Yes(Default)"
+                Func_LogMessage "2. 不提交" "2. No"
+                read -t $timer is_push_config
+                if [ ! -n "$is_push_config" ]; then
+                    is_push_config=1
+                fi
+            done
+
+            if [[ $is_push_config == 1 ]]; then
+                cp /home/${user_name}/${openwrt_dir}/.config /home/${user_name}/OpenWrtAction/$config_dir/${config_name}
+                cd /home/${user_name}/OpenWrtAction
+                if [ -n "$(git status -s)" ]; then
+                    git add .
+                    git commit -m "update $config_name from local bash"
+                    git push origin
+                    Func_LogSuccess "已将新配置的config同步回OpenwrtAction" "The newly configured config has been synchronized back to OpenwrtAction"
+                    sleep 2s
+                fi
+            else
+                Func_LogSuccess "跳过git提交操作" "Skipped git commit operation"
             fi
 
             Func_LogMessage "是否根据新的config编译？" "Is it compiled according to the new config?"
@@ -714,7 +746,13 @@ function Func_Main() {
             done
 
             if [[ $num_continue == 1 ]]; then
-                Func_Compile_Firmware
+                Func_Defconfig "false"
+                
+                Func_MakeDownload
+
+                Func_MakeToolchain
+
+                Func_MakeFirmware
             else
                 exit
             fi
@@ -807,7 +845,7 @@ function Func_Main() {
         if [[ $num_continue == 1 ]]; then
             Func_Copy_Backgroundfiles "1" "${config_name}"
 
-            Func_Defconfig
+            Func_Defconfig "true"
             
             Func_MakeDownload
 
