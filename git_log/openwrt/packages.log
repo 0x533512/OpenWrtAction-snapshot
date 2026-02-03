@@ -2,8 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-75146ea2b|Daniel F. Dickinson|Sun Jan 25 18:11:10 2026 -0500|zabbix: deduplicate and reorganize package defines
-0a897f704|Daniel F. Dickinson|Sun Jan 25 22:56:08 2026 -0500|zabbix: drop unwanted file and wrong BUILD_VARIANT
-2dc536909|George Sapkin|Sat Jan 31 22:58:46 2026 +0200|yt-dlp: bump to 2026.01.29
-505ca0a0d|Philip Prindeville|Wed Dec 10 14:50:48 2025 -0700|bind: backport patch replace automatic empty zones
+00f5b1531|Rosen Penev|Thu Jan 29 21:26:43 2026 -0800|ffmpeg: update to 6.1.4
+5657eb0e2|George Sapkin|Thu Jan 29 02:17:26 2026 +0200|golang: split src into separate packages
+6f4155c0a|George Sapkin|Sat Jan 31 02:44:52 2026 +0200|golang: install into lib instead of share
+a6e94447f|George Sapkin|Fri Jan 30 22:58:49 2026 +0200|golang: fix missing dependency check
+439668260|George Sapkin|Fri Jan 30 08:04:42 2026 +0200|golang: fix generating zbootstrap
+d7e97387d|George Sapkin|Fri Jan 30 07:36:02 2026 +0200|golang: don't set GO_LDSO
+97566a830|George Sapkin|Thu Jan 29 02:09:06 2026 +0200|golang: avoid expanding Makefile variables
+4fd3857be|George Sapkin|Sun Feb 1 02:35:47 2026 +0200|yt-dlp: bump to 2026.01.31
 </details>

@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b7cd16dba3|Felix Fietkau|Sun Feb 1 19:17:27 2026 +0000|hostapd: fix dealing with required interface restart in AP+STA mode
-29bb3f6b96|Felix Fietkau|Sun Feb 1 18:31:36 2026 +0000|mac80211: fix AP+STA on DFS channels
-8e3de10b44|Felix Fietkau|Sun Feb 1 15:38:53 2026 +0000|mac80211: improve patch to allow grace period for DFS
-7a8e2efed5|Aryaman Srivastava|Thu Jan 15 23:13:47 2026 +0530|ramips: add support for D-Link DIR-1360 A1
-0bd6a89561|John Audia|Fri Jan 30 15:37:22 2026 -0500|kernel: bump 6.12 to 6.12.68
-4d71c767c4|Daniel Golle|Fri Jan 30 14:31:36 2026 +0000|kernel: mtk_eth_soc: fix memory leak in downstream patch
-d1a9f876f3|Linus Lüssing|Wed May 7 18:40:40 2025 +0200|realtek: replace additional "magic numbers" with macros
-e9398422e6|Linus Lüssing|Thu May 15 02:51:14 2025 +0200|realtek: change function prefixes from rtl83xx_ to rtldsa_
-71da3a9f48|Linus Lüssing|Fri Jan 30 22:49:12 2026 +0100|realtek: rtl931x: fix IPv4 unknown-mc portmask debug output
-66880d12c3|Jonas Jelonek|Sun Jan 25 23:28:14 2026 +0000|realtek: pcs: avoid unneeded SerDes reconfiguration
-356ceb43ec|Jonas Jelonek|Sun Jan 25 23:10:39 2026 +0000|realtek: pcs: move mode mapping to generic pcs_config
-6d4e9c2d48|Bevan Weiss|Mon Jan 19 19:05:31 2026 +1100|realtek: rtl838x_eth: Use printk MAC specifier instead of raw hex
-401ec439a2|Markus Stockhausen|Fri Jan 30 14:05:59 2026 +0100|realtek: eth: fix features
-0e01191e08|Markus Stockhausen|Fri Jan 30 14:00:49 2026 +0100|realtek: eth: cleanup after transmit function switch
-41300fd88a|Markus Stockhausen|Fri Jan 30 13:58:05 2026 +0100|realtek: eth: refactor transmit function
+2651a6ced9|Mikhail Zhilkin|Fri Jan 30 20:23:09 2026 +0300|mediatek: routerich be7200: fix usb issue
+6adcd5fa3b|Jonas Jelonek|Mon Feb 2 19:31:11 2026 +0000|realtek: eth: rtl931x: reduce logging of special packet trap
+017b26f2e7|Felix Fietkau|Mon Feb 2 17:15:41 2026 +0000|hostapd: add status ubus method
+c1a9e35a77|Markus Stockhausen|Sun Feb 1 19:35:45 2026 +0100|realtek: drop legacy I/O functions
+d76eb4113b|Markus Stockhausen|Sun Feb 1 19:34:29 2026 +0100|realtek: mdio: convert RTL93xx reset to regmap
+7d222e69f7|Markus Stockhausen|Sun Feb 1 19:21:29 2026 +0100|realtek: mdio: convert RTL83xx reset to regmap
+1c0ffd816b|Markus Stockhausen|Sun Feb 1 19:16:07 2026 +0100|realtek: mdio: convert debug output to regmap
+9362d6222b|Markus Stockhausen|Sun Feb 1 19:11:05 2026 +0100|realtek: mdio: convert RTL931x I/O to regmap
+9eeb7fe594|Markus Stockhausen|Sun Feb 1 18:42:13 2026 +0100|realtek: mdio: convert RTL930x I/O to regmap
+46c4b76e82|Markus Stockhausen|Sun Feb 1 18:17:35 2026 +0100|realtek: mdio: convert RTL839x I/O to regmap
+0a576dec74|Paul Donald|Sat Jan 31 15:52:21 2026 +0100|wireguard-tools: enable reload without teardown
+148207730a|Paul Donald|Sat Jan 31 16:01:44 2026 +0100|wireguard-tools: avoid temp file for peer generation
+97789875d5|Paul Donald|Sat Jan 31 15:47:30 2026 +0100|wireguard-tools: avoid temp file for key gen
+400742a855|Paul Donald|Sat Jan 31 15:56:28 2026 +0100|wireguard-tools: add protocol renew handler
+d59b360cee|Paul Donald|Sat Jan 31 15:53:41 2026 +0100|wireguard-tools: detect address changes at reload
 
 .....................
 
