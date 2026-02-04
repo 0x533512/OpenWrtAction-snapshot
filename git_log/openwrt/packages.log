@@ -2,12 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-00f5b1531|Rosen Penev|Thu Jan 29 21:26:43 2026 -0800|ffmpeg: update to 6.1.4
-5657eb0e2|George Sapkin|Thu Jan 29 02:17:26 2026 +0200|golang: split src into separate packages
-6f4155c0a|George Sapkin|Sat Jan 31 02:44:52 2026 +0200|golang: install into lib instead of share
-a6e94447f|George Sapkin|Fri Jan 30 22:58:49 2026 +0200|golang: fix missing dependency check
-439668260|George Sapkin|Fri Jan 30 08:04:42 2026 +0200|golang: fix generating zbootstrap
-d7e97387d|George Sapkin|Fri Jan 30 07:36:02 2026 +0200|golang: don't set GO_LDSO
-97566a830|George Sapkin|Thu Jan 29 02:09:06 2026 +0200|golang: avoid expanding Makefile variables
-4fd3857be|George Sapkin|Sun Feb 1 02:35:47 2026 +0200|yt-dlp: bump to 2026.01.31
+081b7043c|Christopher Obbard|Tue Feb 3 12:24:08 2026 +0000|ddns-scripts: Fix Hetzner Cloud naming
+acd651050|John Audia|Mon Feb 2 05:51:34 2026 -0500|procps-ng: add myself as maintainer
+ade5acd4b|John Audia|Mon Feb 2 05:47:52 2026 -0500|procps-ng: update to 4.0.6
+29abee184|John Audia|Mon Feb 2 15:23:32 2026 -0500|tree: update to 2.3.1
+5ee205bd3|Christopher Obbard|Sat Jan 31 02:47:44 2026 +0100|ddns-scripts: add Hetzner Cloud support
+f171043ce|Philip Prindeville|Mon Feb 2 13:17:10 2026 -0700|isc-dhcp: replacing automatic empty needs addzone
 </details>

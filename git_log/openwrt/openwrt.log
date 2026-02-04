@@ -2,22 +2,19 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2651a6ced9|Mikhail Zhilkin|Fri Jan 30 20:23:09 2026 +0300|mediatek: routerich be7200: fix usb issue
-6adcd5fa3b|Jonas Jelonek|Mon Feb 2 19:31:11 2026 +0000|realtek: eth: rtl931x: reduce logging of special packet trap
-017b26f2e7|Felix Fietkau|Mon Feb 2 17:15:41 2026 +0000|hostapd: add status ubus method
-c1a9e35a77|Markus Stockhausen|Sun Feb 1 19:35:45 2026 +0100|realtek: drop legacy I/O functions
-d76eb4113b|Markus Stockhausen|Sun Feb 1 19:34:29 2026 +0100|realtek: mdio: convert RTL93xx reset to regmap
-7d222e69f7|Markus Stockhausen|Sun Feb 1 19:21:29 2026 +0100|realtek: mdio: convert RTL83xx reset to regmap
-1c0ffd816b|Markus Stockhausen|Sun Feb 1 19:16:07 2026 +0100|realtek: mdio: convert debug output to regmap
-9362d6222b|Markus Stockhausen|Sun Feb 1 19:11:05 2026 +0100|realtek: mdio: convert RTL931x I/O to regmap
-9eeb7fe594|Markus Stockhausen|Sun Feb 1 18:42:13 2026 +0100|realtek: mdio: convert RTL930x I/O to regmap
-46c4b76e82|Markus Stockhausen|Sun Feb 1 18:17:35 2026 +0100|realtek: mdio: convert RTL839x I/O to regmap
-0a576dec74|Paul Donald|Sat Jan 31 15:52:21 2026 +0100|wireguard-tools: enable reload without teardown
-148207730a|Paul Donald|Sat Jan 31 16:01:44 2026 +0100|wireguard-tools: avoid temp file for peer generation
-97789875d5|Paul Donald|Sat Jan 31 15:47:30 2026 +0100|wireguard-tools: avoid temp file for key gen
-400742a855|Paul Donald|Sat Jan 31 15:56:28 2026 +0100|wireguard-tools: add protocol renew handler
-d59b360cee|Paul Donald|Sat Jan 31 15:53:41 2026 +0100|wireguard-tools: detect address changes at reload
-
-.....................
-
+38803fc110|Jonas Jelonek|Tue Jan 13 10:57:21 2026 +0000|realtek: pcs: rtl930x: add standalone XSGMII setup
+0d2d9ecb7f|Jonas Jelonek|Mon Jan 26 23:20:26 2026 +0000|realtek: pcs: rtl93xx: handle XSGMII autoneg
+fb23888376|Jonas Jelonek|Mon Jan 26 22:57:10 2026 +0000|realtek: pcs: make set_autoneg a SerDes operation
+31f30f5a6c|Anton Danilov|Thu Jan 29 14:43:17 2026 +0300|mediatek: add Motorcomm PHY support to Cudy AP3000 v1
+43068360e6|Shiji Yang|Wed Jan 28 23:15:30 2026 +0800|kernel: mtd: limit Macronix lock feature to MX25L6405D only
+618f741494|Rosen Penev|Thu Dec 11 20:35:36 2025 -0800|treewide: remove of_platform.h include
+7bfa371c64|Rosen Penev|Sat Dec 13 18:12:46 2025 -0800|lantiq: ltq-adsl: remove of_platform header
+3a795bd100|Rongzeng Cai|Sat Jan 31 13:46:42 2026 +0100|kernel: mtd: spinand: add support for SkyHigh S35ML-3
+eb0a1a3a89|Linus Walleij|Tue Feb 3 18:20:44 2026 +0100|kernel: Add necessary CONFIG_MTD_SPLIT config option
+c579e1d04c|Linus Walleij|Sun Feb 1 10:26:59 2026 +0100|gemini: sl93512r: override SL93512R partitions for firmware
+81215f55e2|Linus Walleij|Sun Feb 1 00:30:33 2026 +0100|gemini: sq201: override SQ201 partitions for firmware
+387752dc76|Linus Walleij|Mon Jan 26 08:21:29 2026 +0100|gemini: override IB-4220-B partitions for firmware
+5ac8f14ccb|Linus Walleij|Tue Jan 27 18:09:10 2026 +0100|kernel: mtdsplit: create executable prolog splitter
+3f0de6a28d|Paul Donald|Tue Feb 3 06:18:01 2026 +0100|wireguard-tools: fix script errors
+428c0c3635|Markus Stockhausen|Sun Jan 25 21:33:02 2026 +0100|realtek: eth: define hardware receive rings in config
 </details>
