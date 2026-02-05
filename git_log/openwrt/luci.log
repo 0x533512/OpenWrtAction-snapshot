@@ -2,22 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cb085c73dd|Paul Donald|Tue Feb 3 22:39:42 2026 +0100|luci-base: load luci preferences early
-22c6f45e26|Paul Donald|Tue Feb 3 20:51:07 2026 +0100|Merge remote-tracking branch 'weblate/master'
-01c53bec37|Paul Donald|Tue Feb 3 20:30:37 2026 +0100|luci-base: load luci preferences early
-d8f4b45a20|nKsyn|Tue Feb 3 08:45:06 2026 +0100|Translated using Weblate (Chinese (Simplified Han script))
-0fdbc65fcd|nKsyn|Tue Feb 3 08:48:59 2026 +0100|Translated using Weblate (Chinese (Simplified Han script))
-a91593d03b|Paul Donald|Tue Feb 3 08:32:47 2026 +0100|luci-app-snmpd: fix i18n compile warn
-c0ba5860a7|Paul Donald|Tue Feb 3 08:30:50 2026 +0100|luci-app-pagekitec: fix i18n compile warn
-7a31c90ebb|Paul Donald|Tue Feb 3 08:27:33 2026 +0100|luci-app-pagekitec: fix i18n compile warn
-b8c380ca51|Paul Donald|Tue Feb 3 08:20:51 2026 +0100|luci-app-openwisp: fix i18n compile warn
-5839ae5f8f|Paul Donald|Tue Feb 3 08:18:34 2026 +0100|luci-app-tailscale-community: fix i18n compile warn
-b0e229a027|Paul Donald|Tue Feb 3 08:17:08 2026 +0100|luci-app-transmission: fix i18n compile warn
-cd671929ca|Paul Donald|Tue Feb 3 08:15:58 2026 +0100|luci-app-nextdns: fix i18n compile warn
-2dcfdaa7ce|Paul Donald|Tue Feb 3 08:11:20 2026 +0100|luci-app-adblock: fix i18n compile warn
-39af7aabc9|Paul Donald|Tue Feb 3 08:01:32 2026 +0100|luci-app-ttyd: fix i18n compile warn
-c26ca6cd5a|Paul Donald|Tue Feb 3 08:14:34 2026 +0100|luci-app-frpc: fix i18n compile warn
-
-.....................
-
+c805b8239e|Hosted Weblate|Wed Feb 4 21:02:50 2026 +0100|Translated using Weblate (Spanish)
+63ddd664bf|Paul Donald|Mon Jan 26 04:30:39 2026 +0100|luci-app-dockerman: i18n
+cc6fd25150|Paul Donald|Mon Jan 26 04:29:25 2026 +0100|luci-app-dockerman: drop Lua
+9043114b73|Paul Donald|Thu Jan 22 04:25:49 2026 +0100|luci-app-dockerman: JS API
+baa0f16bb3|Paul Donald|Sun Jul 6 02:33:02 2025 +0200|luci-app-dockerman: convert to JS
 </details>

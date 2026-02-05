@@ -2,19 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-38803fc110|Jonas Jelonek|Tue Jan 13 10:57:21 2026 +0000|realtek: pcs: rtl930x: add standalone XSGMII setup
-0d2d9ecb7f|Jonas Jelonek|Mon Jan 26 23:20:26 2026 +0000|realtek: pcs: rtl93xx: handle XSGMII autoneg
-fb23888376|Jonas Jelonek|Mon Jan 26 22:57:10 2026 +0000|realtek: pcs: make set_autoneg a SerDes operation
-31f30f5a6c|Anton Danilov|Thu Jan 29 14:43:17 2026 +0300|mediatek: add Motorcomm PHY support to Cudy AP3000 v1
-43068360e6|Shiji Yang|Wed Jan 28 23:15:30 2026 +0800|kernel: mtd: limit Macronix lock feature to MX25L6405D only
-618f741494|Rosen Penev|Thu Dec 11 20:35:36 2025 -0800|treewide: remove of_platform.h include
-7bfa371c64|Rosen Penev|Sat Dec 13 18:12:46 2025 -0800|lantiq: ltq-adsl: remove of_platform header
-3a795bd100|Rongzeng Cai|Sat Jan 31 13:46:42 2026 +0100|kernel: mtd: spinand: add support for SkyHigh S35ML-3
-eb0a1a3a89|Linus Walleij|Tue Feb 3 18:20:44 2026 +0100|kernel: Add necessary CONFIG_MTD_SPLIT config option
-c579e1d04c|Linus Walleij|Sun Feb 1 10:26:59 2026 +0100|gemini: sl93512r: override SL93512R partitions for firmware
-81215f55e2|Linus Walleij|Sun Feb 1 00:30:33 2026 +0100|gemini: sq201: override SQ201 partitions for firmware
-387752dc76|Linus Walleij|Mon Jan 26 08:21:29 2026 +0100|gemini: override IB-4220-B partitions for firmware
-5ac8f14ccb|Linus Walleij|Tue Jan 27 18:09:10 2026 +0100|kernel: mtdsplit: create executable prolog splitter
-3f0de6a28d|Paul Donald|Tue Feb 3 06:18:01 2026 +0100|wireguard-tools: fix script errors
-428c0c3635|Markus Stockhausen|Sun Jan 25 21:33:02 2026 +0100|realtek: eth: define hardware receive rings in config
+e94d4f2022|st7105|Sat Jan 31 10:40:47 2026 +0300|mediatek: filogic: increase flash speed on Netcore N60 Pro
+78a0ef2389|Markus Stockhausen|Tue Feb 3 14:55:42 2026 +0100|realtek: phy: drop last soc_info/family usage
 </details>
