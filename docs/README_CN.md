@@ -78,7 +78,7 @@
 
 精选插件配置，涵盖网络加速、主题美化、系统管理等常用功能。
 
-![](https://img.shields.io/badge/Visual_Studio_Code_SSH-Suppert-green)
+![](https://img.shields.io/badge/Visual_Studio_Code_SSH-Support-green)
 
 ### 📡 网络与代理
 ```
