@@ -2,9 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c805b8239e|Hosted Weblate|Wed Feb 4 21:02:50 2026 +0100|Translated using Weblate (Spanish)
-63ddd664bf|Paul Donald|Mon Jan 26 04:30:39 2026 +0100|luci-app-dockerman: i18n
-cc6fd25150|Paul Donald|Mon Jan 26 04:29:25 2026 +0100|luci-app-dockerman: drop Lua
-9043114b73|Paul Donald|Thu Jan 22 04:25:49 2026 +0100|luci-app-dockerman: JS API
-baa0f16bb3|Paul Donald|Sun Jul 6 02:33:02 2025 +0200|luci-app-dockerman: convert to JS
+3dda99b79d|Kuan-Yi Li|Wed Feb 4 19:36:34 2026 +0800|luci-app-tailscale-community: fix default state file path
+a2d661d181|Paul Donald|Fri Feb 6 00:17:14 2026 +0100|luci-app-dockerman: enable ports display on containers
+83a42aa329|Paul Donald|Thu Feb 5 22:24:27 2026 +0100|luci-base: remove static password-input from UI element
+d2e42ca667|Stan Grishin|Fri Jan 30 20:45:54 2026 +0000|luci-app-pbr: update to 1.2.1-r87
+f0ff5612a1|Paul Donald|Thu Feb 5 18:06:43 2026 +0100|luci-app-dockerman: jsmin workaround
+aba4fd8a90|Hosted Weblate|Thu Feb 5 17:13:30 2026 +0100|Translated using Weblate (Chinese (Simplified Han script))
+40f8d55f1b|Paul Donald|Thu Feb 5 17:06:59 2026 +0100|luci-app-strongswan-swanctl: fix option name
+b2cdba1b95|Dirk Brenken|Thu Feb 5 16:16:17 2026 +0100|luci-app-adblock: sync with adblock 4.5.0-5
 </details>
