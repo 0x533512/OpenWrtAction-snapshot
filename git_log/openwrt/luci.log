@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e6ad9db8d1|Paul Donald|Fri Feb 6 13:59:56 2026 +0100|luci-app-bcp38: fix parenthesis close
+05914c4a5b|Hannu Nyman|Sat Feb 7 19:07:46 2026 +0200|treewide: sync i18n translations
+5e4f3546e4|Hosted Weblate|Sat Feb 7 17:34:56 2026 +0100|Translated using Weblate (Korean)
 </details>

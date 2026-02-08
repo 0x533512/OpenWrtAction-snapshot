@@ -2,13 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-dbcb5fb52e|Nick Hainke|Thu Feb 5 21:35:37 2026 +0100|libtraceevent: update to 1.9.0
-eba0e822f6|Nick Hainke|Thu Feb 5 21:29:35 2026 +0100|libtracefs: update to 1.8.3
-8f5f66c092|Nick Hainke|Sat Nov 22 07:48:25 2025 +0100|xdp-tools: update to 1.5.8
-435917735a|Gustavo Henrique Nihei|Fri Jan 23 18:04:59 2026 -0300|ext-toolchain: fix wrapper for gcc-ar, gcc-nm, gcc-ranlib
-e3be4654a1|Jan Hoffmann|Wed Feb 4 16:22:06 2026 +0100|realtek: pcs: rtl93xx: configure in-band AN advertisement
-6dae444ee9|Jan Hoffmann|Thu Feb 5 00:17:32 2026 +0100|realtek: pcs: rtl93xx: implement restarting auto-negotiation
-3972aeaf7c|Bjørn Mork|Thu Feb 5 14:08:51 2026 +0100|realtek: dsa: remove storm control
-483d2f1756|George Moussalem|Thu Feb 5 21:31:38 2026 +0400|qualcommax: ipq50xx: backport v6.20 patches
-01fb4a6daa|Kenneth Kasilag|Thu Feb 5 23:48:07 2026 +0000|qualcommbe: update pwm patches and add missing symbol
+e40d416c54|Zoltan HERPAI|Mon Feb 2 09:16:32 2026 +0000|uboot-sunxi: bump to 2025.10
+9f5558fa71|Zoltan HERPAI|Mon Feb 2 09:11:26 2026 +0000|arm-trusted-firmware-sunxi: bump to 2.14
+9d839e6a46|Markus Stockhausen|Fri Feb 6 13:30:05 2026 +0100|realtek: dsa: drop redundant mac_config() logic
+eda2d44ebd|Jonas Jelonek|Tue Feb 3 18:51:49 2026 +0000|realtek: pcs: rtl931x: drop unneeded cmu band read
+31732b678e|Jonas Jelonek|Mon Feb 2 12:06:49 2026 +0000|realtek: pcs: rtl931x: match function name with content
+adec06293c|Jonas Jelonek|Sun Feb 1 17:09:33 2026 +0000|realtek: pcs: rtl931x: add some register comments
+b87db98aff|Jonas Jelonek|Mon Feb 2 22:48:04 2026 +0000|realtek: pcs: rtl931x: config CMU before media
+459b456185|Jonas Jelonek|Sun Feb 1 09:56:09 2026 +0000|realtek: pcs: rtl931x: read chip specifics in early init
+0af3177b4d|Jonas Jelonek|Wed Feb 4 08:54:25 2026 +0000|realtek: pcs: rtl931x: drop chiptype 1 support
+0c17d0e8a6|Jonas Jelonek|Sat Jan 31 18:31:50 2026 +0000|realtek: pcs: rtl931x: drop sequence in favor of function
+71ad91ecfa|Rosen Penev|Fri Feb 6 18:39:33 2026 -0800|package-pack: fix Ubuntu 18.04 compilation
+528c9259a7|Carlo Szelinsky|Sat Jan 31 13:19:00 2026 +0100|kernel: net: pse-pd: backport PSE v6.13-v6.19
+658e4adca4|Fil Dunsky|Sun Feb 1 12:33:53 2026 +0300|mediatek: filogic: add support for Bazis AX3000WM
+6da2890c03|Michael Wagenhofer|Sat Jan 31 10:12:20 2026 +0100|realtek: add support for Xikestor SKS8300-12E2T2X
+dd7e88461e|Markus Stockhausen|Sun Jan 25 18:19:44 2026 +0100|realtek: mdio: rename main mdio bus
+
+.....................
+
 </details>

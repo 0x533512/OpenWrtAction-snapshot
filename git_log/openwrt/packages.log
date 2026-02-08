@@ -2,9 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-849db7361|Michael Heimpold|Wed Feb 4 21:47:04 2026 +0100|zabbix: fix no-configure build variant
-b54cc9b69|Wei-Ting Yang|Wed Feb 4 23:58:00 2026 +0800|django: bump to version 6.0.2
-0644f5bd7|xiao bo|Fri Feb 6 16:27:18 2026 +0800|sing-box: update to 1.12.20
-2b6adb9ae|Florian Eckert|Fri Feb 6 10:50:21 2026 +0100|ddns-scripts: Fix hetzner install target file name
-703a057ed|Bruce Chen|Thu Feb 5 13:59:30 2026 +0800|aliyun-cli: update to 3.2.9
+c078d5761|Daniel Golle|Thu Feb 5 02:45:41 2026 +0000|transmission: update to 4.1.0
+91e85bbbe|Daniel Golle|Thu Feb 5 02:44:24 2026 +0000|libutp: update to 2024-11-16
+ea3ec746a|Daniel Golle|Thu Feb 5 02:42:31 2026 +0000|libdht: update to 2023-03-18
+69620ea78|Daniel Golle|Thu Feb 5 02:40:12 2026 +0000|libdeflate: update to 1.25
+10b230f21|John Audia|Thu Feb 5 16:29:47 2026 -0500|nfs-kernel-server: update to 2.8.5
+e87bcf506|Nick Hainke|Sat Feb 7 09:51:49 2026 +0100|expat: update to 2.7.4
+ab7fbfd12|Georgi Valkov|Sun Feb 1 03:07:13 2026 +0200|ustreamer: add package 6.51
 </details>
