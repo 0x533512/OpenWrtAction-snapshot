@@ -2,6 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-05914c4a5b|Hannu Nyman|Sat Feb 7 19:07:46 2026 +0200|treewide: sync i18n translations
-5e4f3546e4|Hosted Weblate|Sat Feb 7 17:34:56 2026 +0100|Translated using Weblate (Korean)
+a0bad5ea0a|Hauke Mehrtens|Thu Feb 5 23:09:42 2026 +0100|luci-app-attendedsysupgrade: activate in buildbot
+d6740fd42b|Hauke Mehrtens|Thu Feb 5 23:23:25 2026 +0100|luci.mk: add support for DEFAULT option
+7d1109a408|Hosted Weblate|Sun Feb 8 19:43:40 2026 +0100|Translated using Weblate (Polish)
+18a8e26be2|Dirk Brenken|Sun Feb 8 10:02:36 2026 +0100|luci-app-adblock: sync with adblock 4.5.1-1
 </details>

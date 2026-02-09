@@ -2,22 +2,17 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e40d416c54|Zoltan HERPAI|Mon Feb 2 09:16:32 2026 +0000|uboot-sunxi: bump to 2025.10
-9f5558fa71|Zoltan HERPAI|Mon Feb 2 09:11:26 2026 +0000|arm-trusted-firmware-sunxi: bump to 2.14
-9d839e6a46|Markus Stockhausen|Fri Feb 6 13:30:05 2026 +0100|realtek: dsa: drop redundant mac_config() logic
-eda2d44ebd|Jonas Jelonek|Tue Feb 3 18:51:49 2026 +0000|realtek: pcs: rtl931x: drop unneeded cmu band read
-31732b678e|Jonas Jelonek|Mon Feb 2 12:06:49 2026 +0000|realtek: pcs: rtl931x: match function name with content
-adec06293c|Jonas Jelonek|Sun Feb 1 17:09:33 2026 +0000|realtek: pcs: rtl931x: add some register comments
-b87db98aff|Jonas Jelonek|Mon Feb 2 22:48:04 2026 +0000|realtek: pcs: rtl931x: config CMU before media
-459b456185|Jonas Jelonek|Sun Feb 1 09:56:09 2026 +0000|realtek: pcs: rtl931x: read chip specifics in early init
-0af3177b4d|Jonas Jelonek|Wed Feb 4 08:54:25 2026 +0000|realtek: pcs: rtl931x: drop chiptype 1 support
-0c17d0e8a6|Jonas Jelonek|Sat Jan 31 18:31:50 2026 +0000|realtek: pcs: rtl931x: drop sequence in favor of function
-71ad91ecfa|Rosen Penev|Fri Feb 6 18:39:33 2026 -0800|package-pack: fix Ubuntu 18.04 compilation
-528c9259a7|Carlo Szelinsky|Sat Jan 31 13:19:00 2026 +0100|kernel: net: pse-pd: backport PSE v6.13-v6.19
-658e4adca4|Fil Dunsky|Sun Feb 1 12:33:53 2026 +0300|mediatek: filogic: add support for Bazis AX3000WM
-6da2890c03|Michael Wagenhofer|Sat Jan 31 10:12:20 2026 +0100|realtek: add support for Xikestor SKS8300-12E2T2X
-dd7e88461e|Markus Stockhausen|Sun Jan 25 18:19:44 2026 +0100|realtek: mdio: rename main mdio bus
-
-.....................
-
+3553eda283|Felix Fietkau|Sun Feb 8 18:46:07 2026 +0000|wifi-scripts: fix spurious teardown on config_change during setup
+97b0379514|Raylynn Knight|Fri Feb 6 19:44:13 2026 -0500|x86: base-files add support for Sophos 125r3/125r3w
+4ab5fcc04f|Shine|Sun Feb 8 10:41:45 2026 +0100|wifi-scripts: fix encryption setting of default OpenWrt SSID
+17cd653d5f|Edward Chow|Sat Feb 7 10:03:03 2026 +0800|apm821xx: mx60: increment compat_version
+3225655236|Rosen Penev|Tue Oct 22 13:02:47 2024 -0700|apm821xx: disable NVMEM_U_BOOT_ENV
+23bb631c4a|Rosen Penev|Sat Oct 5 15:33:51 2024 -0700|apm821xx: meraki-mx60: fix ubootenv definitions
+37010e1155|Rosen Penev|Sun Jul 13 11:19:10 2025 -0700|apm821xx: meraki-mr24: fix ubootenv definitions
+26254408e3|Rosen Penev|Sun Oct 6 12:55:49 2024 -0700|apm821xx: mybooklive: fix ubootenv probe
+45ba1351d6|Rosen Penev|Sun Oct 6 12:50:02 2024 -0700|apm821xx: wndr4700: fix uboot-env
+387e5d57cc|Rosen Penev|Sun Jul 13 11:11:28 2025 -0700|uboot-envtools: fix meraki mr24 definition
+6e3c8d95f4|Rosen Penev|Sun Jul 13 11:00:50 2025 -0700|uboot-envtools: fix meraki mx60 definition
+7585450d37|Nick Hainke|Sun Feb 8 16:40:55 2026 +0100|hostapd: fix 601-ucode_support.patch not applying
+a7756346c7|Felix Fietkau|Sun Feb 8 11:03:18 2026 +0000|hostapd: extend DPP ucode API with WPS M7/M8 encrypted settings handling
 </details>
