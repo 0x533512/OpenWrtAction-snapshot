@@ -2,17 +2,19 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3553eda283|Felix Fietkau|Sun Feb 8 18:46:07 2026 +0000|wifi-scripts: fix spurious teardown on config_change during setup
-97b0379514|Raylynn Knight|Fri Feb 6 19:44:13 2026 -0500|x86: base-files add support for Sophos 125r3/125r3w
-4ab5fcc04f|Shine|Sun Feb 8 10:41:45 2026 +0100|wifi-scripts: fix encryption setting of default OpenWrt SSID
-17cd653d5f|Edward Chow|Sat Feb 7 10:03:03 2026 +0800|apm821xx: mx60: increment compat_version
-3225655236|Rosen Penev|Tue Oct 22 13:02:47 2024 -0700|apm821xx: disable NVMEM_U_BOOT_ENV
-23bb631c4a|Rosen Penev|Sat Oct 5 15:33:51 2024 -0700|apm821xx: meraki-mx60: fix ubootenv definitions
-37010e1155|Rosen Penev|Sun Jul 13 11:19:10 2025 -0700|apm821xx: meraki-mr24: fix ubootenv definitions
-26254408e3|Rosen Penev|Sun Oct 6 12:55:49 2024 -0700|apm821xx: mybooklive: fix ubootenv probe
-45ba1351d6|Rosen Penev|Sun Oct 6 12:50:02 2024 -0700|apm821xx: wndr4700: fix uboot-env
-387e5d57cc|Rosen Penev|Sun Jul 13 11:11:28 2025 -0700|uboot-envtools: fix meraki mr24 definition
-6e3c8d95f4|Rosen Penev|Sun Jul 13 11:00:50 2025 -0700|uboot-envtools: fix meraki mx60 definition
-7585450d37|Nick Hainke|Sun Feb 8 16:40:55 2026 +0100|hostapd: fix 601-ucode_support.patch not applying
-a7756346c7|Felix Fietkau|Sun Feb 8 11:03:18 2026 +0000|hostapd: extend DPP ucode API with WPS M7/M8 encrypted settings handling
+08ab732b25|Jan Hoffmann|Thu Jan 22 20:30:10 2026 +0100|realtek: avoid redundant configuration of MAC addresses
+a539bc00e6|Jan Hoffmann|Thu Jan 22 20:15:09 2026 +0100|realtek: remove MAC assignment default case in 02_network
+0686fed2b4|Jan Hoffmann|Thu Jan 22 20:21:35 2026 +0100|realtek: don't implicitly configure port MAC addresses
+f27f3e7f23|Jan Hoffmann|Wed Jan 28 18:14:34 2026 +0100|realtek: combine identical cases in 02_network
+6a028b3978|Jan Hoffmann|Thu Jan 22 20:11:32 2026 +0100|realtek: fix indentation in 02_network
+fca18e21fa|Carlo Szelinsky|Sat Feb 7 14:47:15 2026 +0100|kernel: net: pse-pd: patch netlink & PSE PRIO
+1519b69f43|Rosen Penev|Mon Feb 9 12:00:55 2026 -0800|kirkwood: remove upstreamed patch
+361885b133|Daniel Golle|Mon Feb 9 11:47:39 2026 +0000|procd: update to git HEAD
+ef92265772|Robert Marko|Mon Feb 9 12:33:20 2026 +0100|mvebu: cortex-a53: respect DEVICE_packages for Methode devices
+d89cb72c23|Robert Marko|Mon Feb 9 12:25:56 2026 +0100|image: support generating per device targz rootfs
+61c9337d80|Chester A. Unal|Mon Jan 5 14:54:42 2026 +0200|ramips: mt7621: enable kmod-usb3 for Mikrotik RBM33G
+5a023509c6|Markus Stockhausen|Fri Feb 6 21:41:55 2026 +0100|realtek: mdio: split bus reset functions
+59b172c3c4|Markus Stockhausen|Sun Feb 8 17:01:06 2026 +0100|realtek: phy: rename and relocate module
+35a497b72e|Markus Stockhausen|Sun Feb 8 12:35:59 2026 +0100|realtek: phy: drop refactoring leftovers
+0780972fd5|Rosen Penev|Sat Feb 7 15:58:32 2026 -0800|ramips: mtk_eth_soc: handle EPROBE_DEFER for MAC
 </details>

@@ -2,20 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e885bdab7|Philip Prindeville|Sun Feb 8 13:42:32 2026 -0700|wget: use explicit API version levels
-79d604666|Hauke Mehrtens|Fri Feb 6 00:06:57 2026 +0100|owut: activate by default in buildbot
-75458bf08|Hannu Nyman|Sun Feb 8 20:53:39 2026 +0200|nano: update to 8.7.1
-ea3eb6f24|Philip Prindeville|Fri Feb 6 14:08:48 2026 -0700|wget: build against Openssl w/o deprecated API
-d43dc6e98|Philip Prindeville|Wed Feb 4 14:29:53 2026 -0700|wget: don't build http-ntml as it's deprecated
-2921e52cd|Dirk Brenken|Sun Feb 8 12:55:25 2026 +0100|adblock: update 4.5.1-2
-b39494cf3|Dirk Brenken|Sun Feb 8 10:25:55 2026 +0100|adblock: release 4.5.1
-fb11ea7f2|Tianling Shen|Sun Feb 8 17:26:08 2026 +0800|v2raya: Update to 2.2.7.5
-e664ab4bd|Tianling Shen|Sun Feb 8 17:25:33 2026 +0800|openlist: Update to 4.1.10
-3c59d49b5|Tianling Shen|Sun Feb 8 17:25:05 2026 +0800|cloudflared: Update to 2026.1.2
-1f97ee00e|Tianling Shen|Sun Feb 8 17:24:45 2026 +0800|yq: Update to 4.52.2
-be143e2f7|Tianling Shen|Sun Feb 8 17:24:02 2026 +0800|rclone: Update to 1.73.0
-c863a4a5a|Tianling Shen|Sun Feb 8 17:22:45 2026 +0800|xray-core: Update to 26.2.4
-44940c3ae|Tianling Shen|Sun Feb 8 17:21:23 2026 +0800|v2ray-geodata: Update to latest version
-e0efa48e6|Tianling Shen|Sun Feb 8 17:20:18 2026 +0800|dos2unix: Update to 7.5.4
-
+0e11c771a|Bjørn Mork|Sun Feb 8 19:21:31 2026 +0100|conserver: update to version 8.3.0
+e058c0dac|George Sapkin|Wed Jan 14 07:01:17 2026 +0200|mjpg-streamer: drop package
+41838cd62|Philip Prindeville|Wed Feb 4 19:48:38 2026 -0700|kea: make building with Openssl deprecated APIs off
+ff2027ffa|Martin Schiller|Thu Feb 5 08:57:02 2026 +0100|rp-pppoe: fix pppoe-server init script
+34d0684be|Florian Eckert|Tue Feb 3 10:54:54 2026 +0100|ddns-scripts: remove postinst and prerm script call
 </details>

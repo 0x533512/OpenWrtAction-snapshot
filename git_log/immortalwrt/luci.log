@@ -2,22 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5850d2981c|Tianling Shen|Sun Feb 8 17:48:58 2026 +0800|luci-theme-argon: sync with upstream source
-440f60d05e|Tianling Shen|Sun Feb 8 17:41:56 2026 +0800|Merge Official Source
-16fb596d58|SakuraFallingMad|Mon Jan 26 11:23:57 2026 +0800|luci-app-passwall: bump to 26.2.6
-c805b8239e|Hosted Weblate|Wed Feb 4 21:02:50 2026 +0100|Translated using Weblate (Spanish)
-63ddd664bf|Paul Donald|Mon Jan 26 04:30:39 2026 +0100|luci-app-dockerman: i18n
-cc6fd25150|Paul Donald|Mon Jan 26 04:29:25 2026 +0100|luci-app-dockerman: drop Lua
-9043114b73|Paul Donald|Thu Jan 22 04:25:49 2026 +0100|luci-app-dockerman: JS API
-baa0f16bb3|Paul Donald|Sun Jul 6 02:33:02 2025 +0200|luci-app-dockerman: convert to JS
-cb085c73dd|Paul Donald|Tue Feb 3 22:39:42 2026 +0100|luci-base: load luci preferences early
-22c6f45e26|Paul Donald|Tue Feb 3 20:51:07 2026 +0100|Merge remote-tracking branch 'weblate/master'
-01c53bec37|Paul Donald|Tue Feb 3 20:30:37 2026 +0100|luci-base: load luci preferences early
-d8f4b45a20|nKsyn|Tue Feb 3 08:45:06 2026 +0100|Translated using Weblate (Chinese (Simplified Han script))
-0fdbc65fcd|nKsyn|Tue Feb 3 08:48:59 2026 +0100|Translated using Weblate (Chinese (Simplified Han script))
-a91593d03b|Paul Donald|Tue Feb 3 08:32:47 2026 +0100|luci-app-snmpd: fix i18n compile warn
-c0ba5860a7|Paul Donald|Tue Feb 3 08:30:50 2026 +0100|luci-app-pagekitec: fix i18n compile warn
-
-.....................
-
+c0c3439cef|Tianling Shen|Mon Feb 9 15:56:32 2026 +0800|luci-app-openclash: Update to 0.47.055
 </details>

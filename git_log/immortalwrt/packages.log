@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-09e37f2ca|ImmortalWrt AutoUpdate Bot|Fri Feb 6 12:24:03 2026 +0800|v2ray-plugin: Update to 5.44.1
+7a0a6a3b2|Tianling Shen|Mon Feb 9 15:41:45 2026 +0800|n2n: bump min cmake version to 3.10
+8cc58a902|Tianling Shen|Mon Feb 9 15:37:47 2026 +0800|node-aws-crt: fix axios dependencies
+a503fe532|Tianling Shen|Mon Feb 9 15:30:35 2026 +0800|python-gevent: Update to 25.9.1
 </details>
