@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0e11c771a|Bjørn Mork|Sun Feb 8 19:21:31 2026 +0100|conserver: update to version 8.3.0
-e058c0dac|George Sapkin|Wed Jan 14 07:01:17 2026 +0200|mjpg-streamer: drop package
-41838cd62|Philip Prindeville|Wed Feb 4 19:48:38 2026 -0700|kea: make building with Openssl deprecated APIs off
-ff2027ffa|Martin Schiller|Thu Feb 5 08:57:02 2026 +0100|rp-pppoe: fix pppoe-server init script
-34d0684be|Florian Eckert|Tue Feb 3 10:54:54 2026 +0100|ddns-scripts: remove postinst and prerm script call
+e1d680d19|micpf|Mon Feb 9 16:52:10 2026 +0100|modemmanager: fix netifd proto sim path
+8ce03e306|Lin Fan|Sat Feb 7 14:36:01 2026 +0800|ddns-script: update namesilo.com
+a490e8bad|Nate Robinson|Sat Feb 7 23:56:28 2026 -0500|lf: update to r41
 </details>

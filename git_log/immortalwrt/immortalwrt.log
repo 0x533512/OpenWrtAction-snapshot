@@ -2,22 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e98d1a093f|Tianling Shen|Mon Feb 9 17:26:19 2026 +0800|Merge Official Source
-5a023509c6|Markus Stockhausen|Fri Feb 6 21:41:55 2026 +0100|realtek: mdio: split bus reset functions
-59b172c3c4|Markus Stockhausen|Sun Feb 8 17:01:06 2026 +0100|realtek: phy: rename and relocate module
-35a497b72e|Markus Stockhausen|Sun Feb 8 12:35:59 2026 +0100|realtek: phy: drop refactoring leftovers
-0780972fd5|Rosen Penev|Sat Feb 7 15:58:32 2026 -0800|ramips: mtk_eth_soc: handle EPROBE_DEFER for MAC
-706fbe0cca|Tianling Shen|Mon Feb 9 15:59:28 2026 +0800|rockchip: add rtl8822cs quirk for nanopi r76s
-3553eda283|Felix Fietkau|Sun Feb 8 18:46:07 2026 +0000|wifi-scripts: fix spurious teardown on config_change during setup
-97b0379514|Raylynn Knight|Fri Feb 6 19:44:13 2026 -0500|x86: base-files add support for Sophos 125r3/125r3w
-4ab5fcc04f|Shine|Sun Feb 8 10:41:45 2026 +0100|wifi-scripts: fix encryption setting of default OpenWrt SSID
-17cd653d5f|Edward Chow|Sat Feb 7 10:03:03 2026 +0800|apm821xx: mx60: increment compat_version
-3225655236|Rosen Penev|Tue Oct 22 13:02:47 2024 -0700|apm821xx: disable NVMEM_U_BOOT_ENV
-23bb631c4a|Rosen Penev|Sat Oct 5 15:33:51 2024 -0700|apm821xx: meraki-mx60: fix ubootenv definitions
-37010e1155|Rosen Penev|Sun Jul 13 11:19:10 2025 -0700|apm821xx: meraki-mr24: fix ubootenv definitions
-26254408e3|Rosen Penev|Sun Oct 6 12:55:49 2024 -0700|apm821xx: mybooklive: fix ubootenv probe
-45ba1351d6|Rosen Penev|Sun Oct 6 12:50:02 2024 -0700|apm821xx: wndr4700: fix uboot-env
-
-.....................
-
+5e1650f84b|ntbowen|Mon Feb 2 23:04:07 2026 +0800|rockchip: enable CONFIG_USB_ONBOARD_DEV by default
+f60a4b1a1e|ntbowen|Mon Feb 2 22:52:50 2026 +0800|rockchip: fix probe defer handling in USBDP clock init
 </details>
