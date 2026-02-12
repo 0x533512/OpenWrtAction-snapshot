@@ -1,7 +1,0 @@
-<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-5e1650f84b|ntbowen|Mon Feb 2 23:04:07 2026 +0800|rockchip: enable CONFIG_USB_ONBOARD_DEV by default
-f60a4b1a1e|ntbowen|Mon Feb 2 22:52:50 2026 +0800|rockchip: fix probe defer handling in USBDP clock init
-</details>
