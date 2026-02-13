@@ -2,12 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-30ac12f4b4|Hauke Mehrtens|Thu Feb 12 00:52:30 2026 +0100|kernel: refresh patches
-d1d3cff5b3|Jan Hoffmann|Mon Feb 9 00:48:46 2026 +0100|realtek: pcs: remove auto-negotiation helper functions
-a517d94c9f|Jan Hoffmann|Sun Feb 8 18:10:01 2026 +0100|realtek: pcs: configure auto-negotiation on all SoCs
-2e5b44a989|Zihao Diao|Wed Feb 4 16:10:38 2026 +0800|usbmode: add modeswitch rule for ZTE MF833U1
-626494fb25|Nick Hainke|Wed Feb 11 21:54:43 2026 +0100|xdp-tools: bump PKG_RELEASE
-708dcca80a|Stijn Tintel|Sat Mar 1 19:07:30 2025 +0200|mediatek: TP-Link EAP683-UR support
-f1749142ca|Stijn Tintel|Sat Apr 6 01:45:25 2024 +0300|mediatek: TP-Link EAP683-LR support
-c752525511|Nick Hainke|Tue Feb 10 21:15:15 2026 +0100|xdp-tools: add patch to fix stddef.h build issue
+d0c82dbb17|Raylynn Knight|Sun Feb 8 04:23:08 2026 -0500|x86: base-files add support for Sophos 210r3 and 230r2
+0f713d5d11|Fil Dunsky|Sun Dec 28 20:58:05 2025 +0300|mediatek: add support for netis NX32U
+bbfee76d1d|Tomáš Macholda|Mon Nov 10 16:57:14 2025 +0100|mvebu: add depends for Turris MOX boards
+0271f2ee36|Tomáš Macholda|Thu Sep 11 14:45:12 2025 +0200|mvebu: add support for RIPE Atlas Probe v5
+ac98970a65|Linus Walleij|Sun Feb 1 23:23:49 2026 +0100|gemini: add support for Verbatim S08V1901-D1
+0839c5c9f2|Markus Stockhausen|Wed Feb 11 16:20:32 2026 +0100|realtek: pcs: revive dead ports after RTL8382M start
+8bf37836d6|Markus Stockhausen|Tue Feb 10 08:40:49 2026 +0100|realtek: central unlock for RTL838x write protection
+fdc3776068|Markus Stockhausen|Mon Feb 9 20:26:07 2026 +0100|realtek: pcs: fix PLL_CML_CTRL for serdes 0/1
+8c6ed4e927|Matt Merhar|Wed Feb 11 17:30:53 2026 -0500|apk: handle edge case when parsing .apk files
+993a4e7877|Markus Stockhausen|Mon Feb 2 22:03:05 2026 +0100|realtek: eth: remove unneeded structures
+5e8d32a903|Markus Stockhausen|Mon Feb 2 21:19:30 2026 +0100|realtek: eth: convert receive path
+82f3d4a6fa|Markus Stockhausen|Mon Feb 2 15:11:00 2026 +0100|realtek: eth: create new receive data structures
+95cd482336|Markus Stockhausen|Mon Feb 2 13:54:04 2026 +0100|realtek: eth: limit receive queues
+b2c56b5233|Markus Stockhausen|Tue Feb 3 08:15:33 2026 +0100|realtek: eth: use free floating rings for RTL838x
 </details>
