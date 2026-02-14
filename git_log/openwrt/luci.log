@@ -1,0 +1,7 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+922d3e9e33|Hosted Weblate|Fri Feb 13 17:16:30 2026 +0100|Translated using Weblate (Russian)
+e8d21d84f5|Han Yiming|Fri Feb 13 20:21:18 2026 +0800|luci-app-tailscale-community: fix exit node conflict
+</details>

@@ -2,18 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d0c82dbb17|Raylynn Knight|Sun Feb 8 04:23:08 2026 -0500|x86: base-files add support for Sophos 210r3 and 230r2
-0f713d5d11|Fil Dunsky|Sun Dec 28 20:58:05 2025 +0300|mediatek: add support for netis NX32U
-bbfee76d1d|Tomáš Macholda|Mon Nov 10 16:57:14 2025 +0100|mvebu: add depends for Turris MOX boards
-0271f2ee36|Tomáš Macholda|Thu Sep 11 14:45:12 2025 +0200|mvebu: add support for RIPE Atlas Probe v5
-ac98970a65|Linus Walleij|Sun Feb 1 23:23:49 2026 +0100|gemini: add support for Verbatim S08V1901-D1
-0839c5c9f2|Markus Stockhausen|Wed Feb 11 16:20:32 2026 +0100|realtek: pcs: revive dead ports after RTL8382M start
-8bf37836d6|Markus Stockhausen|Tue Feb 10 08:40:49 2026 +0100|realtek: central unlock for RTL838x write protection
-fdc3776068|Markus Stockhausen|Mon Feb 9 20:26:07 2026 +0100|realtek: pcs: fix PLL_CML_CTRL for serdes 0/1
-8c6ed4e927|Matt Merhar|Wed Feb 11 17:30:53 2026 -0500|apk: handle edge case when parsing .apk files
-993a4e7877|Markus Stockhausen|Mon Feb 2 22:03:05 2026 +0100|realtek: eth: remove unneeded structures
-5e8d32a903|Markus Stockhausen|Mon Feb 2 21:19:30 2026 +0100|realtek: eth: convert receive path
-82f3d4a6fa|Markus Stockhausen|Mon Feb 2 15:11:00 2026 +0100|realtek: eth: create new receive data structures
-95cd482336|Markus Stockhausen|Mon Feb 2 13:54:04 2026 +0100|realtek: eth: limit receive queues
-b2c56b5233|Markus Stockhausen|Tue Feb 3 08:15:33 2026 +0100|realtek: eth: use free floating rings for RTL838x
+20644af030|Maxim Anisimov|Wed Jan 21 18:09:31 2026 +0300|mediatek: add support for Keenetic/Netcraze (K/N)AP-630
+2b4cdb6941|Markus Stockhausen|Fri Feb 13 09:26:20 2026 +0100|realtek: convert mach includes to rtl-otto
+b325e6e5ee|Robert Marko|Fri Feb 13 23:36:30 2026 +0100|ipq-wifi: fix botched rebase
+0c98150650|Jonas Jelonek|Wed Oct 29 21:01:02 2025 +0000|realtek: add support for Zyxel GS1920-24HPv2
+b449b8cd3a|Jonas Jelonek|Wed Oct 29 20:36:20 2025 +0000|realtek: move common GS1920-24HP parts to common definitions
+7f67ec0b34|Markus Stockhausen|Fri Feb 6 08:43:47 2026 +0100|realtek: eth: introduce global interrupt helpers
+f617d3e594|Markus Stockhausen|Fri Feb 6 07:52:45 2026 +0100|realtek: eth: define interrupt status/mask base
+db91c68233|Mario Andrés Pérez|Fri Feb 13 21:28:32 2026 +0100|qualcommbe: ipq95xx: require image metadata for sysupgrade checks
+785492e4c1|Michael Lotz|Mon Feb 2 11:27:39 2026 +0100|qualcommax: ipq807x: add Zyxel NWA110AX support
+67e6baf05e|Michael Lotz|Fri Jan 23 15:38:50 2026 +0100|qualcommax: ipq60xx: add Netgear RBx350 support
+d0bd7ad1a2|Michael Lotz|Thu Feb 5 23:02:55 2026 +0100|qualcommax: ipq807x: add Netgear RBx750 support
+c6eb8b84d2|Robert Marko|Fri Feb 13 21:26:31 2026 +0100|ipq-wifi: update to Git HEAD (2026-02-13)
+fcb07b00ec|Matt Merhar|Wed Feb 11 14:33:15 2026 -0500|build: propagate errors when generating apk indexes
+dfd15dc725|Bevan Weiss|Thu Feb 12 17:05:12 2026 +1100|kernel: pse-pd: Fix missing regulator backport
+ce9a0ff3fb|John Audia|Wed Feb 11 17:56:42 2026 -0500|tools: m4: update to 1.4.21
+
+.....................
+
 </details>
