@@ -2,9 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5d49b5073|Christian Lachner|Fri Feb 13 07:41:18 2026 +0100|haproxy: update to v3.2.12
-6ca009121|Ray Wang|Sat Feb 14 13:14:52 2026 +0800|natmap: update to 20260214
-126562da3|Rosen Penev|Fri Feb 6 16:37:14 2026 -0800|python-gevent: use LF for Makefile
-1d3b5f779|Rosen Penev|Thu Feb 5 19:40:11 2026 -0800|python-gevent: update to 25.9.1
-909fb1ba4|Rosen Penev|Sun Feb 8 19:33:01 2026 -0800|bluez: update to 5.86
+4fa6e1225|Andrey Zotikov|Fri Feb 6 09:18:55 2026 +0300|haproxy: update config (maxconn, nbthread, ssl)
+229cd0bfe|Goetz Goerisch|Mon Feb 9 17:46:49 2026 +0100|jool: update to 4.1.15
+5ea0e44e7|Keith T. Garner|Thu Feb 12 09:27:47 2026 -0600|bluld: bump to version 1.1.3
+e46fbad87|Niklas Thorild|Fri Feb 13 12:08:08 2026 +0100|telegraf: update to 1.37.2 - Update Telegraf to v1.37.2
+73aa31cac|Niklas Thorild|Tue Feb 10 23:03:14 2026 +0100|telegraf: replace prometheus plugin with http plugin
+973541edc|Rui Salvaterra|Thu Jan 29 13:17:10 2026 +0000|tor: update to 0.4.8.22 stable
+c10e3a2cf|Michael Heimpold|Fri Feb 13 23:47:20 2026 +0100|libmodbus: update hash for v3.1.11 tarball
 </details>
