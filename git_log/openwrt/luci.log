@@ -2,22 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b6fc02d281|Paul Donald|Sat Feb 14 19:05:19 2026 +0100|luci-base: add tuple validator
-7ee6ba3dc2|Paul Donald|Mon Feb 16 01:37:41 2026 +0100|luci-base: jsdoc for validation
-b62a318cc2|Paul Donald|Sun Feb 15 07:40:56 2026 +0100|luci-app-babeld: lint fixes
-4de7515207|Paul Donald|Mon Feb 16 01:39:36 2026 +0100|luci-app-dockerman: lint fixes
-6d2eb7fa63|Paul Donald|Sun Feb 15 06:52:47 2026 +0100|luci-app-package-manager: js linting fixes / ES6 treatment
-2bebe21493|Paul Donald|Sun Feb 15 07:51:05 2026 +0100|luci-app-statistics: js linting fixes / ES6 treatment
-c567bfc2a8|Paul Donald|Sun Feb 15 04:50:28 2026 +0100|luci-app-olsr: js linting fixes / ES6 treatment
-25f9cb44a1|Paul Donald|Sun Feb 15 06:38:26 2026 +0100|luci-app-keepalived: lint fixes
-fbaa2c60e2|Paul Donald|Sat Feb 14 21:15:23 2026 +0100|luci-lib-uqr: lint fixes
-95b01600e3|Paul Donald|Sat Feb 14 04:59:49 2026 +0100|luci-mod: js linting fixes / ES6 treatment
-50a8d5325d|Paul Donald|Sat Feb 14 19:46:15 2026 +0100|luci-base: js linting fixes / ES6 treatment
-394d92e042|Paul Donald|Sat Feb 14 19:02:34 2026 +0100|luci-base: js linting fixes
-92381c3ca2|Paul Donald|Mon Feb 16 00:44:17 2026 +0100|luci-base: jsdoc fixes
-4900913d2a|Paul Donald|Mon Feb 16 01:42:55 2026 +0100|github: add linting for JS and MD
-44fd0155ff|Paul Donald|Mon Feb 16 01:06:46 2026 +0100|docs: refresh for JS and drop Lua references
-
-.....................
-
+90cf1c169e|Paul Donald|Mon Feb 16 22:55:32 2026 +0100|luci-app-statistics: js linting fixes / ES6 treatment
+92e1012314|Paul Donald|Mon Feb 16 03:41:23 2026 +0100|luci-base: fix front matter for luci-base classes
+74f5bbdc11|Paul Donald|Mon Feb 16 03:22:54 2026 +0100|github: re-work github pages deploy
+d7eb553596|Paul Donald|Mon Feb 16 02:49:03 2026 +0100|luci-mod-system: change regex to please jsmin
+d932d7cac2|Paul Donald|Mon Feb 16 02:15:13 2026 +0100|luci-app-firewall: js linting fixes / ES6 treatment
+b07c6833de|Paul Donald|Mon Feb 16 02:29:45 2026 +0100|luci-app: js linting fixes / ES6 treatment
 </details>

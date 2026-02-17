@@ -2,11 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4fa6e1225|Andrey Zotikov|Fri Feb 6 09:18:55 2026 +0300|haproxy: update config (maxconn, nbthread, ssl)
-229cd0bfe|Goetz Goerisch|Mon Feb 9 17:46:49 2026 +0100|jool: update to 4.1.15
-5ea0e44e7|Keith T. Garner|Thu Feb 12 09:27:47 2026 -0600|bluld: bump to version 1.1.3
-e46fbad87|Niklas Thorild|Fri Feb 13 12:08:08 2026 +0100|telegraf: update to 1.37.2 - Update Telegraf to v1.37.2
-73aa31cac|Niklas Thorild|Tue Feb 10 23:03:14 2026 +0100|telegraf: replace prometheus plugin with http plugin
-973541edc|Rui Salvaterra|Thu Jan 29 13:17:10 2026 +0000|tor: update to 0.4.8.22 stable
-c10e3a2cf|Michael Heimpold|Fri Feb 13 23:47:20 2026 +0100|libmodbus: update hash for v3.1.11 tarball
+f901d88ea|bdk38|Mon Feb 16 04:49:45 2026 -0800|ddns-scripts: add API-based registered IP verification for Cloudflare proxied records
+9dd488df0|George Sapkin|Sun Feb 15 11:52:24 2026 +0200|vim: bump to 9.2.0
 </details>
