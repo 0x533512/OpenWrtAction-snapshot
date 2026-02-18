@@ -2,10 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-90cf1c169e|Paul Donald|Mon Feb 16 22:55:32 2026 +0100|luci-app-statistics: js linting fixes / ES6 treatment
-92e1012314|Paul Donald|Mon Feb 16 03:41:23 2026 +0100|luci-base: fix front matter for luci-base classes
-74f5bbdc11|Paul Donald|Mon Feb 16 03:22:54 2026 +0100|github: re-work github pages deploy
-d7eb553596|Paul Donald|Mon Feb 16 02:49:03 2026 +0100|luci-mod-system: change regex to please jsmin
-d932d7cac2|Paul Donald|Mon Feb 16 02:15:13 2026 +0100|luci-app-firewall: js linting fixes / ES6 treatment
-b07c6833de|Paul Donald|Mon Feb 16 02:29:45 2026 +0100|luci-app: js linting fixes / ES6 treatment
+d28ebe1764|Paul Donald|Tue Feb 17 00:11:31 2026 +0100|luci-lib-chartjs: js linting fixes
 </details>

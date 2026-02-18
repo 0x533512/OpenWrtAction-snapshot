@@ -1,7 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-f901d88ea|bdk38|Mon Feb 16 04:49:45 2026 -0800|ddns-scripts: add API-based registered IP verification for Cloudflare proxied records
-9dd488df0|George Sapkin|Sun Feb 15 11:52:24 2026 +0200|vim: bump to 9.2.0
-</details>
