@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d28ebe1764|Paul Donald|Tue Feb 17 00:11:31 2026 +0100|luci-lib-chartjs: js linting fixes
+a8c9b694c8|Paul Donald|Thu Feb 19 01:15:58 2026 +0100|luci-mod-status: add null check
+ac8c3ddffb|Dirk Brenken|Wed Feb 18 21:25:54 2026 +0100|luci-app-travelmate: release 2.4.0-1
+755e299c34|Hosted Weblate|Wed Feb 18 17:58:50 2026 +0100|Translated using Weblate (Korean)
+172f7687e9|Paul Donald|Wed Feb 18 17:56:26 2026 +0100|luci-base: js linting fixes / ES6 treatment
+ad057c1491|Paul Donald|Wed Feb 18 16:32:43 2026 +0100|luci-base: js linting fixes / ES6 treatment
 </details>

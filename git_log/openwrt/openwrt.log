@@ -2,22 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c3f2a09a25|Hauke Mehrtens|Tue Feb 17 22:23:27 2026 +0100|ucode-mod-bpf: add CPPFLAGS
-77d896725f|Hauke Mehrtens|Tue Feb 17 22:22:44 2026 +0100|ebtables: add CPPFLAGS
-33b2c6f955|Hauke Mehrtens|Tue Feb 17 22:22:07 2026 +0100|arptables: add CPPFLAGS
-379d5b8bc4|Hauke Mehrtens|Tue Feb 17 01:19:50 2026 +0100|iwinfo: add CPPFLAGS
-b8ea5004f4|Hauke Mehrtens|Tue Feb 17 00:55:47 2026 +0100|zyxel-bootconfig: add CPPFLAGS
-ddb1c1ab33|Hauke Mehrtens|Tue Feb 17 00:55:27 2026 +0100|ravpower-mcu: add CPPFLAGS
-d69b283068|Hauke Mehrtens|Tue Feb 17 00:55:11 2026 +0100|wireless-tools: add CPPFLAGS
-0f1c1c581f|Hauke Mehrtens|Tue Feb 17 00:53:31 2026 +0100|resolveip: add CPPFLAGS
-bfd57eab3d|Hauke Mehrtens|Tue Feb 17 00:53:21 2026 +0100|iwcap: add CPPFLAGS
-53e6935960|Hauke Mehrtens|Tue Feb 17 00:28:23 2026 +0100|libcap: add CPPFLAGS
-cd1fda5c8b|Hauke Mehrtens|Mon Feb 16 01:48:09 2026 +0100|bzip2: add CPPFLAGS
-b497c3f68f|Hauke Mehrtens|Mon Feb 16 01:47:50 2026 +0100|6rd: add CPPFLAGS
-2ca7c2b846|Hauke Mehrtens|Mon Feb 16 01:47:01 2026 +0100|464xlat: add CPPFLAGS
-39e5f11631|Hauke Mehrtens|Tue Feb 17 01:19:25 2026 +0100|gdb: add CPPFLAGS
-35939e4db9|Hauke Mehrtens|Tue Feb 17 00:26:30 2026 +0100|binutils: add CPPFLAGS
-
-.....................
-
+784ed3aeb6|Hannu Nyman|Mon Feb 16 21:41:02 2026 +0200|tools/cmake: update to 4.2.3
+88f3c67eb2|Hal Martin|Wed Feb 18 19:11:54 2026 +0100|ipq40xx: add support for Cisco Meraki MR70
+cdf1ef0733|Hal Martin|Wed Feb 18 19:11:12 2026 +0100|ipq40xx: underdog device tree update
 </details>
