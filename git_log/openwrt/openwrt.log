@@ -2,7 +2,16 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-784ed3aeb6|Hannu Nyman|Mon Feb 16 21:41:02 2026 +0200|tools/cmake: update to 4.2.3
-88f3c67eb2|Hal Martin|Wed Feb 18 19:11:54 2026 +0100|ipq40xx: add support for Cisco Meraki MR70
-cdf1ef0733|Hal Martin|Wed Feb 18 19:11:12 2026 +0100|ipq40xx: underdog device tree update
+6c4c988a5f|Christian Marangi|Fri Feb 20 00:57:35 2026 +0100|airoha: an7583: fix wrong clock for SPI and SLIC
+9d78b2f53c|Yaroslav Isakov|Sat Feb 14 19:35:06 2026 +0100|hostapd: fix EAP-PWD in experimental hostapd-radius server
+50d3d287e4|Chad Monroe|Fri Feb 6 09:21:44 2026 -0800|hostapd: initialize first BSS radio_mask during driver init
+41bc454602|Felix Fietkau|Sat Feb 14 19:44:31 2026 +0000|wireguard-tools: rewrite proto handler in ucode
+c504cbd47c|Felix Fietkau|Sun Feb 15 08:27:59 2026 +0000|netifd: update to Git HEAD (2026-02-15)
+f2a532ec09|Robert Marko|Tue Feb 17 13:35:55 2026 +0100|mvebu: cortex-a53: uDPU/eDPU: cleanup recipe a bit
+f03bb44a08|Robert Marko|Tue Feb 17 13:00:04 2026 +0100|mvebu: move FitImage recipe to generic image Makefile
+89655c0825|Markus Stockhausen|Thu Feb 12 19:07:36 2026 +0100|realtek: eth: convert rx/tx enable bits to config value
+626d359975|Markus Stockhausen|Thu Feb 12 18:48:37 2026 +0100|realtek: eth: merge RTL93xx ring counter handling
+22db7540b7|Markus Stockhausen|Thu Feb 12 15:29:36 2026 +0100|realtek: eth: remove family usage in xmit path
+47d0773d7d|Markus Stockhausen|Thu Feb 12 14:53:11 2026 +0100|realtek: eth: cleanup packet length calculation
+a36ab12454|Carlo Szelinsky|Sat Feb 14 16:11:59 2026 +0100|realtek: mdio: register PHYs via fwnode for PSE support
 </details>

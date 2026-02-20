@@ -2,9 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7431a315b|Dirk Brenken|Wed Feb 18 21:18:23 2026 +0100|travelmate: release 2.4.0-1
-b19cb351e|Hannu Nyman|Wed Feb 18 20:03:45 2026 +0200|modbus: update to 3.1.12
-c99723a10|Til Kaiser|Wed Feb 18 16:20:09 2026 +0100|mstflint: update to 4.34.1-4
-3087142be|Christian Lachner|Wed Feb 18 08:28:32 2026 +0100|liburing: update to v2.14
-b441a83e9|Daniel F. Dickinson|Mon Feb 16 23:42:33 2026 -0500|nginx: fix module depends on nginx
+fe4c36969|Stijn Tintel|Fri Feb 6 14:22:23 2026 +0200|openthread-br: create state dir before starting
+f7e331751|Wei-Ting Yang|Tue Feb 10 19:03:14 2026 +0800|treewide: fix licenses
+1d876b089|Yanase Yuki|Thu Jan 15 16:03:43 2026 +0900|inadyn: remove package
+b9e434f96|Miroslav Lichvar|Tue Feb 10 20:21:34 2026 +0100|borgbackup: update to 1.4.3
 </details>

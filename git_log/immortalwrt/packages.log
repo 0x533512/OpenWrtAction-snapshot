@@ -1,0 +1,23 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+e515dc692|Tianling Shen|Thu Feb 19 16:10:41 2026 +0800|Merge Official Source
+1d876b089|Yanase Yuki|Thu Jan 15 16:03:43 2026 +0900|inadyn: remove package
+b9e434f96|Miroslav Lichvar|Tue Feb 10 20:21:34 2026 +0100|borgbackup: update to 1.4.3
+7431a315b|Dirk Brenken|Wed Feb 18 21:18:23 2026 +0100|travelmate: release 2.4.0-1
+b19cb351e|Hannu Nyman|Wed Feb 18 20:03:45 2026 +0200|modbus: update to 3.1.12
+c99723a10|Til Kaiser|Wed Feb 18 16:20:09 2026 +0100|mstflint: update to 4.34.1-4
+3087142be|Christian Lachner|Wed Feb 18 08:28:32 2026 +0100|liburing: update to v2.14
+b441a83e9|Daniel F. Dickinson|Mon Feb 16 23:42:33 2026 -0500|nginx: fix module depends on nginx
+f901d88ea|bdk38|Mon Feb 16 04:49:45 2026 -0800|ddns-scripts: add API-based registered IP verification for Cloudflare proxied records
+9dd488df0|George Sapkin|Sun Feb 15 11:52:24 2026 +0200|vim: bump to 9.2.0
+4fa6e1225|Andrey Zotikov|Fri Feb 6 09:18:55 2026 +0300|haproxy: update config (maxconn, nbthread, ssl)
+229cd0bfe|Goetz Goerisch|Mon Feb 9 17:46:49 2026 +0100|jool: update to 4.1.15
+5ea0e44e7|Keith T. Garner|Thu Feb 12 09:27:47 2026 -0600|bluld: bump to version 1.1.3
+e46fbad87|Niklas Thorild|Fri Feb 13 12:08:08 2026 +0100|telegraf: update to 1.37.2 - Update Telegraf to v1.37.2
+73aa31cac|Niklas Thorild|Tue Feb 10 23:03:14 2026 +0100|telegraf: replace prometheus plugin with http plugin
+
+.....................
+
+</details>
