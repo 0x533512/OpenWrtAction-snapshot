@@ -2,16 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6c4c988a5f|Christian Marangi|Fri Feb 20 00:57:35 2026 +0100|airoha: an7583: fix wrong clock for SPI and SLIC
-9d78b2f53c|Yaroslav Isakov|Sat Feb 14 19:35:06 2026 +0100|hostapd: fix EAP-PWD in experimental hostapd-radius server
-50d3d287e4|Chad Monroe|Fri Feb 6 09:21:44 2026 -0800|hostapd: initialize first BSS radio_mask during driver init
-41bc454602|Felix Fietkau|Sat Feb 14 19:44:31 2026 +0000|wireguard-tools: rewrite proto handler in ucode
-c504cbd47c|Felix Fietkau|Sun Feb 15 08:27:59 2026 +0000|netifd: update to Git HEAD (2026-02-15)
-f2a532ec09|Robert Marko|Tue Feb 17 13:35:55 2026 +0100|mvebu: cortex-a53: uDPU/eDPU: cleanup recipe a bit
-f03bb44a08|Robert Marko|Tue Feb 17 13:00:04 2026 +0100|mvebu: move FitImage recipe to generic image Makefile
-89655c0825|Markus Stockhausen|Thu Feb 12 19:07:36 2026 +0100|realtek: eth: convert rx/tx enable bits to config value
-626d359975|Markus Stockhausen|Thu Feb 12 18:48:37 2026 +0100|realtek: eth: merge RTL93xx ring counter handling
-22db7540b7|Markus Stockhausen|Thu Feb 12 15:29:36 2026 +0100|realtek: eth: remove family usage in xmit path
-47d0773d7d|Markus Stockhausen|Thu Feb 12 14:53:11 2026 +0100|realtek: eth: cleanup packet length calculation
-a36ab12454|Carlo Szelinsky|Sat Feb 14 16:11:59 2026 +0100|realtek: mdio: register PHYs via fwnode for PSE support
+81b148fd38|Jonas Jelonek|Wed Sep 3 21:55:29 2025 +0000|realtek: add support for XikeStor SKS8300-12X V1
+659719d8ca|Jonas Jelonek|Sun Feb 8 00:21:10 2026 +0000|realtek: image: make xikestor-nosimg a common recipe
+7f74364672|Jonas Jelonek|Sat Feb 7 23:36:16 2026 +0000|realtek: arch: add early watchdog quirk
+3bf55d8bd4|Jan Hoffmann|Mon Feb 16 21:36:05 2026 +0100|realtek: switch Netgear RTL8380 devices to NVMEM
+3f4b03cfe1|Jan Hoffmann|Mon Feb 16 21:20:56 2026 +0100|realtek: rtl838x: enable U-Boot env NVMEM layout in kernel
+1ff39f9e98|Markus Stockhausen|Fri Feb 20 07:55:24 2026 +0100|realtek: mdio: setup polling for RTL8261
+b270580dea|Rosen Penev|Wed Feb 18 17:25:38 2026 -0800|Revert "bmips: huawei-hg556a-c: use nvmem for wifi eeprom"
+0efd79b185|Markus Stockhausen|Wed Feb 18 08:27:30 2026 +0100|realtek: mdio: use register field indentation
+2e507f2edc|Markus Stockhausen|Wed Feb 18 08:12:06 2026 +0100|realtek: mdio: taker over RTL931x PHY polling from DSA
+8f0b2b7d78|Daniel Dickinson|Sun Jan 3 01:02:55 2016 -0500|toolchain: sdk: ib: allow external toolchain override
+c69beade60|Daniel Golle|Fri Feb 20 14:49:02 2026 +0000|Revert "package: kernel: dtc: Add DTO support"
+e8a899fd71|Markus Stockhausen|Thu Feb 19 21:50:59 2026 +0100|realtek: eth: drop unused defines
+2736314ccd|Markus Stockhausen|Thu Feb 19 21:33:57 2026 +0100|realtek: eth: remove DMA_IF_RX_CUR definition
+ee7ff1e8b0|Markus Stockhausen|Thu Feb 19 21:22:58 2026 +0100|realtek: eth: simplify MAC_FORCE_MODE_CTRL usage
+2256cfac68|Felix Fietkau|Fri Feb 20 18:05:45 2026 +0000|wireguard-tools: fix string indexing in endpoint host check
+
+.....................
+
 </details>
