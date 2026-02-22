@@ -2,13 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-cadf02496|Dirk Brenken|Fri Feb 20 20:21:17 2026 +0100|adblock: update 4.5.1-3
-0643531d3|Daniel Golle|Wed Feb 11 00:49:34 2026 +0000|mptcpd: update to 0.14
-7ee28465d|Daniel Golle|Wed Feb 11 01:16:33 2026 +0000|ell: update to 0.82
-559c6c7de|Dirk Brenken|Fri Feb 20 18:07:07 2026 +0100|travelmate: update 2.4.0-2
-6080e2de2|Wei-Ting Yang|Fri Feb 20 15:21:52 2026 +0800|hdparm: fix license
-23324d9ca|Rui Salvaterra|Mon Feb 16 11:25:58 2026 +0000|tor: update to 0.4.9.5 stable
-3bdbc9474|George Sapkin|Thu Feb 19 19:27:33 2026 +0200|adguardhome: bump to 0.107.72
-779b1ef2a|George Sapkin|Wed Feb 11 11:12:18 2026 +0200|adguardhome: fix procd
-d2617ca21|George Sapkin|Thu Nov 6 18:27:39 2025 +0200|adguardhome: respawn on crash
+0814aba3b|Hauke Mehrtens|Sat Feb 21 19:46:11 2026 +0100|libutp: deactivate -Werror
+8d0ba1c17|Goetz Goerisch|Wed Jan 28 08:40:39 2026 +0100|tayga: update to Git HEAD (2026-01-27)
+eccee9a59|John Audia|Fri Feb 6 16:41:44 2026 -0500|lxc-auto: add optional dnsmasq dep wait on startup
+7c3e37696|XCas13|Sun Feb 8 11:26:05 2026 +0400|btop: patch to move the log file to tmpfs
+b8aa4a1f9|Gregory Gullin|Mon Feb 9 14:25:25 2026 +0300|micro: update to 2.0.15
+9514c7f6d|Maxim Storchak|Fri Feb 13 14:58:43 2026 +0200|socat: update to 1.8.1.1
+091ba82c3|Dirk Brenken|Sat Feb 21 11:48:49 2026 +0100|banip: update 1.8.0-3
 </details>

@@ -2,22 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-81b148fd38|Jonas Jelonek|Wed Sep 3 21:55:29 2025 +0000|realtek: add support for XikeStor SKS8300-12X V1
-659719d8ca|Jonas Jelonek|Sun Feb 8 00:21:10 2026 +0000|realtek: image: make xikestor-nosimg a common recipe
-7f74364672|Jonas Jelonek|Sat Feb 7 23:36:16 2026 +0000|realtek: arch: add early watchdog quirk
-3bf55d8bd4|Jan Hoffmann|Mon Feb 16 21:36:05 2026 +0100|realtek: switch Netgear RTL8380 devices to NVMEM
-3f4b03cfe1|Jan Hoffmann|Mon Feb 16 21:20:56 2026 +0100|realtek: rtl838x: enable U-Boot env NVMEM layout in kernel
-1ff39f9e98|Markus Stockhausen|Fri Feb 20 07:55:24 2026 +0100|realtek: mdio: setup polling for RTL8261
-b270580dea|Rosen Penev|Wed Feb 18 17:25:38 2026 -0800|Revert "bmips: huawei-hg556a-c: use nvmem for wifi eeprom"
-0efd79b185|Markus Stockhausen|Wed Feb 18 08:27:30 2026 +0100|realtek: mdio: use register field indentation
-2e507f2edc|Markus Stockhausen|Wed Feb 18 08:12:06 2026 +0100|realtek: mdio: taker over RTL931x PHY polling from DSA
-8f0b2b7d78|Daniel Dickinson|Sun Jan 3 01:02:55 2016 -0500|toolchain: sdk: ib: allow external toolchain override
-c69beade60|Daniel Golle|Fri Feb 20 14:49:02 2026 +0000|Revert "package: kernel: dtc: Add DTO support"
-e8a899fd71|Markus Stockhausen|Thu Feb 19 21:50:59 2026 +0100|realtek: eth: drop unused defines
-2736314ccd|Markus Stockhausen|Thu Feb 19 21:33:57 2026 +0100|realtek: eth: remove DMA_IF_RX_CUR definition
-ee7ff1e8b0|Markus Stockhausen|Thu Feb 19 21:22:58 2026 +0100|realtek: eth: simplify MAC_FORCE_MODE_CTRL usage
-2256cfac68|Felix Fietkau|Fri Feb 20 18:05:45 2026 +0000|wireguard-tools: fix string indexing in endpoint host check
-
-.....................
-
+85250b94f6|Felix Baumann|Wed Aug 27 17:44:19 2025 +0200|mediatek: add the aquantia kmod to bpi-r4
+75c772899c|Markus Stockhausen|Tue Feb 17 19:19:22 2026 +0100|realtek: dsa: derive dsa port count and irq mask from cpu port
+9a0bd2d1aa|Markus Stockhausen|Tue Feb 17 19:06:54 2026 +0100|realtek: dsa: move n_pie_blocks into config structure
+42a311bac9|Markus Stockhausen|Tue Feb 17 18:52:49 2026 +0100|realtek: dsa: move n_counters into config structure
+b74e261d56|Markus Stockhausen|Sat Feb 14 19:40:31 2026 +0100|realtek: eth: merge & simplify irq handlers
+8e33c40c7f|Markus Stockhausen|Fri Feb 20 17:21:37 2026 +0100|realtek: fix LGS352C DTS
+00ceb1ed17|Jonas Jelonek|Wed Feb 18 20:18:21 2026 +0000|realtek: pcs: rtl931x: configure SerDes-backing MAC groups
 </details>
