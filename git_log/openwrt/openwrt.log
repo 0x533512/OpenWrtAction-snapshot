@@ -2,11 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-85250b94f6|Felix Baumann|Wed Aug 27 17:44:19 2025 +0200|mediatek: add the aquantia kmod to bpi-r4
-75c772899c|Markus Stockhausen|Tue Feb 17 19:19:22 2026 +0100|realtek: dsa: derive dsa port count and irq mask from cpu port
-9a0bd2d1aa|Markus Stockhausen|Tue Feb 17 19:06:54 2026 +0100|realtek: dsa: move n_pie_blocks into config structure
-42a311bac9|Markus Stockhausen|Tue Feb 17 18:52:49 2026 +0100|realtek: dsa: move n_counters into config structure
-b74e261d56|Markus Stockhausen|Sat Feb 14 19:40:31 2026 +0100|realtek: eth: merge & simplify irq handlers
-8e33c40c7f|Markus Stockhausen|Fri Feb 20 17:21:37 2026 +0100|realtek: fix LGS352C DTS
-00ceb1ed17|Jonas Jelonek|Wed Feb 18 20:18:21 2026 +0000|realtek: pcs: rtl931x: configure SerDes-backing MAC groups
+eb3b8b3862|Shiji Yang|Tue Jan 6 20:19:30 2026 +0800|mediatek: backport various pinctrl fixes
+b18518c2f0|Shiji Yang|Tue Jan 6 20:19:30 2026 +0800|uboot-mediatek: backport various pinctrl fixes
 </details>

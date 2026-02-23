@@ -2,6 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a7c82c5596|Hannu Nyman|Sat Feb 21 13:16:38 2026 +0200|treewide: sync translations
-3696d66591|Dirk Brenken|Sat Feb 21 05:40:46 2026 +0100|luci-app-banip: update 1.8.0-3
+d2b850b69c|Hosted Weblate|Sun Feb 22 17:48:01 2026 +0100|Translated using Weblate (Polish)
+f0b11adf7e|Paul Donald|Thu Feb 19 03:55:58 2026 +0100|luci-app-openvpn: drop lua app
+c0a3c1223e|Paul Donald|Sun Feb 22 17:16:33 2026 +0100|luci-proto-openvpn: graft app i18n strings into luci-base
+5306e00765|Paul Donald|Fri Feb 6 02:25:33 2026 +0100|luci-proto-openvpn: add protocol handler
+7f6ba9d460|Paul Donald|Sun Feb 22 16:51:25 2026 +0100|docs: favicon and hierarchy
 </details>

@@ -2,11 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0814aba3b|Hauke Mehrtens|Sat Feb 21 19:46:11 2026 +0100|libutp: deactivate -Werror
-8d0ba1c17|Goetz Goerisch|Wed Jan 28 08:40:39 2026 +0100|tayga: update to Git HEAD (2026-01-27)
-eccee9a59|John Audia|Fri Feb 6 16:41:44 2026 -0500|lxc-auto: add optional dnsmasq dep wait on startup
-7c3e37696|XCas13|Sun Feb 8 11:26:05 2026 +0400|btop: patch to move the log file to tmpfs
-b8aa4a1f9|Gregory Gullin|Mon Feb 9 14:25:25 2026 +0300|micro: update to 2.0.15
-9514c7f6d|Maxim Storchak|Fri Feb 13 14:58:43 2026 +0200|socat: update to 1.8.1.1
-091ba82c3|Dirk Brenken|Sat Feb 21 11:48:49 2026 +0100|banip: update 1.8.0-3
+7f3badc94|Olivier Poitrey|Sun Feb 22 06:14:28 2026 +0000|nextdns: update to version 1.47.1
+6b054c6ce|Paul Donald|Wed Feb 11 17:51:21 2026 +0100|openvpn: drop unused eurephia
+90d5a8ce3|Paul Donald|Sun Feb 8 22:47:32 2026 +0100|openvpn: enable management interface
+0ff7aa62f|Paul Donald|Sun Feb 8 22:46:39 2026 +0100|openvpn: disable compression in builds
+affa96dc8|Paul Donald|Mon Feb 16 21:23:38 2026 +0100|openvpn: introduce ucode proto handler
+2607b7615|Paul Donald|Mon Feb 16 20:01:50 2026 +0100|openvpn: introduce proto handler
 </details>
