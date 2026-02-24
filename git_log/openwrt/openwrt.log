@@ -2,6 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-eb3b8b3862|Shiji Yang|Tue Jan 6 20:19:30 2026 +0800|mediatek: backport various pinctrl fixes
-b18518c2f0|Shiji Yang|Tue Jan 6 20:19:30 2026 +0800|uboot-mediatek: backport various pinctrl fixes
+cf4cd07777|Markus Stockhausen|Fri Feb 20 20:51:05 2026 +0100|realtek: dsa: allow building as a module
+f45cfd1f43|Markus Stockhausen|Fri Feb 20 20:48:54 2026 +0100|realtek: eth: remove fixed dsa coupling
+c6bbdb6489|Markus Stockhausen|Fri Feb 20 20:44:38 2026 +0100|realtek: mach: export soc_info
+42cd486787|Eicke Herbertz|Sat Feb 21 17:35:54 2026 +0100|ath79: remove kmod-ath9k and wpad from Mikrotik RB750r2
+0bfcb0a36c|Shiji Yang|Sun Feb 22 10:52:20 2026 +0800|kernel: net: fix deadlock caused by phy led trigger
+f0c9cbd35b|Robert Marko|Mon Feb 23 11:01:08 2026 +0100|netifd: update to Git HEAD (2026-02-23)
+ee5999cf78|Rosen Penev|Wed Feb 18 17:57:22 2026 -0800|treewide: linksys: use nvmem MAC for hw_mac_addr
+581d10ebfc|Rosen Penev|Thu Feb 19 17:40:44 2026 -0800|ipq806x: nbg6817: use nvmem for MAC addresses
+aef4d9e677|Rosen Penev|Thu Feb 19 17:23:00 2026 -0800|ipq806x: ac400i: use nvmem for MAC addresses
 </details>

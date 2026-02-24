@@ -1,0 +1,12 @@
+<details> <summary> <b>telephony new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+a001cfb|Andre Heider|Wed Jan 21 10:30:03 2026 +0100|asterisk: VM_MESSAGEFILE
+9ad2f46|Andre Heider|Wed Jun 14 10:09:56 2023 +0200|asterix: fix build with CONFIG_OPENSSL_NO_DEPRECATED
+04c1b2a|Andre Heider|Thu Nov 4 09:16:09 2021 +0100|asterisk: add an 'interface' option to trigger reregister events
+1b924c1|Andre Heider|Thu Nov 4 08:57:09 2021 +0100|asterisk: add a reregister extra command
+cc89b4b|Andre Heider|Thu Nov 4 09:35:18 2021 +0100|asterisk: clean up init.d script
+7c0646c|Andre Heider|Thu Jan 8 14:50:54 2026 +0100|asterisk: fix module conflicts
+0122fa1|Paul Donald|Fri Feb 20 05:41:20 2026 +0100|asterisk: bump to 23.2.2
+</details>

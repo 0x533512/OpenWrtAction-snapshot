@@ -2,9 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d2b850b69c|Hosted Weblate|Sun Feb 22 17:48:01 2026 +0100|Translated using Weblate (Polish)
-f0b11adf7e|Paul Donald|Thu Feb 19 03:55:58 2026 +0100|luci-app-openvpn: drop lua app
-c0a3c1223e|Paul Donald|Sun Feb 22 17:16:33 2026 +0100|luci-proto-openvpn: graft app i18n strings into luci-base
-5306e00765|Paul Donald|Fri Feb 6 02:25:33 2026 +0100|luci-proto-openvpn: add protocol handler
-7f6ba9d460|Paul Donald|Sun Feb 22 16:51:25 2026 +0100|docs: favicon and hierarchy
+b3dc47ea07|Paul Donald|Tue Feb 24 01:47:31 2026 +0100|luci-app-openvpn: drop lua app
+f578786152|Paul Donald|Mon Feb 23 22:03:39 2026 +0100|luci-app-bmx7: convert to JS
 </details>
