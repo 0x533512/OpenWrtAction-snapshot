@@ -2,16 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ba57225066|Sander Vanheule|Sat Feb 21 15:00:39 2026 +0100|realtek: hog the GS1900-24E external IC reset line
-cdbd9eb448|Sander Vanheule|Sat Feb 21 14:44:23 2026 +0100|realtek: rtl838x: drop GS1900 MDIO reset GPIO
-7c5e329b54|Hauke Mehrtens|Sun Feb 22 23:11:47 2026 +0100|wireless-regdb: update to version 2026.02.04
-5f063d18bd|Jonas Lochmann|Mon Feb 16 01:00:00 2026 +0100|iproute2: include upstream patch for musl libc
-7ee18e84dc|Ahmed Naseef|Thu Feb 19 16:00:52 2026 +0400|econet: en7528: split DASAN H660GM-A into Airtel and Generic variants
-55c01365de|Felix Fietkau|Sat Feb 21 10:14:13 2026 +0000|mac80211: backport eMLSR/eMLMR parsing support
-22ccb445e6|Mieczyslaw Nalewaj|Wed Oct 29 00:23:02 2025 +0100|mt7620: workaround jal imm26 and redundant PAGE_ALIGN
-dfbaf84650|Robert Marko|Tue Feb 24 14:37:33 2026 +0100|ath79: mikrotik: fix DEVICE_PACKAGES
-7bbe8d560c|Robert Marko|Tue Feb 24 11:46:24 2026 +0100|mvebu: use libdeflate for FitImage
-231553b280|Tim Harvey|Thu Feb 19 17:01:48 2026 -0800|imx: cortexa53: remove KSZ9477 static driver
-c053b22573|Tim Harvey|Thu Feb 19 16:57:29 2026 -0800|kernel: netdevices: add KSZ9477 DSA switch packages
-2eb1f7df26|Rosen Penev|Mon Feb 23 13:09:06 2026 -0800|mac80211: ath9k: fix memory leak
+f5637607a2|Rosen Penev|Mon Feb 16 20:00:40 2026 -0800|bcm53xx: meraki mx6x: use nvmem MAC assignment
+73a41c38e7|Shiji Yang|Tue Feb 24 19:00:02 2026 +0800|ramips: dts: convert to dt-bindings clock index
 </details>

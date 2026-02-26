@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-5a82fcebe|xiao bo|Sat Feb 21 22:53:14 2026 +0800|sing-box: update to 1.12.22
-55f8be8cb|Niklas Thorild|Tue Feb 24 12:26:37 2026 +0100|telegraf: update to 1.37.3 - Update Telegraf to v1.37.3
+6c1190469|Toke Høiland-Jørgensen|Wed Feb 25 13:42:10 2026 +0100|net/sqm-scripts: bump to v1.7.2
 </details>

@@ -1,0 +1,23 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+58bba1d37|Tianling Shen|Wed Feb 25 15:43:35 2026 +0800|ps3netsrv: Update to 20250803
+38a5ca282|Tianling Shen|Wed Feb 25 10:58:53 2026 +0800|Merge Official Source
+5a82fcebe|xiao bo|Sat Feb 21 22:53:14 2026 +0800|sing-box: update to 1.12.22
+55f8be8cb|Niklas Thorild|Tue Feb 24 12:26:37 2026 +0100|telegraf: update to 1.37.3 - Update Telegraf to v1.37.3
+a11d53a6c|Philip Prindeville|Mon Feb 23 14:10:23 2026 -0700|clixon: update to 7.7.0
+82617a1a3|Philip Prindeville|Mon Feb 23 14:09:49 2026 -0700|cligen: update to 7.7.0
+19f9f7861|Dirk Brenken|Mon Feb 23 17:05:26 2026 +0100|adblock: update 4.5.1-4
+350065b65|Toke Høiland-Jørgensen|Mon Feb 23 15:40:58 2026 +0100|net/sqm-scripts: bump to v1.7.1
+3c3222519|Rosen Penev|Thu Feb 5 19:45:28 2026 -0800|python-gmpy2: update to 2.2.2
+7f3badc94|Olivier Poitrey|Sun Feb 22 06:14:28 2026 +0000|nextdns: update to version 1.47.1
+6b054c6ce|Paul Donald|Wed Feb 11 17:51:21 2026 +0100|openvpn: drop unused eurephia
+90d5a8ce3|Paul Donald|Sun Feb 8 22:47:32 2026 +0100|openvpn: enable management interface
+0ff7aa62f|Paul Donald|Sun Feb 8 22:46:39 2026 +0100|openvpn: disable compression in builds
+affa96dc8|Paul Donald|Mon Feb 16 21:23:38 2026 +0100|openvpn: introduce ucode proto handler
+2607b7615|Paul Donald|Mon Feb 16 20:01:50 2026 +0100|openvpn: introduce proto handler
+
+.....................
+
+</details>
