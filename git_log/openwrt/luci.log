@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8154ad7569|Jonas Köppeler|Wed Feb 18 13:08:04 2026 +0100|luci-app-sqm: add use_mq config option
-faad88a488|Hosted Weblate|Wed Feb 25 07:48:07 2026 +0100|Translated using Weblate (Spanish)
+5d2db5baad|Stan Grishin|Wed Feb 25 19:14:01 2026 +0000|luci-app-pbr: update to 1.2.2-r6
+0d3cab72c6|Stan Grishin|Tue Feb 24 21:48:32 2026 +0000|luci-app-adblock-fast: update to 1.2.2-r6
 </details>

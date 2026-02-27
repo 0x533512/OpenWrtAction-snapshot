@@ -1,9 +1,0 @@
-<details> <summary> <b>routing new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-7c432d2|Simon Wunderlich|Wed Feb 25 09:18:22 2026 +0100|Merge pull request #1161 from ecsv/batadv-2026.0
-5763ead|Sven Eckelmann|Tue Feb 24 17:39:03 2026 +0100|alfred: update to version 2026.0
-a25b1ab|Sven Eckelmann|Tue Feb 24 17:39:03 2026 +0100|batctl: update to version 2026.0
-96a472f|Sven Eckelmann|Tue Feb 24 17:39:03 2026 +0100|batman-adv: update to version 2026.0
-</details>

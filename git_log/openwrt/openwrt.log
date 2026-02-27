@@ -2,6 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-f5637607a2|Rosen Penev|Mon Feb 16 20:00:40 2026 -0800|bcm53xx: meraki mx6x: use nvmem MAC assignment
-73a41c38e7|Shiji Yang|Tue Feb 24 19:00:02 2026 +0800|ramips: dts: convert to dt-bindings clock index
+6678487f16|Thomas Richard|Mon Feb 2 14:34:03 2026 +0100|arm-trusted-firmware-stm32: bump to v2.14
+0903b398a3|Thomas Richard|Mon Feb 2 14:33:16 2026 +0100|uboot-stm32: bump to 2026.01
+02d64076aa|Thomas Richard|Mon Feb 2 14:32:43 2026 +0100|optee-os-stm32: bump to 4.9.0
+efcd70cb19|Hauke Mehrtens|Wed Feb 25 01:26:02 2026 +0100|mac80211: activate BRCMFMAC_SDIO on x86
+69daeebc9a|Hauke Mehrtens|Thu Feb 26 00:41:11 2026 +0100|wifi-scripts: fix handling of 64 character WPA key
+758c8a26e9|Hauke Mehrtens|Wed Feb 25 22:42:56 2026 +0100|ramips: mt7621: fix network configuration
+c4d875cae2|Felix Fietkau|Thu Feb 26 12:05:35 2026 +0000|netifd: update to Git HEAD (2026-02-26)
 </details>
