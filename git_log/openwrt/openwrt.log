@@ -2,11 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6678487f16|Thomas Richard|Mon Feb 2 14:34:03 2026 +0100|arm-trusted-firmware-stm32: bump to v2.14
-0903b398a3|Thomas Richard|Mon Feb 2 14:33:16 2026 +0100|uboot-stm32: bump to 2026.01
-02d64076aa|Thomas Richard|Mon Feb 2 14:32:43 2026 +0100|optee-os-stm32: bump to 4.9.0
-efcd70cb19|Hauke Mehrtens|Wed Feb 25 01:26:02 2026 +0100|mac80211: activate BRCMFMAC_SDIO on x86
-69daeebc9a|Hauke Mehrtens|Thu Feb 26 00:41:11 2026 +0100|wifi-scripts: fix handling of 64 character WPA key
-758c8a26e9|Hauke Mehrtens|Wed Feb 25 22:42:56 2026 +0100|ramips: mt7621: fix network configuration
-c4d875cae2|Felix Fietkau|Thu Feb 26 12:05:35 2026 +0000|netifd: update to Git HEAD (2026-02-26)
+73bfb34284|Rafał Miłecki|Fri Feb 27 20:40:20 2026 +0100|bcm53xx: fix switch standalone ports (like "wan")
+d2f0542c51|Markus Stockhausen|Sun Feb 22 18:01:11 2026 +0100|realtek: dsa: convert RTL83xx to new fast_age()
+f3743850bf|Markus Stockhausen|Sun Feb 22 17:40:00 2026 +0100|realtek: dsa: switch RTL93xx to new fast_age()
+b37c4dbb2a|Markus Stockhausen|Sun Feb 22 14:09:07 2026 +0100|realtek: dsa: provide generic fast_age for RTL93xx
+0f878ab9dc|Markus Stockhausen|Sun Feb 22 14:29:55 2026 +0100|realtek: dsa: temporary rename of RTL93xx fast age functions
+94b89029c2|Markus Stockhausen|Mon Feb 23 18:43:45 2026 +0100|realtek: eth: remove obsolete code
+370c99b4ec|Markus Stockhausen|Mon Feb 23 18:44:29 2026 +0100|realtek: eth: simplify napi handler
+0eac896cc7|Markus Stockhausen|Mon Feb 23 18:44:25 2026 +0100|realtek: eth: be defensive in rteth_confirm_and_disable_irqs()
+46da6feabc|Markus Stockhausen|Mon Feb 23 18:44:16 2026 +0100|realtek: eth: provide helper for irq reenabling
+3bcbbb0ac7|John Audia|Thu Feb 19 14:58:26 2026 -0500|kernel: bump 6.12 to 6.12.74
+3c1e45a39f|John Audia|Mon Feb 16 12:42:22 2026 -0500|kernel: bump 6.12 to 6.12.73
+129244d618|John Audia|Mon Feb 16 06:55:53 2026 -0500|kernel: bump 6.12 to 6.12.72
+d4845bf618|Rosen Penev|Wed Feb 25 20:02:34 2026 -0800|Revert "lantiq: arv7525pw: use nvmem for eeprom"
+aa78fa72e1|Robert Marko|Fri Feb 27 11:16:55 2026 +0100|generic: add CONFIG_REGULATOR_QCOM_LABIBB
+255c1d3da0|Robert Marko|Fri Feb 27 11:15:06 2026 +0100|generic: add CONFIG_REGULATOR_QCOM_SPMI
+
+.....................
+
 </details>

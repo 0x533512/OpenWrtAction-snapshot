@@ -1,0 +1,23 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+622c63a1ed|Tianling Shen|Fri Feb 27 11:53:08 2026 +0800|ath79/ramips: switch to full feature wpad-openssl by default
+7851ad8eb1|Tianling Shen|Fri Feb 27 11:42:47 2026 +0800|target: fix wpad variant selection
+859f5741a1|Tianling Shen|Fri Feb 27 11:21:52 2026 +0800|Merge Official Source
+6678487f16|Thomas Richard|Mon Feb 2 14:34:03 2026 +0100|arm-trusted-firmware-stm32: bump to v2.14
+0903b398a3|Thomas Richard|Mon Feb 2 14:33:16 2026 +0100|uboot-stm32: bump to 2026.01
+02d64076aa|Thomas Richard|Mon Feb 2 14:32:43 2026 +0100|optee-os-stm32: bump to 4.9.0
+efcd70cb19|Hauke Mehrtens|Wed Feb 25 01:26:02 2026 +0100|mac80211: activate BRCMFMAC_SDIO on x86
+69daeebc9a|Hauke Mehrtens|Thu Feb 26 00:41:11 2026 +0100|wifi-scripts: fix handling of 64 character WPA key
+758c8a26e9|Hauke Mehrtens|Wed Feb 25 22:42:56 2026 +0100|ramips: mt7621: fix network configuration
+c4d875cae2|Felix Fietkau|Thu Feb 26 12:05:35 2026 +0000|netifd: update to Git HEAD (2026-02-26)
+f5637607a2|Rosen Penev|Mon Feb 16 20:00:40 2026 -0800|bcm53xx: meraki mx6x: use nvmem MAC assignment
+73a41c38e7|Shiji Yang|Tue Feb 24 19:00:02 2026 +0800|ramips: dts: convert to dt-bindings clock index
+ba57225066|Sander Vanheule|Sat Feb 21 15:00:39 2026 +0100|realtek: hog the GS1900-24E external IC reset line
+cdbd9eb448|Sander Vanheule|Sat Feb 21 14:44:23 2026 +0100|realtek: rtl838x: drop GS1900 MDIO reset GPIO
+7c5e329b54|Hauke Mehrtens|Sun Feb 22 23:11:47 2026 +0100|wireless-regdb: update to version 2026.02.04
+
+.....................
+
+</details>
