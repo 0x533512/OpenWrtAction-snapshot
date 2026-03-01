@@ -2,22 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-73bfb34284|Rafał Miłecki|Fri Feb 27 20:40:20 2026 +0100|bcm53xx: fix switch standalone ports (like "wan")
-d2f0542c51|Markus Stockhausen|Sun Feb 22 18:01:11 2026 +0100|realtek: dsa: convert RTL83xx to new fast_age()
-f3743850bf|Markus Stockhausen|Sun Feb 22 17:40:00 2026 +0100|realtek: dsa: switch RTL93xx to new fast_age()
-b37c4dbb2a|Markus Stockhausen|Sun Feb 22 14:09:07 2026 +0100|realtek: dsa: provide generic fast_age for RTL93xx
-0f878ab9dc|Markus Stockhausen|Sun Feb 22 14:29:55 2026 +0100|realtek: dsa: temporary rename of RTL93xx fast age functions
-94b89029c2|Markus Stockhausen|Mon Feb 23 18:43:45 2026 +0100|realtek: eth: remove obsolete code
-370c99b4ec|Markus Stockhausen|Mon Feb 23 18:44:29 2026 +0100|realtek: eth: simplify napi handler
-0eac896cc7|Markus Stockhausen|Mon Feb 23 18:44:25 2026 +0100|realtek: eth: be defensive in rteth_confirm_and_disable_irqs()
-46da6feabc|Markus Stockhausen|Mon Feb 23 18:44:16 2026 +0100|realtek: eth: provide helper for irq reenabling
-3bcbbb0ac7|John Audia|Thu Feb 19 14:58:26 2026 -0500|kernel: bump 6.12 to 6.12.74
-3c1e45a39f|John Audia|Mon Feb 16 12:42:22 2026 -0500|kernel: bump 6.12 to 6.12.73
-129244d618|John Audia|Mon Feb 16 06:55:53 2026 -0500|kernel: bump 6.12 to 6.12.72
-d4845bf618|Rosen Penev|Wed Feb 25 20:02:34 2026 -0800|Revert "lantiq: arv7525pw: use nvmem for eeprom"
-aa78fa72e1|Robert Marko|Fri Feb 27 11:16:55 2026 +0100|generic: add CONFIG_REGULATOR_QCOM_LABIBB
-255c1d3da0|Robert Marko|Fri Feb 27 11:15:06 2026 +0100|generic: add CONFIG_REGULATOR_QCOM_SPMI
-
-.....................
-
+525a1e94b3|Hauke Mehrtens|Sat Feb 28 20:43:11 2026 +0100|toolchain: binutils: fix update to 2.45.1
+296b286a67|Hauke Mehrtens|Thu Feb 26 20:49:17 2026 +0100|lantiq: dm200: Fix loading PHY firmware
+d527fc3c1c|Linus Lüssing|Wed Jan 28 01:52:15 2026 +0100|realtek: remove currently unused VLAN profile_id 1
+a0e11f61a9|Linus Lüssing|Sat May 10 15:38:49 2025 +0200|realtek: setup special portmasks only once
+19d849d900|Linus Lüssing|Wed May 7 18:53:06 2025 +0200|realtek: add portmasks, vlan_profiles and vlans to debugfs
+5435ed7acc|Bevan Weiss|Sat Feb 28 09:39:54 2026 +1100|kernel: lift CONFIG_REGULATOR_VEXPRESS 'not set' to generic
 </details>
