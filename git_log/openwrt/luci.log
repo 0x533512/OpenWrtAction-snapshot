@@ -2,8 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-70184da2e1|Hannu Nyman|Sat Feb 28 20:00:49 2026 +0200|treewide: sync translations
-f7b1b71e64|Hannu Nyman|Sat Feb 28 19:57:55 2026 +0200|treewide: Fix conflicts with remote 'weblate/master'
-a14b1869cd|Hosted Weblate|Sat Feb 28 16:41:10 2026 +0100|Translated using Weblate (Chinese (Simplified Han script))
-258a301f33|Hosted Weblate|Sat Feb 28 10:37:22 2026 +0100|Translated using Weblate (Chinese (Traditional Han script))
+c0e7f9b104|Dirk Brenken|Sun Mar 1 06:55:22 2026 +0100|luci-app-adblock: sync with adblock 4.5.2-1
 </details>

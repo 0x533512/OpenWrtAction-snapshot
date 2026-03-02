@@ -2,10 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-525a1e94b3|Hauke Mehrtens|Sat Feb 28 20:43:11 2026 +0100|toolchain: binutils: fix update to 2.45.1
-296b286a67|Hauke Mehrtens|Thu Feb 26 20:49:17 2026 +0100|lantiq: dm200: Fix loading PHY firmware
-d527fc3c1c|Linus Lüssing|Wed Jan 28 01:52:15 2026 +0100|realtek: remove currently unused VLAN profile_id 1
-a0e11f61a9|Linus Lüssing|Sat May 10 15:38:49 2025 +0200|realtek: setup special portmasks only once
-19d849d900|Linus Lüssing|Wed May 7 18:53:06 2025 +0200|realtek: add portmasks, vlan_profiles and vlans to debugfs
-5435ed7acc|Bevan Weiss|Sat Feb 28 09:39:54 2026 +1100|kernel: lift CONFIG_REGULATOR_VEXPRESS 'not set' to generic
+c88e8a9816|Mathijs Rietbergen|Sat Dec 27 11:04:52 2025 +0100|kernel: add kmods for vsockets over virtio
+ed66c2dfa3|Felix Fietkau|Sun Mar 1 17:15:37 2026 +0000|mt76: update to Git HEAD (2026-03-01)
+d9ac485146|Felix Fietkau|Sat Feb 28 11:39:33 2026 +0000|ucode: nl80211: add missing survey info attributes and fix DFS CAC time
+94a7c4a443|Felix Fietkau|Sat Feb 28 11:19:04 2026 +0000|ucode: update to Git HEAD (2026-02-27)
+6e7d23be8b|Shiji Yang|Thu Feb 26 00:03:30 2026 +0800|mediatek: drop PCIe reset assert delay patch
+018ba6e5b8|Bevan Weiss|Tue Jan 6 20:50:34 2026 +1100|kernel: mfd: Add Hasivo STC8 mfd
+f92e0d3d3a|Ahmed Naseef|Fri Feb 27 12:31:02 2026 +0400|econet: en7528: add missing flash partition for DASAN H660GM-A Generic
+3fe9307c14|Ahmed Naseef|Thu Feb 26 15:04:17 2026 +0400|econet: en7528: fix swapped WiFi eeprom references for DASAN H660GM-A
+fce39a8d7f|Ivan Pavlov|Sun Mar 1 08:52:57 2026 +0300|libunistring: update to 1.4.2
+4cf401088e|Jonas Jelonek|Fri Feb 27 23:24:29 2026 +0000|realtek: dts: drop SYS LED of XikeStor SKS8310-8X
+4a73f72a23|Jonas Jelonek|Fri Feb 27 22:38:02 2026 +0000|realtek: dts: add monitor IC node for XikeStor SKS8310-8X
+05cbbb4037|Jonas Jelonek|Fri Feb 27 22:31:55 2026 +0000|realtek: use nvmem for mac address for XikeStor SKS8310-8X
+4724649689|Markus Stockhausen|Sat Feb 21 14:26:02 2026 +0100|realtek: mdio: avoid unneeded array initialization
+ea0a14f347|Markus Stockhausen|Sat Feb 21 09:53:15 2026 +0100|realtek: mdio: convert port to addr
+a8946bad55|Markus Stockhausen|Sat Feb 21 09:39:14 2026 +0100|realtek: mdio: rename RTMDIO_MAX_PORT to RTMDIO_MAX_PHY
+
+.....................
+
 </details>

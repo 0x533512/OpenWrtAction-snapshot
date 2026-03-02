@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-07b918bbc|Jon Henrik Bjørnstad|Tue Feb 24 12:47:31 2026 +0100|qbee-agent: bump version to 2026.10
-e11cd0842|John Audia|Fri Feb 27 16:00:57 2026 -0500|lxc: update to 6.0.6
+292214e76|Chester A. Unal|Thu Feb 26 10:48:04 2026 +0200|bsbf-bonding: add
+fea7b41d6|Chester A. Unal|Thu Feb 26 10:34:56 2026 +0200|bsbf-usb-netdev-autodhcp: add
+e69b0b24f|Chester A. Unal|Thu Feb 19 12:48:25 2026 +0200|bsbf-resources: add
+ea1ea7129|Chester A. Unal|Thu Feb 19 12:48:17 2026 +0200|tcp-in-udp: add
+b543052ae|Til Kaiser|Wed Feb 25 19:46:07 2026 +0100|mstflint: update to 4.35.0-1
+d4a62496f|Dirk Brenken|Sun Mar 1 06:44:18 2026 +0100|adblock: release 4.5.2‑1
 </details>
