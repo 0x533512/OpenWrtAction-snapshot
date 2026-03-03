@@ -2,10 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-292214e76|Chester A. Unal|Thu Feb 26 10:48:04 2026 +0200|bsbf-bonding: add
-fea7b41d6|Chester A. Unal|Thu Feb 26 10:34:56 2026 +0200|bsbf-usb-netdev-autodhcp: add
-e69b0b24f|Chester A. Unal|Thu Feb 19 12:48:25 2026 +0200|bsbf-resources: add
-ea1ea7129|Chester A. Unal|Thu Feb 19 12:48:17 2026 +0200|tcp-in-udp: add
-b543052ae|Til Kaiser|Wed Feb 25 19:46:07 2026 +0100|mstflint: update to 4.35.0-1
-d4a62496f|Dirk Brenken|Sun Mar 1 06:44:18 2026 +0100|adblock: release 4.5.2‑1
+3dd1f337e|Patrick Hemmen|Tue Feb 10 21:38:23 2026 +0100|ddns-scripts: change servercow.de to new dns api
+8744a706f|Oliver Sedlbauer|Thu Feb 19 11:36:51 2026 +0100|acpid: prevent duplicate daemon instances
+4faa11226|Oliver Sedlbauer|Wed Jan 28 16:57:06 2026 +0100|gpsd: add wrapper script for hotplug/respawn handling
 </details>

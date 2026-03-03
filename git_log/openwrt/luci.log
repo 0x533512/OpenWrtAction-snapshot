@@ -2,5 +2,9 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c0e7f9b104|Dirk Brenken|Sun Mar 1 06:55:22 2026 +0100|luci-app-adblock: sync with adblock 4.5.2-1
+e81c0637e2|Self-Hosting-Group|Mon Mar 2 00:00:00 2026 +0000|luci-theme: remove LuCI from title, material changes
+2b63b19363|Paul Donald|Mon Mar 2 19:11:21 2026 +0100|luci-mod-network: drop unused dnsmasq ipset option
+e057bac1ef|Ramon Van Gorkom|Sun Mar 1 14:33:22 2026 +0100|luci-app-usteer: fix bug introduced with ES6
+399b25c07e|Paul Donald|Mon Mar 2 16:14:19 2026 +0100|luci-proto-openvpn: fix literal values for properties
+11b9fafc0d|Paul Donald|Mon Mar 2 16:01:47 2026 +0100|luci-proto-openvpn: fix 'remote' error check
 </details>
