@@ -2,7 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3dd1f337e|Patrick Hemmen|Tue Feb 10 21:38:23 2026 +0100|ddns-scripts: change servercow.de to new dns api
-8744a706f|Oliver Sedlbauer|Thu Feb 19 11:36:51 2026 +0100|acpid: prevent duplicate daemon instances
-4faa11226|Oliver Sedlbauer|Wed Jan 28 16:57:06 2026 +0100|gpsd: add wrapper script for hotplug/respawn handling
+072f32fee|Daniel F. Dickinson|Sat Feb 14 22:23:12 2026 -0500|nut: fix no permissions to use USB UPS, and more
+9cfa3f657|Daniel F. Dickinson|Wed Feb 11 15:50:16 2026 -0500|nut: comment and simplify server script
+688c20bc7|Daniel F. Dickinson|Thu Jan 22 23:26:23 2026 -0500|nut: stop de-configured ups
+90d3d1e9d|Daniel F. Dickinson|Sun Jan 11 05:41:48 2026 -0500|nut: fix driver, server, and monitor reload/stop
+7eafd0ada|Daniel F. Dickinson|Sun Jan 11 05:36:43 2026 -0500|nut: add linting and fix whitespace and typos
+14e0e9e73|Daniel F. Dickinson|Sun Jan 25 04:48:15 2026 -0500|watchcat: fix interface reset does not work
+e026ce0f0|Paul Donald|Mon Mar 2 16:40:18 2026 +0100|openvpn: handle ovpnproto exclusively
+f8aba26c7|Qingfang Deng|Tue Mar 3 10:07:05 2026 +0800|mdio-netlink: do not select KCONFIG
 </details>

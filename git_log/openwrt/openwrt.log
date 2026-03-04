@@ -2,11 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3207627eab|Bjørn Mork|Mon Mar 2 15:47:22 2026 +0100|realtek: dsa: fix ports => ethernet-ports renaming
-b897db9c44|Robert Marko|Mon Mar 2 18:05:55 2026 +0100|Revert "kernel: netdevices: add KSZ9477 DSA switch packages"
-4bfa5e2c09|Robert Marko|Mon Mar 2 18:05:45 2026 +0100|Revert "imx: cortexa53: remove KSZ9477 static driver"
-89f57d48f9|Nick Hainke|Wed Nov 19 21:49:37 2025 +0100|hostapd: update to 2026-02-27
-09a0462ea8|Valerio 'ftp21' Mancini|Wed Feb 18 14:34:31 2026 +0100|mediatek: add support for Zyxel WX5600-T0
-1dbb2d55ac|Valerio 'ftp21' Mancini|Wed Feb 18 14:34:26 2026 +0100|uboot-mediatek: add support for Zyxel WX5600-T0
-f20794a6f3|Hannu Nyman|Sun Mar 1 23:26:08 2026 +0200|config: add build config option to sign each .apk package
+ed94d3eea7|Kuan-Yi Li|Mon Mar 2 02:50:24 2026 +0800|apk: bump to 3.0.5
+e69e03a49d|Shiji Yang|Tue Mar 3 19:25:02 2026 +0800|tools/squashfs4: update to 4.7.5
+e83da3bada|Chester A. Unal|Mon Feb 9 12:55:02 2026 +0200|uqmi: introduce devpath option
+764c503a2c|Chester A. Unal|Wed Mar 5 06:04:58 2025 +0000|umbim: introduce devpath option
+c4e285049e|Rosen Penev|Mon Dec 29 19:53:50 2025 -0800|button-hotplug: use flex array and not pointer hack
+7a76074574|Shiji Yang|Sat Feb 28 18:36:36 2026 +0800|ramips: modules: build I2C driver package for MT7621
+24335722f6|Markus Stockhausen|Sat Feb 28 21:24:09 2026 +0100|realtek: dsa: drop rtldsa_get_mib_desc()
+5fad34e5f0|Markus Stockhausen|Sat Feb 28 21:09:44 2026 +0100|realtek: dsa: move mib_desc/mib_list to device specific source
 </details>

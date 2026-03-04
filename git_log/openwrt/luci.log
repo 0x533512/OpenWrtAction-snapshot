@@ -2,9 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e81c0637e2|Self-Hosting-Group|Mon Mar 2 00:00:00 2026 +0000|luci-theme: remove LuCI from title, material changes
-2b63b19363|Paul Donald|Mon Mar 2 19:11:21 2026 +0100|luci-mod-network: drop unused dnsmasq ipset option
-e057bac1ef|Ramon Van Gorkom|Sun Mar 1 14:33:22 2026 +0100|luci-app-usteer: fix bug introduced with ES6
-399b25c07e|Paul Donald|Mon Mar 2 16:14:19 2026 +0100|luci-proto-openvpn: fix literal values for properties
-11b9fafc0d|Paul Donald|Mon Mar 2 16:01:47 2026 +0100|luci-proto-openvpn: fix 'remote' error check
+1aa8490c87|Paul Donald|Wed Mar 4 01:41:02 2026 +0100|luci-app-lldpd: fix 'dImg is not defined'
+daca0e85a8|Paul Donald|Wed Mar 4 01:13:00 2026 +0100|luci-base: prevent save/traceback race for _state
+a1ddb07fef|Hosted Weblate|Tue Mar 3 19:02:54 2026 +0100|Translated using Weblate (Korean)
+8c2ddb68e1|Florian Eckert|Tue Mar 3 13:59:30 2026 +0100|luci-proto-openvpn: fix formating of openvpn template option
+b7ad8af90b|Florian Eckert|Tue Mar 3 13:39:30 2026 +0100|luci-proto-openvpn: format openvpn options
+6c22e25977|Franco Castillo|Mon Mar 2 20:59:51 2026 -0300|luci-app-tailscale-community: add i18n file of Spanish translation
+fc6fd3c8a0|Franco Castillo|Mon Mar 2 20:56:33 2026 -0300|luci-app-rustdesk-server: add i18n file of Spanish translation
+9c211002be|Franco Castillo|Mon Mar 2 20:50:42 2026 -0300|luci-app-chrony: add i18n file of Spanish translation
 </details>
