@@ -2,12 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-072f32fee|Daniel F. Dickinson|Sat Feb 14 22:23:12 2026 -0500|nut: fix no permissions to use USB UPS, and more
-9cfa3f657|Daniel F. Dickinson|Wed Feb 11 15:50:16 2026 -0500|nut: comment and simplify server script
-688c20bc7|Daniel F. Dickinson|Thu Jan 22 23:26:23 2026 -0500|nut: stop de-configured ups
-90d3d1e9d|Daniel F. Dickinson|Sun Jan 11 05:41:48 2026 -0500|nut: fix driver, server, and monitor reload/stop
-7eafd0ada|Daniel F. Dickinson|Sun Jan 11 05:36:43 2026 -0500|nut: add linting and fix whitespace and typos
-14e0e9e73|Daniel F. Dickinson|Sun Jan 25 04:48:15 2026 -0500|watchcat: fix interface reset does not work
-e026ce0f0|Paul Donald|Mon Mar 2 16:40:18 2026 +0100|openvpn: handle ovpnproto exclusively
-f8aba26c7|Qingfang Deng|Tue Mar 3 10:07:05 2026 +0800|mdio-netlink: do not select KCONFIG
+4c4f8c303|Stan Grishin|Tue Mar 3 18:43:59 2026 +0000|adblock-fast: update to 1.2.2-r8
+5eaff0b9c|Daniel F. Dickinson|Wed Feb 25 00:17:43 2026 -0500|zabbix: bump version to 7.0.23 (LTS)
+c98e9d68a|Daniel F. Dickinson|Mon Feb 16 12:37:05 2026 -0500|zabbix: add full variants and add-on support for other
+4afdeb7d1|Daniel F. Dickinson|Mon Feb 16 04:18:34 2026 -0500|zabbix: update php8 dependencies
+487e64757|Toke Høiland-Jørgensen|Wed Mar 4 14:19:46 2026 +0100|net/radsecproxy: Remove myself as maintainer
+91e2ddb98|Chester A. Unal|Tue Mar 3 12:28:56 2026 +0200|bsbf-resources: update to GIT HEAD of 2026-03-03
+a6be73da2|Chester A. Unal|Tue Mar 3 12:19:17 2026 +0200|bsbf-autoconf-cellular: add
+6037422f5|Chester A. Unal|Mon Mar 2 12:35:25 2026 +0200|bsbf-openwrt-resources: add
+7d0db39fc|Stan Grishin|Mon Mar 2 20:21:48 2026 +0000|https-dns-proxy: update to 2025.12.29-4
+38313ec4b|Stan Grishin|Mon Mar 2 20:29:26 2026 +0000|pbr: update to 1.2.2-r8
 </details>

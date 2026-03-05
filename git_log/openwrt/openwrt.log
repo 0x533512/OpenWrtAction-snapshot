@@ -2,12 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ed94d3eea7|Kuan-Yi Li|Mon Mar 2 02:50:24 2026 +0800|apk: bump to 3.0.5
-e69e03a49d|Shiji Yang|Tue Mar 3 19:25:02 2026 +0800|tools/squashfs4: update to 4.7.5
-e83da3bada|Chester A. Unal|Mon Feb 9 12:55:02 2026 +0200|uqmi: introduce devpath option
-764c503a2c|Chester A. Unal|Wed Mar 5 06:04:58 2025 +0000|umbim: introduce devpath option
-c4e285049e|Rosen Penev|Mon Dec 29 19:53:50 2025 -0800|button-hotplug: use flex array and not pointer hack
-7a76074574|Shiji Yang|Sat Feb 28 18:36:36 2026 +0800|ramips: modules: build I2C driver package for MT7621
-24335722f6|Markus Stockhausen|Sat Feb 28 21:24:09 2026 +0100|realtek: dsa: drop rtldsa_get_mib_desc()
-5fad34e5f0|Markus Stockhausen|Sat Feb 28 21:09:44 2026 +0100|realtek: dsa: move mib_desc/mib_list to device specific source
+57bf713ef7|Christian Marangi|Wed Mar 4 13:31:00 2026 +0100|firmware: Add support for Airoha EN7581/AN7583 NPU variant firmware
+49a0acb12c|Oliver Sedlbauer|Tue Jan 20 13:54:12 2026 +0100|base-files: avoid rm error messages in failsafe_wait
+a75cc4f18c|Valent Turkovic|Tue Mar 3 22:18:52 2026 +0100|ipq40xx: re-enable MeshPoint.One target
+07c29c4482|Paul Spooren|Thu Feb 26 22:02:41 2026 +0100|package: drop apk cheatsheet from base-files
 </details>
