@@ -2,13 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0d5a250bcc|Paul Donald|Thu Mar 5 01:22:09 2026 +0100|luci-app-ustreamer: i18n
-1c35eec004|Georgi Valkov|Sat Feb 14 15:09:12 2026 +0200|luci-app-ustreamer: complete rewrite
-60c348801d|Ramon Van Gorkom|Mon Mar 2 19:41:15 2026 +0100|luci-app-usteer: add sta info in tooltip
-5145514530|Stan Grishin|Wed Mar 4 02:01:35 2026 +0000|luci-app-https-dns-proxy: bugfix: provider edit
-a505caba18|Stan Grishin|Tue Mar 3 18:43:30 2026 +0000|luci-app-adblock-fast: update to 1.2.2-r8
-9f5df55156|Eric Fahlgren|Tue Mar 3 15:05:45 2026 -0800|luci-layer2: create a minimal collection for layer-2 devices
-cf718e675c|Paul Donald|Wed Mar 4 18:37:58 2026 +0100|luci-proto-openvpn: create parent directory for config files
-60b1eac5a4|Stan Grishin|Mon Mar 2 20:17:14 2026 +0000|luci-app-https-dns-proxy: update to 2025.12.29-4
-1c2a26f6aa|Stan Grishin|Mon Mar 2 20:33:19 2026 +0000|luci-app-pbr: update to 1.2.2-r8
+de553f3ceb|Hosted Weblate|Thu Mar 5 22:08:21 2026 +0100|Translated using Weblate (Spanish)
+bd8a5bf739|Dirk Brenken|Thu Mar 5 21:06:15 2026 +0100|luci-app-adblock: sync with adblock 4.5.2-2
+69596756a7|Paul Donald|Thu Mar 5 18:50:00 2026 +0100|luci-mod-network: allow interface names to max of 15 chars
+ec799109e5|Paul Donald|Thu Mar 5 16:09:23 2026 +0100|luci-proto-wireguard: add download link for peer config
 </details>

@@ -2,14 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4c4f8c303|Stan Grishin|Tue Mar 3 18:43:59 2026 +0000|adblock-fast: update to 1.2.2-r8
-5eaff0b9c|Daniel F. Dickinson|Wed Feb 25 00:17:43 2026 -0500|zabbix: bump version to 7.0.23 (LTS)
-c98e9d68a|Daniel F. Dickinson|Mon Feb 16 12:37:05 2026 -0500|zabbix: add full variants and add-on support for other
-4afdeb7d1|Daniel F. Dickinson|Mon Feb 16 04:18:34 2026 -0500|zabbix: update php8 dependencies
-487e64757|Toke Høiland-Jørgensen|Wed Mar 4 14:19:46 2026 +0100|net/radsecproxy: Remove myself as maintainer
-91e2ddb98|Chester A. Unal|Tue Mar 3 12:28:56 2026 +0200|bsbf-resources: update to GIT HEAD of 2026-03-03
-a6be73da2|Chester A. Unal|Tue Mar 3 12:19:17 2026 +0200|bsbf-autoconf-cellular: add
-6037422f5|Chester A. Unal|Mon Mar 2 12:35:25 2026 +0200|bsbf-openwrt-resources: add
-7d0db39fc|Stan Grishin|Mon Mar 2 20:21:48 2026 +0000|https-dns-proxy: update to 2025.12.29-4
-38313ec4b|Stan Grishin|Mon Mar 2 20:29:26 2026 +0000|pbr: update to 1.2.2-r8
+0f574b5f5|Yanase Yuki|Wed Jan 14 17:03:02 2026 +0900|bridge-utils: remove package
+97bf24f0c|Yanase Yuki|Wed Jan 14 17:07:43 2026 +0900|moc: remove package
+d32ce5d8c|Yanase Yuki|Wed Jan 14 17:10:31 2026 +0900|svox: remove package
+704d2a325|Yanase Yuki|Wed Jan 14 17:14:25 2026 +0900|open2300: remove package
+4c3a649dd|Orne Brocaar|Wed Mar 4 10:30:32 2026 +0000|rust: set llvm.download-ci-llvm=false
+57ec85084|Dirk Brenken|Thu Mar 5 21:03:45 2026 +0100|adblock: update 4.5.2‑2
+f24ebb4f1|Sandro Jäckel|Sun Mar 1 04:37:02 2026 +0100|tailscale: update to 1.94.2
+b9148c149|George Sapkin|Wed Mar 4 17:11:53 2026 +0200|adguardhome: add GC and thread control variables
+c5dd05c5b|George Sapkin|Wed Mar 4 16:06:25 2026 +0200|syncthing: bump to 2.0.15
+b0e4c18ef|George Sapkin|Wed Mar 4 17:30:02 2026 +0200|yt-dlp: bump to 2026.03.03
+803e8ae3f|Florian Eckert|Wed Mar 4 11:42:34 2026 +0100|openvpn: increment PKG_RELEASE by one
+881665722|Florian Eckert|Wed Mar 4 11:21:16 2026 +0100|openvpn: move usr/share/openvpn files into its own dir
+310c09737|Florian Eckert|Wed Mar 4 11:17:38 2026 +0100|openvpn: move lib/upgrade/keep.d file into its own dir
+f1c2f51fc|Florian Eckert|Wed Mar 4 11:14:09 2026 +0100|openvpn: improve readability for files install target
+9d2de51e0|Florian Eckert|Wed Mar 4 11:11:12 2026 +0100|openvpn: remove not needed INSTALL_DIR creations
+
 </details>

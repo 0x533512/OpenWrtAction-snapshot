@@ -2,8 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-57bf713ef7|Christian Marangi|Wed Mar 4 13:31:00 2026 +0100|firmware: Add support for Airoha EN7581/AN7583 NPU variant firmware
-49a0acb12c|Oliver Sedlbauer|Tue Jan 20 13:54:12 2026 +0100|base-files: avoid rm error messages in failsafe_wait
-a75cc4f18c|Valent Turkovic|Tue Mar 3 22:18:52 2026 +0100|ipq40xx: re-enable MeshPoint.One target
-07c29c4482|Paul Spooren|Thu Feb 26 22:02:41 2026 +0100|package: drop apk cheatsheet from base-files
+6c7dd69ce4|Felix Fietkau|Thu Mar 5 18:01:25 2026 +0000|mt76: update to Git HEAD (2026-03-05)
+ba3c6ff302|Felix Fietkau|Thu Mar 5 17:12:09 2026 +0000|mac80211: fix a crash triggered by CSA with AP VLAN enabled
+5f704e8b25|Robert Marko|Thu Mar 5 13:22:35 2026 +0100|firmware-utils: update to Git HEAD (2026-03-05)
+e468534263|Dirk Buchwalder|Sun Mar 1 14:16:43 2026 +0100|airoha: an7581: add ubi nvmem driver
+0a64ed27a7|Dirk Buchwalder|Sun Mar 1 14:13:55 2026 +0100|airoha: an7581: enable fitblk driver
+133e01b95e|Dirk Buchwalder|Sun Mar 1 13:48:42 2026 +0100|uboot-airoha: add a label to the spi node
+442e67d31f|Kenneth Kasilag|Sat Feb 21 21:49:46 2026 +0000|airoha: an7581: add uboot chainloader
+97035a5e7f|Kenneth Kasilag|Wed Mar 4 02:48:32 2026 +0000|uboot-airoha: rename FIP_COMPRESS to LZMA_COMPRESS
+67cf9c0cc7|Ruslan Isaev|Sat Feb 28 18:59:38 2026 +0300|qualcommax: ipq807x: ipq6018: ath11k: fix monitor rx length
+5d86278a9d|Rustam Adilov|Mon Mar 2 23:35:41 2026 +0500|realtek: mtd: nand: backport realtek-ecc OOB check fix patch
+c9fbac1f34|Eric Fahlgren|Tue Mar 3 17:11:45 2026 -0800|build: include build artifacts in profiles.json
+dddda85985|Markus Stockhausen|Tue Mar 3 19:46:55 2026 +0100|realtek: dsa: remove obsolete attributes from port structure
+4253882e4e|Markus Stockhausen|Tue Mar 3 19:38:21 2026 +0100|realtek: dsa: rename rtl838x_port to rtldsa_port
+3f65aca850|Markus Stockhausen|Tue Mar 3 19:26:59 2026 +0100|realtek: dsa: make pcs a port attribute
+f45235cc7c|Daniel Golle|Wed Mar 4 01:29:55 2026 +0000|mediatek: filogic: enable KASLR
+
+.....................
+
 </details>
