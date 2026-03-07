@@ -2,8 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-de553f3ceb|Hosted Weblate|Thu Mar 5 22:08:21 2026 +0100|Translated using Weblate (Spanish)
-bd8a5bf739|Dirk Brenken|Thu Mar 5 21:06:15 2026 +0100|luci-app-adblock: sync with adblock 4.5.2-2
-69596756a7|Paul Donald|Thu Mar 5 18:50:00 2026 +0100|luci-mod-network: allow interface names to max of 15 chars
-ec799109e5|Paul Donald|Thu Mar 5 16:09:23 2026 +0100|luci-proto-wireguard: add download link for peer config
+990e46c851|Paul Donald|Fri Mar 6 18:47:49 2026 +0100|luci-app-p910nd: retain unchecked value for bidirectionality
+39b5141855|Hannu Nyman|Fri Mar 6 18:30:42 2026 +0200|luci-base: update timezone data to 2026a
 </details>

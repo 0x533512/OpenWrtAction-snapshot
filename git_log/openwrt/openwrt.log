@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6c7dd69ce4|Felix Fietkau|Thu Mar 5 18:01:25 2026 +0000|mt76: update to Git HEAD (2026-03-05)
-ba3c6ff302|Felix Fietkau|Thu Mar 5 17:12:09 2026 +0000|mac80211: fix a crash triggered by CSA with AP VLAN enabled
-5f704e8b25|Robert Marko|Thu Mar 5 13:22:35 2026 +0100|firmware-utils: update to Git HEAD (2026-03-05)
-e468534263|Dirk Buchwalder|Sun Mar 1 14:16:43 2026 +0100|airoha: an7581: add ubi nvmem driver
-0a64ed27a7|Dirk Buchwalder|Sun Mar 1 14:13:55 2026 +0100|airoha: an7581: enable fitblk driver
-133e01b95e|Dirk Buchwalder|Sun Mar 1 13:48:42 2026 +0100|uboot-airoha: add a label to the spi node
-442e67d31f|Kenneth Kasilag|Sat Feb 21 21:49:46 2026 +0000|airoha: an7581: add uboot chainloader
-97035a5e7f|Kenneth Kasilag|Wed Mar 4 02:48:32 2026 +0000|uboot-airoha: rename FIP_COMPRESS to LZMA_COMPRESS
-67cf9c0cc7|Ruslan Isaev|Sat Feb 28 18:59:38 2026 +0300|qualcommax: ipq807x: ipq6018: ath11k: fix monitor rx length
-5d86278a9d|Rustam Adilov|Mon Mar 2 23:35:41 2026 +0500|realtek: mtd: nand: backport realtek-ecc OOB check fix patch
-c9fbac1f34|Eric Fahlgren|Tue Mar 3 17:11:45 2026 -0800|build: include build artifacts in profiles.json
-dddda85985|Markus Stockhausen|Tue Mar 3 19:46:55 2026 +0100|realtek: dsa: remove obsolete attributes from port structure
-4253882e4e|Markus Stockhausen|Tue Mar 3 19:38:21 2026 +0100|realtek: dsa: rename rtl838x_port to rtldsa_port
-3f65aca850|Markus Stockhausen|Tue Mar 3 19:26:59 2026 +0100|realtek: dsa: make pcs a port attribute
-f45235cc7c|Daniel Golle|Wed Mar 4 01:29:55 2026 +0000|mediatek: filogic: enable KASLR
+1e9da9798a|Paul Donald|Thu Mar 5 22:11:13 2026 +0100|ppp: add memmove fortify and remove MRU patch
+d09041eb8a|Kenneth Kasilag|Fri Mar 6 13:31:02 2026 +0000|airoha: an7581: disable NPU offload stats for eagle
+123557f0e2|Lorenzo Bianconi|Wed Jan 7 11:46:00 2026 +0100|airoha: add the capability to read firmware names from dts
+305f685f83|Lorenzo Bianconi|Fri Oct 24 17:10:08 2025 +0200|airoha: npu: Init BA memory region if provided via DTS
+eb4fd65c92|Álvaro Fernández Rojas|Thu Mar 5 14:13:55 2026 +0100|kernel: net: sfp: improve Huawei MA5671a fixup
+0c0b00422e|Rosen Penev|Fri Nov 28 19:25:47 2025 -0800|mpc85xx: fix dtc warnings
+03fddee7bd|Ivan Diaz|Tue Mar 3 18:14:48 2026 -0500|ath79: tiny: increment compat version for RE355/RE450
+831685aa15|Ivan Diaz|Thu Feb 26 08:48:52 2026 -0500|ath79: add 4k blocksize for RE355/RE450 rootfs alignment
+d583294c70|Ivan Diaz|Thu Feb 26 08:48:45 2026 -0500|ath79: rename tplink_rex5x-v1, deduplicate RE450-v2 config
+f01807e353|Rosen Penev|Sat Jun 7 20:13:26 2025 -0700|mac80211: ath9k: rework led allocation
+06f5205dc8|Rosen Penev|Thu Aug 21 15:36:47 2025 -0700|mac80211: ath5k: remove ath79 bugfix
+45636e3a2b|Jonas Jelonek|Tue Mar 3 14:44:30 2026 +0000|kernel: refresh patches
+3b2e52d52f|Jonas Jelonek|Fri Feb 27 20:30:45 2026 +0000|generic: drop downstream gpio-cascade driver
+564a6442f2|Jonas Jelonek|Fri Feb 27 20:27:14 2026 +0000|ath79: replace gpio-cascade on Buffalo WZR-HP-G300NH
+d50b296727|Jonas Jelonek|Fri Feb 27 20:26:11 2026 +0000|generic: add kernel module for gpio-line-mux
 
 .....................
 

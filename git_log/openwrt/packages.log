@@ -2,20 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-0f574b5f5|Yanase Yuki|Wed Jan 14 17:03:02 2026 +0900|bridge-utils: remove package
-97bf24f0c|Yanase Yuki|Wed Jan 14 17:07:43 2026 +0900|moc: remove package
-d32ce5d8c|Yanase Yuki|Wed Jan 14 17:10:31 2026 +0900|svox: remove package
-704d2a325|Yanase Yuki|Wed Jan 14 17:14:25 2026 +0900|open2300: remove package
-4c3a649dd|Orne Brocaar|Wed Mar 4 10:30:32 2026 +0000|rust: set llvm.download-ci-llvm=false
-57ec85084|Dirk Brenken|Thu Mar 5 21:03:45 2026 +0100|adblock: update 4.5.2‑2
-f24ebb4f1|Sandro Jäckel|Sun Mar 1 04:37:02 2026 +0100|tailscale: update to 1.94.2
-b9148c149|George Sapkin|Wed Mar 4 17:11:53 2026 +0200|adguardhome: add GC and thread control variables
-c5dd05c5b|George Sapkin|Wed Mar 4 16:06:25 2026 +0200|syncthing: bump to 2.0.15
-b0e4c18ef|George Sapkin|Wed Mar 4 17:30:02 2026 +0200|yt-dlp: bump to 2026.03.03
-803e8ae3f|Florian Eckert|Wed Mar 4 11:42:34 2026 +0100|openvpn: increment PKG_RELEASE by one
-881665722|Florian Eckert|Wed Mar 4 11:21:16 2026 +0100|openvpn: move usr/share/openvpn files into its own dir
-310c09737|Florian Eckert|Wed Mar 4 11:17:38 2026 +0100|openvpn: move lib/upgrade/keep.d file into its own dir
-f1c2f51fc|Florian Eckert|Wed Mar 4 11:14:09 2026 +0100|openvpn: improve readability for files install target
-9d2de51e0|Florian Eckert|Wed Mar 4 11:11:12 2026 +0100|openvpn: remove not needed INSTALL_DIR creations
-
+ddb2995ef|George Sapkin|Fri Mar 6 16:02:51 2026 +0200|golang: bump 1.26 to 1.26.1
+b284c4de9|George Sapkin|Fri Mar 6 16:21:34 2026 +0200|golang: remove broken mirror
+04dd27674|Tung-Yi Chen|Fri Mar 6 02:24:22 2026 +0800|tailscale: fix fw_mode env by using append_param
 </details>
