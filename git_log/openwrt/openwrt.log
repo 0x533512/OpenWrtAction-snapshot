@@ -2,22 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-1e9da9798a|Paul Donald|Thu Mar 5 22:11:13 2026 +0100|ppp: add memmove fortify and remove MRU patch
-d09041eb8a|Kenneth Kasilag|Fri Mar 6 13:31:02 2026 +0000|airoha: an7581: disable NPU offload stats for eagle
-123557f0e2|Lorenzo Bianconi|Wed Jan 7 11:46:00 2026 +0100|airoha: add the capability to read firmware names from dts
-305f685f83|Lorenzo Bianconi|Fri Oct 24 17:10:08 2025 +0200|airoha: npu: Init BA memory region if provided via DTS
-eb4fd65c92|Álvaro Fernández Rojas|Thu Mar 5 14:13:55 2026 +0100|kernel: net: sfp: improve Huawei MA5671a fixup
-0c0b00422e|Rosen Penev|Fri Nov 28 19:25:47 2025 -0800|mpc85xx: fix dtc warnings
-03fddee7bd|Ivan Diaz|Tue Mar 3 18:14:48 2026 -0500|ath79: tiny: increment compat version for RE355/RE450
-831685aa15|Ivan Diaz|Thu Feb 26 08:48:52 2026 -0500|ath79: add 4k blocksize for RE355/RE450 rootfs alignment
-d583294c70|Ivan Diaz|Thu Feb 26 08:48:45 2026 -0500|ath79: rename tplink_rex5x-v1, deduplicate RE450-v2 config
-f01807e353|Rosen Penev|Sat Jun 7 20:13:26 2025 -0700|mac80211: ath9k: rework led allocation
-06f5205dc8|Rosen Penev|Thu Aug 21 15:36:47 2025 -0700|mac80211: ath5k: remove ath79 bugfix
-45636e3a2b|Jonas Jelonek|Tue Mar 3 14:44:30 2026 +0000|kernel: refresh patches
-3b2e52d52f|Jonas Jelonek|Fri Feb 27 20:30:45 2026 +0000|generic: drop downstream gpio-cascade driver
-564a6442f2|Jonas Jelonek|Fri Feb 27 20:27:14 2026 +0000|ath79: replace gpio-cascade on Buffalo WZR-HP-G300NH
-d50b296727|Jonas Jelonek|Fri Feb 27 20:26:11 2026 +0000|generic: add kernel module for gpio-line-mux
-
-.....................
-
+557b092273|Jan Kantert|Sun Mar 1 00:14:10 2026 +0100|realtek: pending upstream rtl9300 i2c speed patch
+89322b4d69|Harshal Gohel|Tue Jan 27 11:35:16 2026 +0000|rtl93xx: dsa: Handle lag_change properly
+05096060ca|Harshal Gohel|Tue Jan 27 11:33:07 2026 +0000|realtek: dsa: rtl93xx: Add link aggregation support
+f556b54a2c|Harshal Gohel|Tue Jan 27 09:41:39 2026 +0000|realtek: dsa: rtl93xx: Initialize trunk on probe
+3743ed0e02|Harshal Gohel|Mon Mar 2 09:16:10 2026 +0000|realtek: dsa: Reelect primary port for a LAG
+286445257d|Harshal Gohel|Tue Jan 27 17:19:46 2026 +0000|realtek: dsa: rtl93xx: Deduplicate distribution algo setup
+6e63fac22a|Harshal Gohel|Mon Mar 2 09:13:13 2026 +0000|realtek: dsa: Refactor LAG in preparation for rtl93xx
+cd1b70f6f9|Marco von Rosenberg|Fri May 3 22:59:11 2024 +0200|ipq40xx: add support for Huawei AP4050DN
+156550abd8|Marco von Rosenberg|Sun Jul 20 18:24:54 2025 +0200|uboot-fritz4040: add Huawei AP4050DN support
+215f0127d1|David Bauer|Sat Mar 7 18:43:39 2026 +0100|ipq-wifi: update to latest HEAD
 </details>

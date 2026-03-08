@@ -2,6 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-990e46c851|Paul Donald|Fri Mar 6 18:47:49 2026 +0100|luci-app-p910nd: retain unchecked value for bidirectionality
-39b5141855|Hannu Nyman|Fri Mar 6 18:30:42 2026 +0200|luci-base: update timezone data to 2026a
+09701f86c0|Hannu Nyman|Sat Mar 7 21:23:59 2026 +0200|treewide: sync translations
+97263ac251|Pavel Borecki|Sat Mar 7 20:07:50 2026 +0100|Translated using Weblate (Czech)
+9b1753db5c|Pavel Borecki|Sat Mar 7 20:07:56 2026 +0100|Translated using Weblate (Czech)
+e1ec27bb31|Hyeonjeong Lee|Sat Mar 7 20:07:44 2026 +0100|Translated using Weblate (Korean)
+b03719d4e0|Pavel Borecki|Sat Mar 7 20:08:03 2026 +0100|Translated using Weblate (Czech)
+60946d9da0|Hosted Weblate|Sat Mar 7 20:07:59 2026 +0100|Added translation using Weblate (Portuguese (Brazil))
 </details>
