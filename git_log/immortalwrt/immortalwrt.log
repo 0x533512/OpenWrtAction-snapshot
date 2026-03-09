@@ -1,0 +1,23 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+bbddf65c9d|Tianling Shen|Sun Mar 8 16:13:59 2026 +0800|Merge Official Source
+56bf67d474|Álvaro Fernández Rojas|Sat Mar 7 15:54:29 2026 +0100|omcproxy: update to Git HEAD (2026-03-07)
+557b092273|Jan Kantert|Sun Mar 1 00:14:10 2026 +0100|realtek: pending upstream rtl9300 i2c speed patch
+89322b4d69|Harshal Gohel|Tue Jan 27 11:35:16 2026 +0000|rtl93xx: dsa: Handle lag_change properly
+05096060ca|Harshal Gohel|Tue Jan 27 11:33:07 2026 +0000|realtek: dsa: rtl93xx: Add link aggregation support
+f556b54a2c|Harshal Gohel|Tue Jan 27 09:41:39 2026 +0000|realtek: dsa: rtl93xx: Initialize trunk on probe
+3743ed0e02|Harshal Gohel|Mon Mar 2 09:16:10 2026 +0000|realtek: dsa: Reelect primary port for a LAG
+286445257d|Harshal Gohel|Tue Jan 27 17:19:46 2026 +0000|realtek: dsa: rtl93xx: Deduplicate distribution algo setup
+6e63fac22a|Harshal Gohel|Mon Mar 2 09:13:13 2026 +0000|realtek: dsa: Refactor LAG in preparation for rtl93xx
+cd1b70f6f9|Marco von Rosenberg|Fri May 3 22:59:11 2024 +0200|ipq40xx: add support for Huawei AP4050DN
+156550abd8|Marco von Rosenberg|Sun Jul 20 18:24:54 2025 +0200|uboot-fritz4040: add Huawei AP4050DN support
+215f0127d1|David Bauer|Sat Mar 7 18:43:39 2026 +0100|ipq-wifi: update to latest HEAD
+1e9da9798a|Paul Donald|Thu Mar 5 22:11:13 2026 +0100|ppp: add memmove fortify and remove MRU patch
+d09041eb8a|Kenneth Kasilag|Fri Mar 6 13:31:02 2026 +0000|airoha: an7581: disable NPU offload stats for eagle
+123557f0e2|Lorenzo Bianconi|Wed Jan 7 11:46:00 2026 +0100|airoha: add the capability to read firmware names from dts
+
+.....................
+
+</details>
