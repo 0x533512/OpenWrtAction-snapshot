@@ -2,11 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-898f678261|Markus Stockhausen|Sun Mar 1 17:16:31 2026 +0100|realtek: dsa: relax rtldsa_ethernet_loaded()
-02710fdfca|Markus Stockhausen|Sun Mar 1 09:31:03 2026 +0100|realtek: eth: provide shared tx_header() for RTL93xx
-fb6e2568df|Markus Stockhausen|Sat Feb 28 19:36:53 2026 +0100|realtek: eth: refactor rteth_set_mac_hw()
-0e09c39a19|Markus Stockhausen|Sat Feb 28 18:46:28 2026 +0100|realtek: eth: cleanup hardware transmit handling
-50ec0a3f97|Jonas Köppeler|Fri Mar 6 16:32:41 2026 +0000|kernel: add cake_mq fixes
-91cff1a6d3|Felix Fietkau|Sun Mar 8 15:32:00 2026 +0000|apk: add --force-reinstall option
-56bf67d474|Álvaro Fernández Rojas|Sat Mar 7 15:54:29 2026 +0100|omcproxy: update to Git HEAD (2026-03-07)
+a919299993|Hauke Mehrtens|Sun Mar 1 19:41:50 2026 +0100|wifi-scripts: fix handling spaces in wifi client config
+5d71d9a4be|Eric Fahlgren|Sun Mar 8 09:57:57 2026 -0700|firewall4: prefer over firewall as dependency
+e558d763be|Hauke Mehrtens|Mon Mar 9 01:11:40 2026 +0100|ustream-ssl: update to Git HEAD (2026-03-01)
+c45d063612|Lorenzo Bianconi|Mon Mar 9 14:17:19 2026 +0100|airoha: Enable npu for an7581-evb board
+fdd9b8e125|Lorenzo Bianconi|Mon Mar 9 11:13:45 2026 +0100|airoha: an7583: Disable flow-stats
+c9f612bf45|Eric Fahlgren|Wed Mar 4 07:59:46 2026 -0800|apk: point help message to openwrt wiki
 </details>
