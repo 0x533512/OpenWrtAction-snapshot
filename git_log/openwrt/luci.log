@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-31f220d413|Hosted Weblate|Mon Mar 9 20:38:45 2026 +0100|Translated using Weblate (Irish)
+8e3bc67c87|Paul Donald|Tue Mar 10 18:52:32 2026 +0100|luci-base: add lstat to fs
+944cb757bb|Paul Donald|Tue Mar 10 18:02:59 2026 +0100|luci-app-unbound: return 'enabled' boolean value
 </details>
