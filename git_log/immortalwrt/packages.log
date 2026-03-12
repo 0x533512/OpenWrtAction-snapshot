@@ -1,0 +1,14 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+6b909b81d|Tianling Shen|Wed Mar 11 16:47:30 2026 +0800|subconverter: bump to latest git HEAD
+623732df6|Tianling Shen|Wed Mar 11 15:50:42 2026 +0800|qBittorrent-Enhanced-Edition: fix provide virtual package
+c34c2000d|Tianling Shen|Wed Mar 11 14:29:50 2026 +0800|Merge Official Source
+1d047d8b3|breeze303|Tue Mar 10 16:39:37 2026 +0800|daed: Update to 1.24.0
+fb71da41d|Niklas Thorild|Mon Mar 9 22:17:17 2026 +0000|telegraf: update to 1.38.0 - Update Telegraf to v1.38.0
+704319e27|Afiq Nazrie|Sat Mar 7 12:43:42 2026 +0700|adguardhome: add jail_mount_rw config option
+98a02be97|Chester A. Unal|Mon Mar 9 16:45:05 2026 +0200|bsbf-resources: update to GIT HEAD of 2026-03-09
+f52f1864a|Vladimir Ulrich|Mon Mar 9 07:55:37 2026 +0300|zoneinfo: updated to 2026a release
+790495e3d|Oliver Sedlbauer|Fri Mar 6 11:23:52 2026 +0100|lcd4linux: prevent concurrent layout switches
+</details>
