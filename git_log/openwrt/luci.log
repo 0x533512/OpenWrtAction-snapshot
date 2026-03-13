@@ -1,0 +1,11 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+11ff260b5f|Paul Donald|Thu Mar 12 21:39:24 2026 +0100|luci-app-keepalived: add a global enabled flag
+8fa4744ebe|Paul Donald|Thu Mar 12 17:44:59 2026 +0100|luci-proto-openvpn: fix permissions and write promise
+3da0ac5f94|Hosted Weblate|Thu Mar 12 13:47:57 2026 +0100|Translated using Weblate (Spanish)
+e08008ceca|Paul Donald|Thu Mar 12 06:00:11 2026 +0100|luci-app-unbound: additional fixes
+d08ae634a8|Paul Donald|Wed Mar 11 18:04:19 2026 +0100|luci-proto-openvpn: sync with proto script updates
+eaaeb6520d|Paul Donald|Tue Mar 10 19:28:46 2026 +0100|lint: bump package dependencies for node
+</details>

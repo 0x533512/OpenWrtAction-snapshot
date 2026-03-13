@@ -2,7 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-48b8ff890b|John Audia|Tue Mar 10 16:22:39 2026 -0400|linux-firmware: update to 20260309
-ab0872a734|Felix Fietkau|Wed Mar 11 17:29:51 2026 +0000|procd: update to Git HEAD (2026-03-11)
-4f107d768a|Rosen Penev|Tue Mar 10 17:05:16 2026 -0700|bcm53xx: mr26: fix nvmem MAC override
+1d63b427ba|Hauke Mehrtens|Fri Mar 13 00:04:05 2026 +0100|libubox: update to Git HEAD (2026-03-13)
+8a7eb57ab8|Jonas Gorski|Thu Mar 12 20:27:17 2026 +0100|umdns: update to Git HEAD (2026-02-06)
+55f1f2c1c4|Robert Marko|Thu Mar 12 11:05:40 2026 +0100|microchipsw: lan969x: tactical-1000: fix SFP I2C buses
+b4df523754|Robert Marko|Thu Feb 26 15:04:21 2026 +0100|microchipsw: backport fix for ets qdisc offload
+369bb6aa54|Robert Marko|Wed Nov 12 13:10:50 2025 +0100|microchipsw: tactical-1000: rename ports
+1f30a3288d|Eric Fahlgren|Wed Mar 11 13:16:34 2026 -0700|build: reject non-matching artifacts
 </details>
