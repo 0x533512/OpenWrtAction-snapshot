@@ -2,9 +2,18 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2657120d5|Dirk Brenken|Thu Mar 12 20:39:02 2026 +0100|adblock: update 4.5.2‑4
-cc7814f19|George Sapkin|Thu Mar 12 02:07:16 2026 +0200|adguardhome: add config reload trigger
-1e8de4500|Ivan Belokobylskiy|Sat Mar 7 17:52:02 2026 +0400|python-evdev: bump version to 1.9.3
-b016aa38c|Ivan Belokobylskiy|Sat Mar 7 17:51:05 2026 +0400|python-evdev: add mandatory uinput.h header to builder
-a01d2a944|Alexandru Ardelean|Wed Mar 11 16:08:43 2026 +0200|squashfs-tools: bump to 4.7.5
+6e95bdf1b|Alexandru Ardelean|Wed Mar 11 16:31:37 2026 +0200|python-pytz: bump to 2026.1
+2834b40af|Ivan Pavlov|Fri Mar 13 10:31:07 2026 +0300|curl: update to 8.19.0
+1b59cb61a|Javier Marcet|Mon Mar 2 21:41:29 2026 +0100|luajit2: update to v2.1-20260227
+d1acb1cc4|Josef Schlehofer|Fri Jan 9 15:05:45 2026 +0100|vscode: update editor settings and commit constraints
+376cbe460|Jeffery To|Sat Mar 14 01:44:30 2026 +0800|treewide: remove myself as maintainer
+f04aa8389|Rosen Penev|Tue Feb 10 16:54:56 2026 -0800|python-pyodbc: update to 5.3.0
+a7e01c91b|Alexandru Ardelean|Fri Mar 13 19:00:02 2026 +0200|treewide: add me as co-maintainer to Jeffery's packages
+5f7107d5e|Alexandru Ardelean|Thu Mar 12 13:59:52 2026 +0200|openblas: bump to 0.3.31
+68f18ae0e|Alexandru Ardelean|Thu Mar 12 13:47:36 2026 +0200|numpy: bump to 2.4.2
+6b23febb1|Chester A. Unal|Thu Mar 12 12:12:17 2026 +0200|bsbf-openwrt-resources: add BSBF URL to packages
+e3c7df138|Chester A. Unal|Thu Mar 12 12:11:13 2026 +0200|bsbf-resources: add BSBF URL to packages
+709b2c629|Chester A. Unal|Thu Mar 12 08:13:30 2026 +0200|bsbf-plpmtu: add
+bc1e10d8c|Chester A. Unal|Thu Mar 12 07:54:57 2026 +0200|plp-mtu-discovery: add
+04f599145|George Sapkin|Thu Mar 12 19:59:23 2026 +0200|sqlite3: bump to 3.52.0
 </details>
