@@ -2,18 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-51abd131d1|Jakub Vaněk|Tue Mar 3 22:41:28 2026 +0100|mediatek: filogic: rename Cudy M3000 v1 to v1/v2
-45b51ebaff|Jakub Vaněk|Mon Mar 2 21:14:28 2026 +0100|mediatek: filogic: add support for Cudy M3000 w/ YT8821 PHY
-8ef564bcda|Jakub Vaněk|Mon Mar 2 20:36:29 2026 +0100|kernel: add patch for YT8821 address collision
-5ba55feb10|Daniel Golle|Fri Mar 13 23:15:18 2026 +0000|procd: update to git HEAD
-626c67caca|Tim Harvey|Thu Feb 19 17:01:48 2026 -0800|imx: cortexa53: remove KSZ9477 static driver
-3f6d2868ff|Tim Harvey|Thu Feb 19 16:57:29 2026 -0800|kernel: netdevices: add KSZ9477 DSA switch support
-08d2c0514f|Rosen Penev|Sun Feb 8 14:12:02 2026 -0800|trelay: use struct_size helper in allocation
-63e0c89038|Rosen Penev|Sun Dec 14 15:44:01 2025 -0800|treewide: constify mdio_bus
-d85a332831|Matt Merhar|Thu Mar 5 22:05:40 2026 -0500|mac80211: ath12k: backport thermal sensor support
-a654fa7fe4|Tomasz Maciej Nowak|Thu Mar 12 20:44:50 2026 +0100|ipq40xx: wrtq-329acn: remove ethernet alias
-a11b33eb3f|Tomasz Maciej Nowak|Thu Mar 12 20:46:00 2026 +0100|ipq40xx: wr-1: wire up switch LEDs
-f93dd5ecde|Tomasz Maciej Nowak|Thu Mar 12 20:45:59 2026 +0100|ipq40xx: wr-1: remove TODO
-873120b4ff|Tomasz Maciej Nowak|Thu Mar 12 20:45:58 2026 +0100|ipq40xx: wr-1: fix WLAN LEDs labels
-e65d3f9052|Robert Marko|Fri Mar 13 10:10:45 2026 +0100|qca-nss-dp: update to Git HEAD (2026-03-13)
+200158208e|Rustam Adilov|Wed Feb 18 21:33:07 2026 +0500|realtek: thermal: extend the driver to support rtl960x
+2948dbebbf|Yanase Yuki|Wed Dec 24 17:05:38 2025 +0900|mac80211: use OpenWrt mirror for b43 fw downloads
+b943db9cb2|Jan Hoffmann|Tue Dec 23 20:40:52 2025 +0100|realtek: enable MDI swapping for RTL8226 where needed
+acedb7e2d3|Jan Hoffmann|Tue Dec 23 20:38:31 2025 +0100|realtek: support MDI swapping for RTL8226 PHY
+eda2630ceb|John Audia|Thu Feb 26 17:24:56 2026 -0500|wireguard-tools: bump to 20260223
+056176cde1|Markus Stockhausen|Wed Mar 4 19:16:23 2026 +0100|realtek: dsa: consolidate switch_irq()
+42fcfe535c|Markus Stockhausen|Wed Mar 4 08:13:25 2026 +0100|realtek: dsa: add MAC_LINK_STS to config structure
+bb7f4f97c7|John Audia|Sun Mar 8 07:58:25 2026 -0400|intel-microcode: update to 20260227
+e4624d308e|John Audia|Sun Feb 15 05:25:59 2026 -0500|intel-microcode: update to 20260210
+bda9db3049|Jan Kantert|Sun Mar 1 00:09:19 2026 +0100|realtek: use 50kHz I2C for SFPs on Xikestor SKS8300-8X
+9413a3d96d|Shiji Yang|Fri Dec 19 23:59:05 2025 +0800|zlib: update to 1.3.2
+518d711461|Shiji Yang|Fri Dec 19 23:20:48 2025 +0800|tools/zlib: update to 1.3.2
+2a7cb484e9|Robert Marko|Sat Mar 14 21:48:58 2026 +0100|mac80211: ath11k: make the M3 dump memory not defined a debug message
+51cb7b6e64|Til Kaiser|Tue Mar 10 20:35:36 2026 +0100|uboot-fritz4040: update to Git HEAD (2026-03-08)
+c23b9256f0|Aleksander Jan Bajkowski|Mon Mar 9 22:56:12 2026 +0100|mediatek: replace patches with upstream version
+
+.....................
+
 </details>

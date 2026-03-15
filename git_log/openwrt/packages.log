@@ -2,18 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6e95bdf1b|Alexandru Ardelean|Wed Mar 11 16:31:37 2026 +0200|python-pytz: bump to 2026.1
-2834b40af|Ivan Pavlov|Fri Mar 13 10:31:07 2026 +0300|curl: update to 8.19.0
-1b59cb61a|Javier Marcet|Mon Mar 2 21:41:29 2026 +0100|luajit2: update to v2.1-20260227
-d1acb1cc4|Josef Schlehofer|Fri Jan 9 15:05:45 2026 +0100|vscode: update editor settings and commit constraints
-376cbe460|Jeffery To|Sat Mar 14 01:44:30 2026 +0800|treewide: remove myself as maintainer
-f04aa8389|Rosen Penev|Tue Feb 10 16:54:56 2026 -0800|python-pyodbc: update to 5.3.0
-a7e01c91b|Alexandru Ardelean|Fri Mar 13 19:00:02 2026 +0200|treewide: add me as co-maintainer to Jeffery's packages
-5f7107d5e|Alexandru Ardelean|Thu Mar 12 13:59:52 2026 +0200|openblas: bump to 0.3.31
-68f18ae0e|Alexandru Ardelean|Thu Mar 12 13:47:36 2026 +0200|numpy: bump to 2.4.2
-6b23febb1|Chester A. Unal|Thu Mar 12 12:12:17 2026 +0200|bsbf-openwrt-resources: add BSBF URL to packages
-e3c7df138|Chester A. Unal|Thu Mar 12 12:11:13 2026 +0200|bsbf-resources: add BSBF URL to packages
-709b2c629|Chester A. Unal|Thu Mar 12 08:13:30 2026 +0200|bsbf-plpmtu: add
-bc1e10d8c|Chester A. Unal|Thu Mar 12 07:54:57 2026 +0200|plp-mtu-discovery: add
-04f599145|George Sapkin|Thu Mar 12 19:59:23 2026 +0200|sqlite3: bump to 3.52.0
+e192c5983|George Sapkin|Fri Mar 13 19:54:12 2026 +0200|adguardhome: validate config
+78ae80c92|Fabrice Fontaine|Sat Mar 14 10:18:16 2026 +0100|admin/iotop: drop PKG_CPE_ID
+5fa9f9edb|Fabrice Fontaine|Fri Mar 13 22:40:56 2026 +0100|net/nfs-kernel-server: fix PKG_CPE_ID
+502b8b327|Fabrice Fontaine|Sat Mar 14 18:30:39 2026 +0100|libs/libextractor: assign PKG_CPE_ID
+d2e43c905|Fabrice Fontaine|Sat Mar 14 18:47:40 2026 +0100|utils/bubblewrap: assign PKG_CPE_ID
+27b6ad53b|Alexandru Ardelean|Sat Mar 14 10:32:45 2026 +0200|treewide: add Alexandru Ardelean as co-maintainer
+6e014ede1|Alexandru Ardelean|Wed Mar 11 16:38:46 2026 +0200|python-chardet: bump to 7.0.1
+a268b500d|Hannu Nyman|Sat Mar 14 09:48:16 2026 +0200|nano: improve uci coloring of unterminated strings
+15500a07f|Thomas Winkler|Tue Mar 10 13:40:28 2026 +0100|openconnect: fix token_script error handling/logging
+638335582|Thomas Winkler|Tue Mar 10 13:56:11 2026 +0100|openconnect: implement --no-external-auth
+0b6bedf5f|Daniel Danzberger|Thu Mar 5 19:00:06 2026 +0100|pulseaudio: lower START= value in init script
 </details>

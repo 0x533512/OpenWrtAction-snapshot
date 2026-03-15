@@ -1,7 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-068150ba5f|Christian Marangi|Thu Mar 12 16:07:49 2026 +0100|luci-mod-network: escape WiFi SSID on Scanning AP modal
-5e9c736a9c|Paul Donald|Fri Mar 13 13:53:34 2026 +0100|luci-app-unbound: additional fixes
-</details>
