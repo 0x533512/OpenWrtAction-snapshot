@@ -2,22 +2,13 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-200158208e|Rustam Adilov|Wed Feb 18 21:33:07 2026 +0500|realtek: thermal: extend the driver to support rtl960x
-2948dbebbf|Yanase Yuki|Wed Dec 24 17:05:38 2025 +0900|mac80211: use OpenWrt mirror for b43 fw downloads
-b943db9cb2|Jan Hoffmann|Tue Dec 23 20:40:52 2025 +0100|realtek: enable MDI swapping for RTL8226 where needed
-acedb7e2d3|Jan Hoffmann|Tue Dec 23 20:38:31 2025 +0100|realtek: support MDI swapping for RTL8226 PHY
-eda2630ceb|John Audia|Thu Feb 26 17:24:56 2026 -0500|wireguard-tools: bump to 20260223
-056176cde1|Markus Stockhausen|Wed Mar 4 19:16:23 2026 +0100|realtek: dsa: consolidate switch_irq()
-42fcfe535c|Markus Stockhausen|Wed Mar 4 08:13:25 2026 +0100|realtek: dsa: add MAC_LINK_STS to config structure
-bb7f4f97c7|John Audia|Sun Mar 8 07:58:25 2026 -0400|intel-microcode: update to 20260227
-e4624d308e|John Audia|Sun Feb 15 05:25:59 2026 -0500|intel-microcode: update to 20260210
-bda9db3049|Jan Kantert|Sun Mar 1 00:09:19 2026 +0100|realtek: use 50kHz I2C for SFPs on Xikestor SKS8300-8X
-9413a3d96d|Shiji Yang|Fri Dec 19 23:59:05 2025 +0800|zlib: update to 1.3.2
-518d711461|Shiji Yang|Fri Dec 19 23:20:48 2025 +0800|tools/zlib: update to 1.3.2
-2a7cb484e9|Robert Marko|Sat Mar 14 21:48:58 2026 +0100|mac80211: ath11k: make the M3 dump memory not defined a debug message
-51cb7b6e64|Til Kaiser|Tue Mar 10 20:35:36 2026 +0100|uboot-fritz4040: update to Git HEAD (2026-03-08)
-c23b9256f0|Aleksander Jan Bajkowski|Mon Mar 9 22:56:12 2026 +0100|mediatek: replace patches with upstream version
-
-.....................
-
+97238c793b|Julius Schwartzenberg|Thu Feb 19 19:08:59 2026 +0100|ipq40xx: enable Devolo Magic 2 WiFi next
+4286dea96b|Shiji Yang|Sat Feb 28 19:26:47 2026 +0800|ramips: mt76x8: drop downstream PWM driver support
+de8b01c0a5|Shiji Yang|Sat Feb 28 19:26:03 2026 +0800|ramips: mt76x8: add new upstream PWM driver module
+4f61fe8118|Shiji Yang|Sat Feb 28 19:25:29 2026 +0800|ramips: mt76x8: adapt to upstream PWM driver
+91bc5ea271|Shiji Yang|Sat Feb 28 19:25:07 2026 +0800|ramips: mt76x8: add missing clocks to PWM peripheral
+de2b830dc4|Qingfang Deng|Thu Mar 5 15:23:42 2026 +0800|mvebu: select CPU_LITTLE_ENDIAN
+1477292634|Hauke Mehrtens|Mon Mar 16 00:51:04 2026 +0100|jsonfilter: update to Git HEAD (2026-03-16)
+36a818b413|Shiji Yang|Sun Mar 15 21:05:08 2026 +0800|qualcommax: move EAP623 Outdoor dts to the correct folder
+7824dbcab8|Shiji Yang|Sun Mar 15 14:56:09 2026 +0800|mac80211: broadcom: fix Makefile syntax error
 </details>

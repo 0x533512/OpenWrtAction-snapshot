@@ -2,15 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e192c5983|George Sapkin|Fri Mar 13 19:54:12 2026 +0200|adguardhome: validate config
-78ae80c92|Fabrice Fontaine|Sat Mar 14 10:18:16 2026 +0100|admin/iotop: drop PKG_CPE_ID
-5fa9f9edb|Fabrice Fontaine|Fri Mar 13 22:40:56 2026 +0100|net/nfs-kernel-server: fix PKG_CPE_ID
-502b8b327|Fabrice Fontaine|Sat Mar 14 18:30:39 2026 +0100|libs/libextractor: assign PKG_CPE_ID
-d2e43c905|Fabrice Fontaine|Sat Mar 14 18:47:40 2026 +0100|utils/bubblewrap: assign PKG_CPE_ID
-27b6ad53b|Alexandru Ardelean|Sat Mar 14 10:32:45 2026 +0200|treewide: add Alexandru Ardelean as co-maintainer
-6e014ede1|Alexandru Ardelean|Wed Mar 11 16:38:46 2026 +0200|python-chardet: bump to 7.0.1
-a268b500d|Hannu Nyman|Sat Mar 14 09:48:16 2026 +0200|nano: improve uci coloring of unterminated strings
-15500a07f|Thomas Winkler|Tue Mar 10 13:40:28 2026 +0100|openconnect: fix token_script error handling/logging
-638335582|Thomas Winkler|Tue Mar 10 13:56:11 2026 +0100|openconnect: implement --no-external-auth
-0b6bedf5f|Daniel Danzberger|Thu Mar 5 19:00:06 2026 +0100|pulseaudio: lower START= value in init script
+5fc21a109|Rosen Penev|Fri Mar 13 19:15:23 2026 -0700|dante: fix usaage with musl
+ce52e2ec2|Florian Wagner|Tue Feb 17 16:21:22 2026 +0100|chrony: make chrony-hotplug more reliable
+27c44bf73|Dirk Brenken|Sun Mar 15 19:16:44 2026 +0100|adblock: release 4.5.3-1
+d7ab0cab4|Fabrice Fontaine|Sat Mar 14 10:14:27 2026 +0100|net/davfs2: fix PKG_CPE_ID
+e72427490|Dirk Brenken|Sun Mar 15 18:17:04 2026 +0100|banip: release 1.8.1-1
+a7f33871e|Fabrice Fontaine|Fri Mar 13 23:28:56 2026 +0100|python-pyopenssl: fix PKG_CPE_ID
+2e14244ef|Fabrice Fontaine|Sat Mar 14 14:42:22 2026 +0100|utils/opendoas: assign PKG_CPE_ID
+cc89bb548|Fabrice Fontaine|Sat Mar 14 14:38:56 2026 +0100|net/openfortivpn: assign PKG_CPE_ID
+6b3c95cbd|dwardor|Sun Feb 22 11:56:09 2026 +0100|fail2ban: add host build deps to fix #28520
+62a777cb7|Henri Osmankäämi|Sat Mar 14 11:43:18 2026 +0200|i2csfp: update to the latest git HEAD
+38759fa14|John Audia|Sat Mar 14 08:51:32 2026 -0400|nfs-kernel-server: update to 2.8.7
+eb85b3001|Hannu Nyman|Sun Mar 15 09:28:52 2026 +0200|openvpn: increment PKG_RELEASE by one
+a433330cf|Fabrice Fontaine|Sat Mar 14 14:07:33 2026 +0100|net/smartdns: assign PKG_CPE_ID
+ca0710c71|Fabrice Fontaine|Sat Mar 14 13:40:54 2026 +0100|libs/libxerces-c: assign PKG_CPE_ID
+c9d8e269e|Fabrice Fontaine|Sat Mar 14 15:04:57 2026 +0100|utils/miniflux: assign PKG_CPE_ID
+
+.....................
+
 </details>
