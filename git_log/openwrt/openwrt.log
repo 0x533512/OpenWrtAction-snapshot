@@ -2,13 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-97238c793b|Julius Schwartzenberg|Thu Feb 19 19:08:59 2026 +0100|ipq40xx: enable Devolo Magic 2 WiFi next
-4286dea96b|Shiji Yang|Sat Feb 28 19:26:47 2026 +0800|ramips: mt76x8: drop downstream PWM driver support
-de8b01c0a5|Shiji Yang|Sat Feb 28 19:26:03 2026 +0800|ramips: mt76x8: add new upstream PWM driver module
-4f61fe8118|Shiji Yang|Sat Feb 28 19:25:29 2026 +0800|ramips: mt76x8: adapt to upstream PWM driver
-91bc5ea271|Shiji Yang|Sat Feb 28 19:25:07 2026 +0800|ramips: mt76x8: add missing clocks to PWM peripheral
-de2b830dc4|Qingfang Deng|Thu Mar 5 15:23:42 2026 +0800|mvebu: select CPU_LITTLE_ENDIAN
-1477292634|Hauke Mehrtens|Mon Mar 16 00:51:04 2026 +0100|jsonfilter: update to Git HEAD (2026-03-16)
-36a818b413|Shiji Yang|Sun Mar 15 21:05:08 2026 +0800|qualcommax: move EAP623 Outdoor dts to the correct folder
-7824dbcab8|Shiji Yang|Sun Mar 15 14:56:09 2026 +0800|mac80211: broadcom: fix Makefile syntax error
+02e2065203|Miika Sundström|Sun Mar 15 18:40:42 2026 +0200|wifi-scripts: fix [VHT160]/[VHT160-80PLUS80] usage
+d97381aff3|Esat Yiğithan GÖKTOPRAK|Mon Mar 16 20:38:00 2026 +0300|ramips: fix for Keenetic KN-1910
+a15b224e83|Oliver Sedlbauer|Mon Mar 16 10:27:38 2026 +0100|ramips: mt76x8: fix bootcount init script file permissions
+d405685b44|Hauke Mehrtens|Mon Mar 16 02:40:09 2026 +0100|lantiq: adapt gpio-stp-xway node name to get clock
+045deec7e9|David Bauer|Sun Mar 15 17:47:15 2026 +0100|wifi: mt76: mt7915: set mt76 specific PS flag
+7d2c244646|Kenneth Kasilag|Mon Mar 16 09:25:53 2026 +0000|airoha: rename kmod-pwm-an7581 to kmod-pwm-airoha
+598c4b7fde|Hannu Nyman|Sat Mar 14 22:40:30 2026 +0200|apk: add help text for 'apk add --force-reinstall'
+708883c9d2|Andrew LaMarche|Thu Mar 12 13:22:03 2026 +0000|airoha: an7581: fix w1700k fan script
 </details>
