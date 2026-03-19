@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-d7a35b4ec8|Stan Grishin|Mon Mar 9 23:59:52 2026 +0000|luci-app-pbr: update to 1.2.2-r12
-b4d0989ac3|Han Yiming|Thu Mar 5 11:22:45 2026 +0800|luci-app-tailscale-community: major version update
-122839294a|Tim Nordell|Mon Mar 16 09:24:23 2026 -0500|luci-proto-modemmanager: fix ACL command injection
+1c34772f07|Hosted Weblate|Wed Mar 18 13:21:13 2026 +0100|Translated using Weblate (Korean)
 </details>

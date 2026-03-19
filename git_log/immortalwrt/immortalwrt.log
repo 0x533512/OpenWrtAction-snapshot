@@ -1,0 +1,23 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+9f06058411|Tianling Shen|Wed Mar 18 10:47:47 2026 +0800|Merge Official Source
+cd99fb62ac|Tianling Shen|Wed Mar 18 09:56:04 2026 +0800|aic8800: Update to V5.0_2026_0123_5f7be68d
+e210d994fa|Christian Marangi|Wed Jan 28 20:56:53 2026 +0100|airoha: an7581: add Nokia Valyrian support
+103e9aec15|Christian Marangi|Thu Feb 5 19:59:47 2026 +0100|uboot-airoha: Add support for Nokia Valyrian
+74d120c22d|Paweł Owoc|Thu Jan 22 12:44:55 2026 +0100|linux-firmware: ath11k: add IPQ5018, IPQ8074, QCN9074
+df45ed2da0|Álvaro Fernández Rojas|Mon Mar 16 19:07:36 2026 +0100|odhcpd: update to Git HEAD (2026-03-16)
+b37cbcf50a|Eric Fahlgren|Mon Mar 16 08:26:03 2026 -0700|iptables: prefer nft variants over zz-legacy
+02e2065203|Miika Sundström|Sun Mar 15 18:40:42 2026 +0200|wifi-scripts: fix [VHT160]/[VHT160-80PLUS80] usage
+d97381aff3|Esat Yiğithan GÖKTOPRAK|Mon Mar 16 20:38:00 2026 +0300|ramips: fix for Keenetic KN-1910
+a15b224e83|Oliver Sedlbauer|Mon Mar 16 10:27:38 2026 +0100|ramips: mt76x8: fix bootcount init script file permissions
+d405685b44|Hauke Mehrtens|Mon Mar 16 02:40:09 2026 +0100|lantiq: adapt gpio-stp-xway node name to get clock
+045deec7e9|David Bauer|Sun Mar 15 17:47:15 2026 +0100|wifi: mt76: mt7915: set mt76 specific PS flag
+7d2c244646|Kenneth Kasilag|Mon Mar 16 09:25:53 2026 +0000|airoha: rename kmod-pwm-an7581 to kmod-pwm-airoha
+598c4b7fde|Hannu Nyman|Sat Mar 14 22:40:30 2026 +0200|apk: add help text for 'apk add --force-reinstall'
+708883c9d2|Andrew LaMarche|Thu Mar 12 13:22:03 2026 +0000|airoha: an7581: fix w1700k fan script
+
+.....................
+
+</details>

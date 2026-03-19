@@ -2,5 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a2f692808|Stan Grishin|Mon Mar 9 23:58:08 2026 +0000|pbr: update to 1.2.2-r12
+e0ab7d0df|Sander van Deijck|Fri Mar 13 20:24:03 2026 +0100|openvpn: update to 2.6.19
+a5f69cdc4|Sander van Deijck|Fri Mar 13 20:18:32 2026 +0100|ovpn-dco: update to version 0.2.20251017
+4685339ee|Andrey Zotikov|Tue Feb 17 15:17:36 2026 +0300|i2pd: bump to 2.59.0
+535817957|Alexandru Ardelean|Fri Mar 13 22:46:54 2026 +0200|python-userpath: bump to 1.9.2
+ccd3edfab|Fabrice Fontaine|Tue Mar 17 23:13:49 2026 +0100|libs/libirecovery: assign PKG_CPE_ID
+9bde150c2|Fabrice Fontaine|Tue Mar 17 23:12:00 2026 +0100|libs/libimobiledevice: assign PKG_CPE_ID
+5d688d68e|Fabrice Fontaine|Sat Mar 14 19:24:03 2026 +0100|admin/backuppc: assign PKG_CPE_ID
+a127cc5c5|Fabrice Fontaine|Sat Mar 14 19:17:56 2026 +0100|utils/borgbackup: assign PKG_CPE_ID
+d6ff1f294|Fabrice Fontaine|Sat Mar 14 18:42:08 2026 +0100|net/kadnode: assign PKG_CPE_ID
+555db78d4|Fabrice Fontaine|Sat Mar 14 21:58:48 2026 +0100|libs/libedit: assign PKG_CPE_ID
+b0820458d|Fabrice Fontaine|Tue Mar 17 23:02:48 2026 +0100|utils/apparmor: assign PKG_CPE_ID
+a75fc52bf|Fabrice Fontaine|Sat Mar 14 14:12:49 2026 +0100|net/sing-box: assign PKG_CPE_ID
+48bbf8c4c|Fabrice Fontaine|Sat Mar 14 21:33:16 2026 +0100|libs/gperftools: assign PKG_CPE_ID
+f388b1120|Fabrice Fontaine|Sat Mar 14 00:10:00 2026 +0100|admin/netdata: fix PKG_CPE_ID
+bfdf01496|Fabrice Fontaine|Fri Mar 13 23:42:15 2026 +0100|lang/erlang: fix PKG_CPE_ID
+
+.....................
+
 </details>

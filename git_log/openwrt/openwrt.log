@@ -2,9 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e210d994fa|Christian Marangi|Wed Jan 28 20:56:53 2026 +0100|airoha: an7581: add Nokia Valyrian support
-103e9aec15|Christian Marangi|Thu Feb 5 19:59:47 2026 +0100|uboot-airoha: Add support for Nokia Valyrian
-74d120c22d|Paweł Owoc|Thu Jan 22 12:44:55 2026 +0100|linux-firmware: ath11k: add IPQ5018, IPQ8074, QCN9074
-df45ed2da0|Álvaro Fernández Rojas|Mon Mar 16 19:07:36 2026 +0100|odhcpd: update to Git HEAD (2026-03-16)
-b37cbcf50a|Eric Fahlgren|Mon Mar 16 08:26:03 2026 -0700|iptables: prefer nft variants over zz-legacy
+de08715d7f|Rosen Penev|Tue Feb 10 16:29:33 2026 -0800|ramips: dir-3040-a1: fix MAC address assignment
+8364cb4baa|Christian Marangi|Wed Mar 18 09:27:30 2026 +0100|airoha: an7581: fix interface selection script for Nokia Valyrian
+348f716408|Chukun Pan|Fri Jan 30 20:16:28 2026 +0800|mediatek: update Tenda BE12 Pro support
 </details>
