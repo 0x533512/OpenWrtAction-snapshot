@@ -2,7 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-de08715d7f|Rosen Penev|Tue Feb 10 16:29:33 2026 -0800|ramips: dir-3040-a1: fix MAC address assignment
-8364cb4baa|Christian Marangi|Wed Mar 18 09:27:30 2026 +0100|airoha: an7581: fix interface selection script for Nokia Valyrian
-348f716408|Chukun Pan|Fri Jan 30 20:16:28 2026 +0800|mediatek: update Tenda BE12 Pro support
+a1f5273d27|Edward Chow|Wed Mar 11 16:19:26 2026 +0800|mac80211: ath9k: patch hw.c for gpio mask from dt
+44d06e3bee|Fabrice Fontaine|Sat Mar 14 20:55:40 2026 +0100|tools/erofs-utils: assign PKG_CPE_ID
+1af29dbb4f|Rustam Adilov|Wed Feb 18 20:26:42 2026 +0500|realtek: clk: add rtl9607 clock support
+10db6fc26e|Nick Hainke|Wed Feb 18 00:42:43 2026 +0100|base-files: sysupgrade: avoid cat missing conffiles_static
+d35d92a541|Edward Chow|Thu Jul 17 19:29:10 2025 +0800|ath79: untag to cpu ports on 2-cpu-port devices by default
+49715596f9|David Bauer|Thu Mar 19 17:30:41 2026 +0100|mt76: remove incompatible patch
+2f1537443f|Felix Fietkau|Thu Mar 19 12:33:56 2026 +0000|mt76: update to Git HEAD (2026-03-19)
+8e711f68c4|Rosen Penev|Tue Mar 3 15:12:03 2026 -0800|mac80211: rt2x00: remove swap binding
+926991329b|Rosen Penev|Wed Feb 25 20:27:50 2026 -0800|lantiq: convert ralink,mtd-eeprom to nvmem
+a19cdb1a95|Felix Fietkau|Thu Mar 19 09:38:36 2026 +0000|hostapd: ubus: fix parent-tsf size in beacon report notification
+1d98101743|Felix Fietkau|Thu Mar 19 09:38:21 2026 +0000|hostapd: ubus: add missing token to beacon report notification
+a34c3baf56|Felix Fietkau|Thu Mar 19 04:48:28 2026 +0000|mac80211: fix reporting MLO link ID for non-MLO STAs on MLO AP
+5aea8e8916|Felix Fietkau|Wed Mar 18 18:42:06 2026 +0000|hostapd: fix type mismatch in BSS transition responses
+c5564ba071|Felix Fietkau|Wed Mar 18 15:58:52 2026 +0000|hostapd: ubus: fix beacon request reporting detail field size
+0208089ded|Felix Fietkau|Wed Mar 18 15:58:37 2026 +0000|hostapd: ubus: fix beacon request buffer overflow with reporting detail
+
+.....................
+
 </details>
