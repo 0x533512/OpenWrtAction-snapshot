@@ -1,0 +1,23 @@
+<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+dd1ffd6d44|Tianling Shen|Fri Mar 20 23:42:15 2026 +0800|Merge Official Source
+7ba45de827|Shiji Yang|Fri Mar 20 19:05:33 2026 +0800|ramips: mt76x8: disable ICPlus PHY driver
+c5a8ddd0ac|Lorenzo Bianconi|Wed Mar 18 12:16:49 2026 +0100|airoha: backport some missing airoha_eth upstream patches
+25f92aaae1|Christian Marangi|Thu Mar 19 17:09:49 2026 +0100|generic: backport new field_prep()/get() helper for non-const bitmask
+9b21478d96|Christian Marangi|Thu Mar 19 16:46:40 2026 +0100|airoha: renumber ASoC and PCS patch for more backport patch
+cf171288a0|Edward Chow|Fri Mar 20 11:01:43 2026 +0800|ath79: untag to cpu ports on qxwlan_e558-v2
+fc5aed2ff2|Andrew Sim|Fri Mar 20 06:21:26 2026 +0100|wifi-scripts: ucode: use correct antenna count for SU beamformee
+1f41e2ce27|Lorenzo Bianconi|Thu Mar 19 11:42:37 2026 +0100|airoha: Add PCIe sub-nodes for NPU wifi offloading
+a1f5273d27|Edward Chow|Wed Mar 11 16:19:26 2026 +0800|mac80211: ath9k: patch hw.c for gpio mask from dt
+44d06e3bee|Fabrice Fontaine|Sat Mar 14 20:55:40 2026 +0100|tools/erofs-utils: assign PKG_CPE_ID
+1af29dbb4f|Rustam Adilov|Wed Feb 18 20:26:42 2026 +0500|realtek: clk: add rtl9607 clock support
+10db6fc26e|Nick Hainke|Wed Feb 18 00:42:43 2026 +0100|base-files: sysupgrade: avoid cat missing conffiles_static
+d35d92a541|Edward Chow|Thu Jul 17 19:29:10 2025 +0800|ath79: untag to cpu ports on 2-cpu-port devices by default
+49715596f9|David Bauer|Thu Mar 19 17:30:41 2026 +0100|mt76: remove incompatible patch
+2f1537443f|Felix Fietkau|Thu Mar 19 12:33:56 2026 +0000|mt76: update to Git HEAD (2026-03-19)
+
+.....................
+
+</details>

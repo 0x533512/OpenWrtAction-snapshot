@@ -1,8 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-18e0538348|Ramon Van Gorkom|Wed Mar 18 18:45:12 2026 +0100|luci-app-usteer: fix copy/paste mistake
-1d7fa8163c|Paul Donald|Thu Mar 19 21:29:16 2026 +0100|luci-mod-network: align STP defaults with netifd
-dcc3b1d5e8|Stan Grishin|Thu Mar 19 02:33:00 2026 +0000|luci-app-adblock-fast: update to 1.2.2-r12
-</details>

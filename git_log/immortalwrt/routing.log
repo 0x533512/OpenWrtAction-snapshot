@@ -1,0 +1,7 @@
+<details> <summary> <b>routing new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+d830ce7|Simon Wunderlich|Fri Mar 20 10:54:51 2026 +0100|Merge pull request #1167 from wififreedom/batadv_vlan
+9777081|Bastiaan Stougie|Thu Mar 12 23:45:48 2026 +0100|batman-adv: improve batadv_vlan.sh for LuCI
+</details>
