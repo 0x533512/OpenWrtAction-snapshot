@@ -2,12 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b9299ae0e7|Shiji Yang|Sat Mar 21 00:53:00 2026 +0800|ramips: kernel: drop ip_fast_csum() dead loop fix
-7ba45de827|Shiji Yang|Fri Mar 20 19:05:33 2026 +0800|ramips: mt76x8: disable ICPlus PHY driver
-c5a8ddd0ac|Lorenzo Bianconi|Wed Mar 18 12:16:49 2026 +0100|airoha: backport some missing airoha_eth upstream patches
-25f92aaae1|Christian Marangi|Thu Mar 19 17:09:49 2026 +0100|generic: backport new field_prep()/get() helper for non-const bitmask
-9b21478d96|Christian Marangi|Thu Mar 19 16:46:40 2026 +0100|airoha: renumber ASoC and PCS patch for more backport patch
-cf171288a0|Edward Chow|Fri Mar 20 11:01:43 2026 +0800|ath79: untag to cpu ports on qxwlan_e558-v2
-fc5aed2ff2|Andrew Sim|Fri Mar 20 06:21:26 2026 +0100|wifi-scripts: ucode: use correct antenna count for SU beamformee
-1f41e2ce27|Lorenzo Bianconi|Thu Mar 19 11:42:37 2026 +0100|airoha: Add PCIe sub-nodes for NPU wifi offloading
+2f74f9188f|Jonas Jelonek|Wed Mar 18 11:24:19 2026 +0100|realtek: pcs: rtl930x: adjust initial vth_min value
+6f4c431990|Jonas Jelonek|Wed Mar 18 10:26:16 2026 +0100|realtek: pcs: rtl930x: reorder FGCAL code
+2fb3dcf009|Jonas Jelonek|Tue Mar 17 20:17:12 2026 +0000|realtek: pcs: rtl930x: simplify even/odd writes
+02f1d73192|Jonas Jelonek|Mon Mar 16 15:22:55 2026 +0000|realtek: pcs: rtl930x: fix calibration check
+e625e7e650|Jonas Jelonek|Mon Mar 16 13:10:14 2026 +0100|realtek: pcs: rtl930x: fix 10g RX idle waiting
+e198b2504c|Jonas Jelonek|Thu Mar 5 21:59:55 2026 +0000|realtek: pcs: rtl930x: fix symbol error read
+1707475f99|Jonas Jelonek|Thu Mar 5 22:01:19 2026 +0000|realtek: pcs: rtl930x: use param instead of register read
+52cd822b5d|Jonas Jelonek|Thu Mar 5 21:34:46 2026 +0000|realtek: pcs: rtl930x: fix some harebrained piece of code
+0ab8594396|Jonas Jelonek|Thu Mar 5 21:21:39 2026 +0000|realtek: pcs: rtl930x: limit loop iterations
+92e7876477|Jonas Jelonek|Thu Mar 5 21:17:30 2026 +0000|realtek: pcs: rtl930x: cleanup code comments and output
+a2b8a3fbb9|Pawel Dembicki|Wed Feb 25 21:06:28 2026 +0100|mpc85xx: remove swconfig package
+89d93700bf|Pawel Dembicki|Tue Feb 24 09:35:49 2026 +0100|mpc85xx: p2020: switch P2020RDB to DSA
+8b969f7e27|Markus Stockhausen|Sun Mar 1 17:34:49 2026 +0100|realtek: mdio: drop realtek,smi-address property
+4c92254fd3|Markus Stockhausen|Mon Mar 9 16:39:11 2026 +0100|realtek: dts: relocate/retype switch node
+f5ec3f2df2|Markus Stockhausen|Mon Mar 9 10:50:44 2026 +0100|realtek: dts: normalize Zyxel XGS1x10 DTS
+
+.....................
+
 </details>

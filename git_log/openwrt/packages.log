@@ -2,18 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9c5f17f9b|Vladimir Ermakov|Sat Mar 7 09:39:32 2026 +0100|coredns: update to 1.14.2
-29d25282f|Fabrice Fontaine|Thu Mar 19 22:58:33 2026 +0100|python/openpyxl: assign PKG_CPE_ID
-da53869fb|Fabrice Fontaine|Thu Mar 19 23:02:36 2026 +0100|python/python-eventlet: assign PKG_CPE_ID
-b0656c7e2|Niklas Thorild|Thu Mar 19 20:52:30 2026 +0100|telegraf: add disk plugin to small variant
-65513fab5|Hirokazu MORIKAWA|Thu Mar 19 23:10:00 2026 +0900|icu: bump to 78.3
-b24b5acd7|Fabrice Fontaine|Thu Mar 19 22:30:35 2026 +0100|multimedia/icecast: fix PKG_CPE_ID
-bb47b0279|Fabrice Fontaine|Thu Mar 19 22:25:57 2026 +0100|mail/bogofilter: fix PKG_CPE_ID
-cd8decf91|Fabrice Fontaine|Thu Mar 19 22:19:00 2026 +0100|sound/owntone: fix typo in PKG_CPE_ID
-e7e16a859|Alexandru Ardelean|Thu Mar 19 15:00:09 2026 +0000|python-build: bump to 1.4.0
-5f957ab5d|Alexandru Ardelean|Thu Mar 19 14:07:16 2026 +0000|python-setuptools: bump to 82.0.1
-01d1c6613|Alexandru Ardelean|Thu Mar 19 14:55:33 2026 +0000|python-hatchling: bump to 1.29.0
-161d07e43|Alexandru Ardelean|Thu Mar 19 15:34:56 2026 +0000|python-click: bump to 8.3.1
-f22ab5cf6|Alexandru Ardelean|Sat Mar 14 19:03:39 2026 +0200|python3: bump to 3.14.3
-b1502c453|Florian Eckert|Fri Mar 13 11:18:46 2026 +0100|ddns-scripts: switch to procd handling
+57e2957e8|nantayo|Sat Mar 21 08:10:17 2026 +0800|podman: update to 5.8.1
+dce723e9a|Christian Lachner|Sat Mar 21 15:37:57 2026 +0100|haproxy: update to v3.2.15
+b303f7823|Alexandru Ardelean|Sat Mar 21 06:57:34 2026 +0000|python-chardet: bump to 7.1.0
+db4af8018|Alexandru Ardelean|Sat Mar 14 10:57:15 2026 +0200|python-gnupg: bump to 0.5.6
+98df6fe49|Fabrice Fontaine|Thu Mar 19 22:45:12 2026 +0100|net/smcroute: assign PKG_CPE_ID
+bf675f71b|Fabrice Fontaine|Thu Mar 19 22:55:02 2026 +0100|python/python-orjson: assign PKG_CPE_ID
+d33d9e182|Alexandru Ardelean|Sat Mar 21 06:54:46 2026 +0000|numpy: bump to 2.4.3
+b57afd963|Alexandru Ardelean|Fri Mar 20 17:04:35 2026 +0000|python-zipp: bump to 3.23.0
+af5999ce2|George Sapkin|Fri Mar 13 23:41:13 2026 +0200|syncthing: validate syncthing config
+30199decf|George Sapkin|Sat Mar 14 01:32:09 2026 +0200|syncthing: validate strelaysrv config
+d26083edf|George Sapkin|Sat Mar 14 01:25:11 2026 +0200|syncthing: validate stdiscosrv config
+6accad3bb|George Sapkin|Fri Mar 13 23:24:56 2026 +0200|syncthing: add GC and thread control variables
+cde9e3b66|Chen Minqiang|Tue Mar 17 19:20:33 2026 +0800|openvpn: increment PKG_RELEASE by one
+29e74f34d|Chen Minqiang|Tue Mar 17 19:19:30 2026 +0800|openvpn: handle netifd setup in hotplug script
+bda60d1fc|Chen Minqiang|Tue Mar 17 19:16:27 2026 +0800|openvpn: cleanup and fix netifd proto script logic
+
+.....................
+
 </details>
