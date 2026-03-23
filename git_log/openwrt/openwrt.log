@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2f74f9188f|Jonas Jelonek|Wed Mar 18 11:24:19 2026 +0100|realtek: pcs: rtl930x: adjust initial vth_min value
-6f4c431990|Jonas Jelonek|Wed Mar 18 10:26:16 2026 +0100|realtek: pcs: rtl930x: reorder FGCAL code
-2fb3dcf009|Jonas Jelonek|Tue Mar 17 20:17:12 2026 +0000|realtek: pcs: rtl930x: simplify even/odd writes
-02f1d73192|Jonas Jelonek|Mon Mar 16 15:22:55 2026 +0000|realtek: pcs: rtl930x: fix calibration check
-e625e7e650|Jonas Jelonek|Mon Mar 16 13:10:14 2026 +0100|realtek: pcs: rtl930x: fix 10g RX idle waiting
-e198b2504c|Jonas Jelonek|Thu Mar 5 21:59:55 2026 +0000|realtek: pcs: rtl930x: fix symbol error read
-1707475f99|Jonas Jelonek|Thu Mar 5 22:01:19 2026 +0000|realtek: pcs: rtl930x: use param instead of register read
-52cd822b5d|Jonas Jelonek|Thu Mar 5 21:34:46 2026 +0000|realtek: pcs: rtl930x: fix some harebrained piece of code
-0ab8594396|Jonas Jelonek|Thu Mar 5 21:21:39 2026 +0000|realtek: pcs: rtl930x: limit loop iterations
-92e7876477|Jonas Jelonek|Thu Mar 5 21:17:30 2026 +0000|realtek: pcs: rtl930x: cleanup code comments and output
-a2b8a3fbb9|Pawel Dembicki|Wed Feb 25 21:06:28 2026 +0100|mpc85xx: remove swconfig package
-89d93700bf|Pawel Dembicki|Tue Feb 24 09:35:49 2026 +0100|mpc85xx: p2020: switch P2020RDB to DSA
-8b969f7e27|Markus Stockhausen|Sun Mar 1 17:34:49 2026 +0100|realtek: mdio: drop realtek,smi-address property
-4c92254fd3|Markus Stockhausen|Mon Mar 9 16:39:11 2026 +0100|realtek: dts: relocate/retype switch node
-f5ec3f2df2|Markus Stockhausen|Mon Mar 9 10:50:44 2026 +0100|realtek: dts: normalize Zyxel XGS1x10 DTS
+339e8fa25b|Shiji Yang|Tue Mar 17 21:32:53 2026 +0800|ramips: dts: adjust mt7621 peripherals address range
+b048949114|Hauke Mehrtens|Mon Mar 23 02:07:43 2026 +0100|github: pin claude-code-action to v1.0.49
+015e8820b5|Shiji Yang|Fri Mar 20 19:32:03 2026 +0800|ramips: fix kernel decompress error for ELECOM WRC-X1800GS
+e5d8f5fd69|Shiji Yang|Sun Mar 22 20:12:11 2026 +0800|ramips: fix initramfs kernel loadaddr for EAP615-Wall v1
+9b1f73ec31|Hauke Mehrtens|Tue Mar 17 01:06:24 2026 +0100|uboot-lantiq: fix C-style comments in AWK scripts
+62ca0a987f|Hauke Mehrtens|Mon Mar 23 00:59:06 2026 +0100|github: fix claude-code-review running in tag mode for issue_comment
+20ae49dde7|Benjamin Levine|Fri Mar 20 06:07:31 2026 +0000|lantiq: xrx200: autoload lantiq_gswip and tag_gswip to fix failsafe mode
+122b2f2ef5|Hauke Mehrtens|Sun Mar 22 21:31:41 2026 +0100|github: add actions: read permission for CI status in claude-code-review
+29e1c7b85a|Hauke Mehrtens|Sun Mar 22 21:28:54 2026 +0100|github: remove allowedTools restriction from claude-code-review
+c0e75c9de6|Hauke Mehrtens|Sun Mar 22 04:00:51 2026 +0100|github: add Claude code review workflow triggered by /claude comment
+adc1406f32|Rustam Adilov|Tue Mar 10 22:07:18 2026 +0500|realtek: gpio: backport rtl9607c gpio support patches
+8bb5d19acd|Zoltan HERPAI|Mon Jun 2 22:06:24 2025 +0000|starfive: visionfive2: add CMA entry into board DTS
+39423810c1|Zoltan HERPAI|Sun Jun 1 21:31:52 2025 +0000|starfive: add uEnv script on VF2 boards
+d37289d0b8|Zoltan HERPAI|Sun Jun 1 21:34:50 2025 +0000|starfive: add ubootenv support
+3a550f766c|Zoltan HERPAI|Sun Jun 1 13:18:38 2025 +0000|starfive: add GPIO LEDs to VF1 and VF2
 
 .....................
 

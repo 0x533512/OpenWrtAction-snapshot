@@ -1,6 +1,0 @@
-<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-a69b4c41d2|Tianling Shen|Sat Mar 21 12:00:39 2026 +0800|mbedtls: pass -march=armv8-a to make fortify happy
-</details>
