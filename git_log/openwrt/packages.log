@@ -2,19 +2,20 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-294745742|Dirk Brenken|Sun Mar 22 19:55:08 2026 +0100|adblock: update 4.5.3-3
-cfec2b08c|Martin Neumann|Thu Mar 19 17:32:35 2026 +0100|libqmi: update to v1.38.0
-51a6db0b8|Alexandru Ardelean|Sun Mar 22 06:50:59 2026 +0000|python-augeas: bump to 1.2.0
-ef91c84fe|Dirk Brenken|Sun Mar 22 16:14:10 2026 +0100|banip: update 1.8.1-3
-3132319ea|Wei-Ting Yang|Thu Mar 5 19:51:52 2026 +0800|ffmpeg: document BUILD_PATENTED in package description
-dd8fac32b|Martin Neumann|Thu Mar 19 17:32:44 2026 +0100|fwupd: update to v2.1.1
-fb591471c|Daniel Golle|Sat Mar 21 19:07:53 2026 +0000|net-mtools: backport upstream fix
-f0576eb36|Daniel F. Dickinson|Mon Mar 16 02:43:17 2026 -0400|zabbix: hide CONFIG symbols when no Zabbix package selected
-32abd6408|Daniel F. Dickinson|Mon Mar 16 02:34:27 2026 -0400|zabbix: change spaces to tabs in Config.in
-ee9347098|Daniel F. Dickinson|Mon Mar 16 02:30:50 2026 -0400|zabbix: move small config-xx.in back to Makefile
-fd5c7badc|Alexandru Ardelean|Sun Mar 22 06:45:47 2026 +0000|python-bidict: bump to 0.23.1
-ada77e5da|Alexandru Ardelean|Sat Mar 21 13:26:11 2026 +0000|python-six: bump to 1.17.0
-e2e0362a1|Alexandru Ardelean|Sat Mar 21 06:53:26 2026 +0000|python-socketio: bump to 5.11.2
-643e0bd69|Alexandru Ardelean|Thu Mar 19 15:40:49 2026 +0000|python-gmpy2: bump to 2.3.0
-4dac638e4|Fabrice Fontaine|Sat Mar 14 21:53:04 2026 +0100|net/kea: assign PKG_CPE_ID
+7842061a7|Alexandru Ardelean|Mon Mar 23 20:46:54 2026 +0200|python-more-itertools: drop package (no longer used)
+df78cf6b0|Alexandru Ardelean|Sun Mar 15 15:12:45 2026 +0200|pillow: bump to 12.1.1
+432fa809d|Alexandru Ardelean|Sun Mar 15 16:03:01 2026 +0200|python-pybind11: add new package (version 2.13.6)
+63ffe5d5a|Alexandru Ardelean|Mon Mar 23 09:48:40 2026 +0000|libwebp: bump to 1.6.0
+76786d243|Alexandru Ardelean|Sun Mar 22 07:34:15 2026 +0000|newt: bump to 0.52.25
+df0744b3f|Alexandru Ardelean|Sat Mar 21 06:44:59 2026 +0000|python-werkzeug: bump to 3.1.6
+f35120fac|Tianling Shen|Thu Mar 12 16:33:20 2026 +0800|libtorrent-rasterbar: add boost as dependency for python package
+2bb3817f2|Alexandru Ardelean|Mon Mar 23 07:50:36 2026 +0000|python-pyasn1: bump to 0.6.3
+54e813217|Alexandru Ardelean|Sun Mar 22 06:55:57 2026 +0000|python-attrs: bump to 26.1.0
+d0be8634f|Alexandru Ardelean|Sun Mar 22 07:35:46 2026 +0000|mpremote: bump to 1.27.0
+17c2ffee5|Szabolcs Hubai|Sun Mar 22 12:33:24 2026 +0100|snapcast: update to v0.35.0
+60c5eb29a|Alexandru Ardelean|Sun Mar 22 06:55:57 2026 +0000|python-attrs: bump to 25.4.0
+dc489c082|Alexandru Ardelean|Sun Mar 22 09:23:53 2026 +0000|python-hatch-fancy-pypi-readme: bump to 25.1.0
+22c0454da|John Audia|Sat Mar 21 07:13:46 2026 -0400|snort3: update to 3.12.1.0
+fa477102e|John Audia|Sat Mar 21 07:12:36 2026 -0400|libdaq3: update to 3.0.27
+
 </details>

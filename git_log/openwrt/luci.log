@@ -2,6 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-59465752a8|Dirk Brenken|Sun Mar 22 20:01:12 2026 +0100|luci-app-adblock: update 4.5.3-3
-5944e2659c|Dirk Brenken|Sun Mar 22 16:19:42 2026 +0100|luci-app-banip: update 1.8.1-3
+a57e5e10a2|Eric Fahlgren|Fri Mar 20 20:54:09 2026 -0700|luci-app-attendedsysupgrade: format error details
+d7087a1165|Han Yiming|Sat Mar 21 13:51:58 2026 +0800|luci-app-tailscale-community: fix file chmodx
+761c2cda5f|Paul Donald|Mon Mar 23 19:10:01 2026 +0100|luci-mod-network: tighten MAC check regex
 </details>

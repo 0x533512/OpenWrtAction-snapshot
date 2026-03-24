@@ -2,22 +2,15 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-339e8fa25b|Shiji Yang|Tue Mar 17 21:32:53 2026 +0800|ramips: dts: adjust mt7621 peripherals address range
-b048949114|Hauke Mehrtens|Mon Mar 23 02:07:43 2026 +0100|github: pin claude-code-action to v1.0.49
-015e8820b5|Shiji Yang|Fri Mar 20 19:32:03 2026 +0800|ramips: fix kernel decompress error for ELECOM WRC-X1800GS
-e5d8f5fd69|Shiji Yang|Sun Mar 22 20:12:11 2026 +0800|ramips: fix initramfs kernel loadaddr for EAP615-Wall v1
-9b1f73ec31|Hauke Mehrtens|Tue Mar 17 01:06:24 2026 +0100|uboot-lantiq: fix C-style comments in AWK scripts
-62ca0a987f|Hauke Mehrtens|Mon Mar 23 00:59:06 2026 +0100|github: fix claude-code-review running in tag mode for issue_comment
-20ae49dde7|Benjamin Levine|Fri Mar 20 06:07:31 2026 +0000|lantiq: xrx200: autoload lantiq_gswip and tag_gswip to fix failsafe mode
-122b2f2ef5|Hauke Mehrtens|Sun Mar 22 21:31:41 2026 +0100|github: add actions: read permission for CI status in claude-code-review
-29e1c7b85a|Hauke Mehrtens|Sun Mar 22 21:28:54 2026 +0100|github: remove allowedTools restriction from claude-code-review
-c0e75c9de6|Hauke Mehrtens|Sun Mar 22 04:00:51 2026 +0100|github: add Claude code review workflow triggered by /claude comment
-adc1406f32|Rustam Adilov|Tue Mar 10 22:07:18 2026 +0500|realtek: gpio: backport rtl9607c gpio support patches
-8bb5d19acd|Zoltan HERPAI|Mon Jun 2 22:06:24 2025 +0000|starfive: visionfive2: add CMA entry into board DTS
-39423810c1|Zoltan HERPAI|Sun Jun 1 21:31:52 2025 +0000|starfive: add uEnv script on VF2 boards
-d37289d0b8|Zoltan HERPAI|Sun Jun 1 21:34:50 2025 +0000|starfive: add ubootenv support
-3a550f766c|Zoltan HERPAI|Sun Jun 1 13:18:38 2025 +0000|starfive: add GPIO LEDs to VF1 and VF2
-
-.....................
-
+05e6148310|Aleksander Jan Bajkowski|Wed Jan 28 01:00:59 2026 +0100|kernel: backport crypto selftests for some ciphersuites
+a9413e764b|Aleksander Jan Bajkowski|Fri Mar 13 23:12:53 2026 +0100|kernel: add support for authenc(hmac(md5),*) on safexcel
+ced84f697d|Hauke Mehrtens|Tue Mar 24 01:01:15 2026 +0100|github: switch claude-code-action to hauke/claude-code-action v1.0.77-fixed
+41d6584d9b|Andreas Böhler|Fri Mar 20 21:24:48 2026 +0100|realtek: fix D-Link fan control script
+9afc499d1e|Markus Stockhausen|Sun Mar 22 15:46:33 2026 +0100|realtek: mdio: adjust naming of smi_bus_is_c45
+0fbf80b4c8|Markus Stockhausen|Sun Mar 22 15:38:19 2026 +0100|realtek: mdio: add duplicated port detection
+48a75a179f|Markus Stockhausen|Sun Mar 22 15:21:29 2026 +0100|realtek: mdio: add valid_port bitmask to structure
+6c6f3296ce|Markus Stockhausen|Sun Mar 22 14:59:23 2026 +0100|realtek: mdio: drop debugging information
+befa61b1b6|Felix Fietkau|Mon Mar 23 09:56:47 2026 +0000|bridger: update to Git HEAD (2026-03-23)
+6c12207ff0|Felix Fietkau|Mon Mar 23 09:52:46 2026 +0000|mt76: update to Git HEAD (2026-03-21)
+68a35447d9|Felix Fietkau|Sat Mar 21 16:15:31 2026 +0000|ucode: nl80211: fix HE MCS parsing
 </details>
