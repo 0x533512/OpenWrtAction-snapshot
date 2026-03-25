@@ -2,20 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7842061a7|Alexandru Ardelean|Mon Mar 23 20:46:54 2026 +0200|python-more-itertools: drop package (no longer used)
-df78cf6b0|Alexandru Ardelean|Sun Mar 15 15:12:45 2026 +0200|pillow: bump to 12.1.1
-432fa809d|Alexandru Ardelean|Sun Mar 15 16:03:01 2026 +0200|python-pybind11: add new package (version 2.13.6)
-63ffe5d5a|Alexandru Ardelean|Mon Mar 23 09:48:40 2026 +0000|libwebp: bump to 1.6.0
-76786d243|Alexandru Ardelean|Sun Mar 22 07:34:15 2026 +0000|newt: bump to 0.52.25
-df0744b3f|Alexandru Ardelean|Sat Mar 21 06:44:59 2026 +0000|python-werkzeug: bump to 3.1.6
-f35120fac|Tianling Shen|Thu Mar 12 16:33:20 2026 +0800|libtorrent-rasterbar: add boost as dependency for python package
-2bb3817f2|Alexandru Ardelean|Mon Mar 23 07:50:36 2026 +0000|python-pyasn1: bump to 0.6.3
-54e813217|Alexandru Ardelean|Sun Mar 22 06:55:57 2026 +0000|python-attrs: bump to 26.1.0
-d0be8634f|Alexandru Ardelean|Sun Mar 22 07:35:46 2026 +0000|mpremote: bump to 1.27.0
-17c2ffee5|Szabolcs Hubai|Sun Mar 22 12:33:24 2026 +0100|snapcast: update to v0.35.0
-60c5eb29a|Alexandru Ardelean|Sun Mar 22 06:55:57 2026 +0000|python-attrs: bump to 25.4.0
-dc489c082|Alexandru Ardelean|Sun Mar 22 09:23:53 2026 +0000|python-hatch-fancy-pypi-readme: bump to 25.1.0
-22c0454da|John Audia|Sat Mar 21 07:13:46 2026 -0400|snort3: update to 3.12.1.0
-fa477102e|John Audia|Sat Mar 21 07:12:36 2026 -0400|libdaq3: update to 3.0.27
-
+facb68ee6|Alexandru Ardelean|Tue Mar 24 07:49:07 2026 +0000|django-restframework: bump to 3.17.0
+7e5c87e07|Alexandru Ardelean|Sun Mar 22 07:39:38 2026 +0000|micropython: bump to 1.27.0
+b78b67fdf|Luiz Angelo Daros de Luca|Wed Mar 11 16:48:14 2026 -0300|libvpx: update to 1.16.0
+dae7bbfe6|Luiz Angelo Daros de Luca|Mon Mar 23 22:19:13 2026 -0300|ruby: update to 4.0.2
+3892e9615|Kamil Bienkiewicz|Thu Mar 19 10:34:37 2026 +0100|net-snmp: add distro extend using /etc/os-release
+24cd935ac|Alexandru Ardelean|Mon Mar 23 18:34:53 2026 +0000|python-setuptools-scm: bump to 10.0.1
+89786f5c3|Alexandru Ardelean|Mon Mar 23 18:34:47 2026 +0000|python-vcs-versioning: add new package (version 1.0.1)
+20fbeb8bc|Alexandru Ardelean|Mon Mar 23 17:15:14 2026 +0000|python-chardet: bump to 7.2.0
 </details>
