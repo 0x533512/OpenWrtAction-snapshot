@@ -2,12 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-facb68ee6|Alexandru Ardelean|Tue Mar 24 07:49:07 2026 +0000|django-restframework: bump to 3.17.0
-7e5c87e07|Alexandru Ardelean|Sun Mar 22 07:39:38 2026 +0000|micropython: bump to 1.27.0
-b78b67fdf|Luiz Angelo Daros de Luca|Wed Mar 11 16:48:14 2026 -0300|libvpx: update to 1.16.0
-dae7bbfe6|Luiz Angelo Daros de Luca|Mon Mar 23 22:19:13 2026 -0300|ruby: update to 4.0.2
-3892e9615|Kamil Bienkiewicz|Thu Mar 19 10:34:37 2026 +0100|net-snmp: add distro extend using /etc/os-release
-24cd935ac|Alexandru Ardelean|Mon Mar 23 18:34:53 2026 +0000|python-setuptools-scm: bump to 10.0.1
-89786f5c3|Alexandru Ardelean|Mon Mar 23 18:34:47 2026 +0000|python-vcs-versioning: add new package (version 1.0.1)
-20fbeb8bc|Alexandru Ardelean|Mon Mar 23 17:15:14 2026 +0000|python-chardet: bump to 7.2.0
+20155a716|Stan Grishin|Sat Mar 21 01:12:02 2026 +0000|adblock-fast: update to 1.2.2-r14
+a7f33e7da|Alexandru Ardelean|Mon Mar 23 18:39:26 2026 +0000|python-pycparser: bump to 3.0
+10b8f04e3|Tim Flubshi|Wed Mar 18 21:55:29 2026 +0100|ddns-scripts: add netcup.com support
+80d95db42|Chester A. Unal|Fri Mar 20 09:49:09 2026 +0200|bsbf-rate-limiting: add
+9cf3d7b5a|Chester A. Unal|Fri Mar 20 09:53:51 2026 +0200|plp-mtu-discovery: update to GIT HEAD of 2026-03-16
+47d4485ae|Alexandru Ardelean|Mon Mar 23 18:58:36 2026 +0000|python-psutil: bump to 7.2.2
 </details>

@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ada55afcff|Tianling Shen|Tue Mar 24 10:00:00 2026 +0800|luci-app-adguardhome: add enabled option
+a9a438b4ba|Tianling Shen|Wed Mar 25 12:12:40 2026 +0800|luci-theme-argon: fix wget dependency
 </details>

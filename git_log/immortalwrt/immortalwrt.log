@@ -2,22 +2,12 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-ef41454844|Tianling Shen|Tue Mar 24 10:20:33 2026 +0800|Merge Official Source
-05e6148310|Aleksander Jan Bajkowski|Wed Jan 28 01:00:59 2026 +0100|kernel: backport crypto selftests for some ciphersuites
-a9413e764b|Aleksander Jan Bajkowski|Fri Mar 13 23:12:53 2026 +0100|kernel: add support for authenc(hmac(md5),*) on safexcel
-ced84f697d|Hauke Mehrtens|Tue Mar 24 01:01:15 2026 +0100|github: switch claude-code-action to hauke/claude-code-action v1.0.77-fixed
-41d6584d9b|Andreas Böhler|Fri Mar 20 21:24:48 2026 +0100|realtek: fix D-Link fan control script
-9afc499d1e|Markus Stockhausen|Sun Mar 22 15:46:33 2026 +0100|realtek: mdio: adjust naming of smi_bus_is_c45
-0fbf80b4c8|Markus Stockhausen|Sun Mar 22 15:38:19 2026 +0100|realtek: mdio: add duplicated port detection
-48a75a179f|Markus Stockhausen|Sun Mar 22 15:21:29 2026 +0100|realtek: mdio: add valid_port bitmask to structure
-6c6f3296ce|Markus Stockhausen|Sun Mar 22 14:59:23 2026 +0100|realtek: mdio: drop debugging information
-befa61b1b6|Felix Fietkau|Mon Mar 23 09:56:47 2026 +0000|bridger: update to Git HEAD (2026-03-23)
-6c12207ff0|Felix Fietkau|Mon Mar 23 09:52:46 2026 +0000|mt76: update to Git HEAD (2026-03-21)
-68a35447d9|Felix Fietkau|Sat Mar 21 16:15:31 2026 +0000|ucode: nl80211: fix HE MCS parsing
-339e8fa25b|Shiji Yang|Tue Mar 17 21:32:53 2026 +0800|ramips: dts: adjust mt7621 peripherals address range
-b048949114|Hauke Mehrtens|Mon Mar 23 02:07:43 2026 +0100|github: pin claude-code-action to v1.0.49
-015e8820b5|Shiji Yang|Fri Mar 20 19:32:03 2026 +0800|ramips: fix kernel decompress error for ELECOM WRC-X1800GS
-
-.....................
-
+8e9f262ba3|Tianling Shen|Wed Mar 25 10:19:37 2026 +0800|Merge Official Source
+17784ad785|Marco von Rosenberg|Mon Mar 23 22:08:38 2026 +0100|ath79: fix initramfs boot for Huawei AP5030DN and AP6010DN
+b1713d623b|Florian Maurer|Sun Mar 22 19:08:43 2026 +0100|ramips-mt7621: fix xiaomi mi ac2100 mac address
+4eee4c29ea|Markus Stockhausen|Sun Mar 1 12:24:51 2026 +0100|realtek: dts: add Netgear GS110TPP serdes for port 9/10
+25de25827e|Christian Marangi|Tue Mar 24 19:33:41 2026 +0100|airoha: backport additional rework in preparation for multi-serdes support
+0a82d6054c|Robert Marko|Tue Mar 24 18:42:52 2026 +0100|microchipsw: add MTU change support
+c5455f60ab|Robert Marko|Tue Mar 24 17:29:56 2026 +0100|microchipsw: lan969x: use upstreamed DTS
+593b448455|Robert Marko|Tue Mar 24 17:15:08 2026 +0100|microchipsw: lan969x: tactical-1000: describe RS0 pins
 </details>
