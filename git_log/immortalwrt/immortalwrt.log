@@ -2,12 +2,10 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8e9f262ba3|Tianling Shen|Wed Mar 25 10:19:37 2026 +0800|Merge Official Source
-17784ad785|Marco von Rosenberg|Mon Mar 23 22:08:38 2026 +0100|ath79: fix initramfs boot for Huawei AP5030DN and AP6010DN
-b1713d623b|Florian Maurer|Sun Mar 22 19:08:43 2026 +0100|ramips-mt7621: fix xiaomi mi ac2100 mac address
-4eee4c29ea|Markus Stockhausen|Sun Mar 1 12:24:51 2026 +0100|realtek: dts: add Netgear GS110TPP serdes for port 9/10
-25de25827e|Christian Marangi|Tue Mar 24 19:33:41 2026 +0100|airoha: backport additional rework in preparation for multi-serdes support
-0a82d6054c|Robert Marko|Tue Mar 24 18:42:52 2026 +0100|microchipsw: add MTU change support
-c5455f60ab|Robert Marko|Tue Mar 24 17:29:56 2026 +0100|microchipsw: lan969x: use upstreamed DTS
-593b448455|Robert Marko|Tue Mar 24 17:15:08 2026 +0100|microchipsw: lan969x: tactical-1000: describe RS0 pins
+06dc945b2b|Tianling Shen|Thu Mar 26 22:14:50 2026 +0800|kernel: fix typo error in YT6801 PCIe ethernet driver
+b8f4e11101|Tianling Shen|Thu Mar 26 17:26:42 2026 +0800|rockchip: add cpuinfo node for RK3528
+c6e2e01a2a|Tianling Shen|Thu Mar 26 16:38:46 2026 +0800|rockchip: refresh upstreamed otp patches
+75d3612b5b|Tianling Shen|Thu Mar 26 14:05:35 2026 +0800|kernel: backport YT6801 PCIe ethernet driver support
+0fff5aa84e|Tianling Shen|Thu Mar 26 11:48:36 2026 +0800|kernel: refresh patches
+2a98d7b63c|司辰|Thu Mar 26 10:59:08 2026 +0800|default-settings: migrate to apk mirror
 </details>

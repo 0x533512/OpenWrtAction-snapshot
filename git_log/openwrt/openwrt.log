@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-52063ff831|Anthony Sepa|Wed Mar 25 21:13:43 2026 +0100|ipq40xx: fix art partition name WHW03 V1
-eb171568a9|Markus Stockhausen|Tue Mar 24 15:24:21 2026 +0100|realtek: hwmon: add LM75 alert pin polarity swap patch
-1a09f84110|Sven Eckelmann|Wed Mar 11 18:49:44 2026 +0100|realtek: dsa: rtl93xx: avoid LAG transmission on down link
-a4e8abe219|Damien Dejean|Tue Mar 24 21:43:06 2026 +0100|realtek: phy: backport pair/polarity order support
-04328df9b9|Rosen Penev|Wed Mar 18 16:39:49 2026 -0700|realtek: stc8: use flexible array member
-3158f18538|Yanase Yuki|Sun Mar 15 18:37:27 2026 +0900|mediatek: filogic: fix devicetree compiler warnings
-2e30f1667b|Yanase Yuki|Fri Mar 20 14:51:37 2026 +0900|mediatek: filogic: fix MT7987 dtsi spi nodes
-0a6683e4ab|Zhi-Jun You|Mon Mar 23 18:06:19 2026 +0800|wifi-scripts: ucode: make he_twt_required depends on he_twt_responder
-3b69cf0844|Zhi-Jun You|Mon Mar 23 18:06:10 2026 +0800|wifi-scripts: ucode: add support for setting he_twt_responder
-20d6296141|Nick Hainke|Mon Mar 23 18:30:38 2026 +0100|hostapd: update to 2026-03-23
-51f82c452f|Bee Cadorna|Thu Jan 9 16:58:22 2025 -0600|ipq40xx: enable LP5521 driver for TP-Link Deco M5
-c60be6e983|Bee Cadorna|Wed Jan 8 16:30:05 2025 -0600|ipq40xx: add support for TP-Link Deco-M5
-eb7efbe247|Markus Stockhausen|Sat Mar 21 14:09:14 2026 +0100|realtek: rtl930x: adapt kernel configuration
-323b75002b|Markus Stockhausen|Sat Mar 21 14:01:23 2026 +0100|realtek: i2c: fix i2c-shared-gpio range check
-28165ed3d4|Markus Stockhausen|Tue Mar 24 08:55:12 2026 +0100|realtek: eth: make hw_en_rxtx() a config member
+7fac892948|Markus Stockhausen|Wed Mar 25 21:28:33 2026 +0100|realtek: eth: convert probe/remove to new prefix
+3c38ed380a|Markus Stockhausen|Wed Mar 25 21:23:35 2026 +0100|realtek: eth: remove false security in rteth_remove()
+d56d70fc66|Markus Stockhausen|Wed Mar 25 21:18:24 2026 +0100|realtek: eth: drop redundant DTS check
+5b827eb91f|Markus Stockhausen|Wed Mar 25 21:13:44 2026 +0100|realtek: eth: rename driver and matchtable
+83084bac95|Jonas Jelonek|Thu Mar 26 13:34:38 2026 +0000|realtek: dts: drop trailing semicolons after macro use
+0fe5684bbd|Rosen Penev|Sat Mar 14 17:02:28 2026 -0700|mvebu: WT61P803: use flex array
+cb3657463d|Maxim Anisimov|Mon Mar 23 10:40:55 2026 +0300|mediatek: filogic: kn-1812: enable xsphy node
+16a66de89e|Maxim Anisimov|Mon Mar 23 10:38:15 2026 +0300|mediatek: filogic: kn-1812: drop phy-connection-type prop
+5aaf919e99|Maxim Anisimov|Mon Mar 23 10:26:07 2026 +0300|mediatek: filogic: kn-1812: fix partition node name
+e70dbcc372|Maxim Anisimov|Mon Mar 23 09:44:43 2026 +0300|mediatek: filogic: kn-1812: set mdio drive strength to 10mA
+87e283a38c|Maxim Anisimov|Mon Mar 23 09:41:22 2026 +0300|mediatek: filogic: kn-1812: change dts node name to mt7992
+684590a6a0|Maxim Anisimov|Mon Mar 23 09:28:30 2026 +0300|mediatek: filogic: kn-1812: add interrupt support for phy
+44a52a8769|Maxim Anisimov|Mon Mar 23 09:19:30 2026 +0300|mediatek: filogic: kn-1812: fix phy reset deassert
+3487722fbf|Maxim Anisimov|Mon Mar 23 15:19:55 2026 +0300|mediatek: filogic: kap-630/kn-(3811/3911): fix node name
+9c4c83d331|Jonas Jelonek|Wed Mar 25 13:51:09 2026 +0100|realtek: pcs: rtl930x: improve error propagation
 
 .....................
 
