@@ -2,5 +2,14 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7f2db0e90|Jean Thomas|Thu Mar 26 10:12:13 2026 +0100|python-poetry-core: bump to 2.3.1
+11412702c|Qin Guang|Thu Mar 26 12:45:49 2026 +0000|tar: fix typo in LDFLAGS variable name
+bd524c0a7|Chen Minqiang|Fri Mar 27 00:40:04 2026 +0800|openvpn: fix quoting and deprecated option filtering
+00e9d7346|Dirk Brenken|Fri Mar 27 10:18:38 2026 +0100|adblock: update 4.5.3-4
+5b4b85442|Tianling Shen|Fri Mar 27 11:13:09 2026 +0800|v2ray-geodata: Update to latest version
+f460aa1f4|Tianling Shen|Fri Mar 27 11:12:11 2026 +0800|cloudflared: Update to 2026.3.0
+91562f866|Tianling Shen|Fri Mar 27 11:10:55 2026 +0800|dnsproxy: Update to 0.81.0
+90b4bef20|Tianling Shen|Fri Mar 27 11:06:32 2026 +0800|rclone: Update to 1.73.3
+03d973871|Tianling Shen|Fri Mar 27 11:04:15 2026 +0800|v2ray-core: Update to 5.47.0
+085fe0647|Tianling Shen|Fri Mar 27 11:02:04 2026 +0800|xray-core: Update to 26.2.6
+0ac03d8b5|Tianling Shen|Fri Mar 27 10:58:47 2026 +0800|cloudreve: Update to 4.15.0
 </details>
