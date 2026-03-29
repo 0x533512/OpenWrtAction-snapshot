@@ -1,8 +1,0 @@
-<details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-7259b8ca82|Tianling Shen|Fri Mar 27 18:27:29 2026 +0800|loongarch64: add common pcie ethernet drivers by default
-75c69d10a2|Tianling Shen|Fri Mar 27 17:40:54 2026 +0800|mac80211: add rtl8852bu USB dongle support
-ae305544c1|Tianling Shen|Fri Mar 27 16:50:41 2026 +0800|kernel: fix build YT6801 driver for x86
-</details>

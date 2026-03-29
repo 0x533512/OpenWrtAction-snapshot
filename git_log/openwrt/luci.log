@@ -2,8 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-405d4af507|George Sapkin|Fri Mar 27 16:14:43 2026 +0200|formal: switch formal to an external action
-3e58d881f2|Jinnah Dylan Hosein|Thu Mar 26 15:24:40 2026 -0700|luci-mod-battstatus: get RavPower RP-WD009 working again
-773c8e5889|Dirk Brenken|Fri Mar 27 10:23:33 2026 +0100|luci-app-adblock: update 4.5.3-4
-e41b7c1d61|Stan Grishin|Wed Mar 25 00:41:29 2026 +0000|luci-app-pbr: bugfix
+b342a8adb3|Eric Fahlgren|Tue Mar 24 11:42:33 2026 -0700|luci-app-attendedsysupgrade: efi value is a bool
+43635fb81a|Stan Grishin|Fri Mar 27 20:49:40 2026 +0000|luci-app-adblock-fast: update to 1.2.2-r16
 </details>

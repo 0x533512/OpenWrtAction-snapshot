@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-82d98592a6|Markus Stockhausen|Wed Mar 25 16:04:59 2026 +0100|realtek: mdio: provide individual bus probing function
-6069fe9ae1|Markus Stockhausen|Wed Mar 25 14:48:43 2026 +0100|realtek: mdio: pull bus/ctrl dependency apart
-0d195bfce3|Markus Stockhausen|Wed Mar 25 14:09:49 2026 +0100|realtek: mdio: add helper to derive ctrl from bus
-0cb3d6f39d|Markus Stockhausen|Wed Mar 25 12:22:13 2026 +0100|realtek: mdio: setup topology from control structure
-c6ccca619c|Markus Stockhausen|Wed Mar 25 11:35:13 2026 +0100|realtek: mdio: create new bus structure
-ec787f4526|Markus Stockhausen|Wed Mar 25 11:31:18 2026 +0100|realtek: mdio: move phy_node attribute into port structure
-818604cb08|Markus Stockhausen|Wed Mar 25 11:26:57 2026 +0100|realtek: mdio: move smi_addr attribute into port structure
-db88d614b2|Markus Stockhausen|Wed Mar 25 11:06:36 2026 +0100|realtek: mdio: move smi_bus attribute into port structure
-61caae8b8c|Markus Stockhausen|Wed Mar 25 11:01:47 2026 +0100|realtek: mdio: move raw attribute into port structure
-cedefd833b|Markus Stockhausen|Wed Mar 25 10:54:11 2026 +0100|realtek: mdio: create new port structure
-714f657f3f|Felix Fietkau|Fri Mar 27 19:02:26 2026 +0000|netifd: use procd_add_reload_data_trigger
-95e2b3e9b8|Felix Fietkau|Fri Mar 27 19:02:00 2026 +0000|procd: add support for multiple arguments to procd_add_reload_data_trigger
-55a6831eee|Felix Fietkau|Tue Mar 24 16:56:42 2026 +0000|wifi-scripts: add support for passing uuid to hostapd
-27568d21d3|Daniel Golle|Thu Mar 26 04:00:28 2026 +0000|kernel: add DSA driver for MaxLinear MxL862xx switches
-bf81c51b51|John Crispin|Thu Mar 5 12:57:29 2026 +0100|qualcommax: ipq807x: add CMN PLL clock controller support
+92c7feebd2|Ziyang Huang|Tue Dec 2 22:28:10 2025 +0800|qualcommax: qpic only support max 4 bytes ID
+bb76ac1e4a|Robert Marko|Sat Mar 28 17:50:48 2026 +0100|generic: 6.18: disable CONFIG_ROCKCHIP_ERRATUM_3568002
+c445cc6c6a|Robert Marko|Sat Mar 28 17:49:50 2026 +0100|generic: 6.18: disable CONFIG_AMPERE_ERRATUM_AC04_CPU_23
+d3bf8ada02|Robert Marko|Sat Mar 28 17:44:24 2026 +0100|generic: 6.18: disable CONFIG_ARCH_SOPHGO
+9934653738|Robert Marko|Sat Mar 28 17:43:14 2026 +0100|generic: 6.18: disable CONFIG_ARCH_CIX
+397e66f181|Robert Marko|Sat Mar 28 17:42:44 2026 +0100|generic: 6.18: disable CONFIG_ARCH_BLAIZE
+a08d2beedd|Robert Marko|Sat Mar 28 17:41:49 2026 +0100|generic: 6.18: disable CONFIG_ARCH_AXIADO
+f4a927ab86|Robert Marko|Sat Mar 28 17:40:22 2026 +0100|generic: 6.18: disable CONFIG_AMD_SBRMI_I2C
+238f9b657b|John Audia|Sat Mar 28 07:22:43 2026 -0400|kernel: refresh patches for 6.18.20
+fa20221a8b|Robert Marko|Fri Mar 20 14:23:16 2026 +0100|microchipsw: tactical-1000: expand FIP partition size
+5c49ee6099|John Audia|Tue Jan 20 08:51:20 2026 -0500|kernel: refresh patches
+65d36329e3|John Audia|Sun Jan 4 10:31:43 2026 -0500|x86: make CONFIG_NR_CPUS a tunable (2-512)
+c9075798cc|John Audia|Mon Jan 5 15:02:37 2026 -0500|x86/64: 6.18: enable recent MITIGATION options
+8a7417ef95|John Audia|Sun Feb 8 07:58:52 2026 -0500|x86/64: 6.18: enable THP (disabled by default)
+3a4b01f154|John Audia|Sat Dec 13 16:07:28 2025 -0500|x86: 6.18: import new options
 
 .....................
 
