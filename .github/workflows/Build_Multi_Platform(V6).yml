@@ -38,7 +38,7 @@ env:
 
 jobs:
   job_init: 
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     name: Init
     outputs:
       output_release_tag: ${{ steps.gen_release_tag.outputs.release_tag }}
@@ -62,7 +62,7 @@ jobs:
   
   job_source_init:
     needs: job_init
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     name: Source-Init-${{ matrix.source_code_platform }}
     strategy:
       fail-fast: false
@@ -227,7 +227,7 @@ jobs:
 
   job_generate_release_tag: 
     needs: [job_init, job_source_init]
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     name: Generate-Release-Tag-And-Git-Log
     steps:
       - name: Checkout
@@ -320,7 +320,7 @@ jobs:
 
   job_compile_and_upload:
     needs: [job_init, job_source_init, job_generate_release_tag]
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     if: ${{ !cancelled() && needs.job_source_init.result == 'success' && needs.job_generate_release_tag.result == 'success' }}
     strategy:
       fail-fast: false
@@ -378,7 +378,16 @@ jobs:
           DEBIAN_FRONTEND: noninteractive
         run: |
           sudo -E apt-get -qq update
-          sudo -E apt-get -qq install $(curl -fsSL https://github.com/smallprogram/OpenWrtAction/raw/main/diy_script/${{ matrix.source_code_platform }}_dependence)
+          sudo -E apt-get -qq install python3-setuptools $(curl -fsSL https://github.com/smallprogram/OpenWrtAction/raw/main/diy_script/${{ matrix.source_code_platform }}_dependence)
+
+          # Ubuntu 26.04: the python3 found in PATH may not see the apt-installed modules
+          echo "python3 in PATH: $(which -a python3 | tr '\n' ' ')"
+          python3 --version
+          if ! python3 -c "import elftools, setuptools"; then
+            echo "Modules missing for $(which python3), installing via pip"
+            python3 -m pip install --break-system-packages pyelftools setuptools
+            python3 -c "import elftools, setuptools"
+          fi
 
       - name: Initialization Directory
         working-directory: /workdir
@@ -742,7 +751,7 @@ jobs:
   job_organize_tags:
     needs: [job_init, job_source_init, job_generate_release_tag, job_compile_and_upload]
     if: ${{ !cancelled() && needs.job_source_init.result == 'success' && needs.job_generate_release_tag.result == 'success' }}
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     name: Organize-Release-Tags
     outputs:
       output_tag_status: ${{ steps.organize_tags.outputs.status }}
@@ -784,7 +793,7 @@ jobs:
           body_path: release.txt
 
   rerun-failed-jobs:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     needs: [job_init, job_source_init, job_generate_release_tag, job_compile_and_upload, job_organize_tags]
     if: failure() && fromJSON(github.run_attempt) < 3  && !cancelled()
     steps:
@@ -797,7 +806,7 @@ jobs:
           gh workflow run Retry_Failure_Jobs.yml -F run_id=${{ github.run_id }}
 
   final-execution-jobs:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     needs: [rerun-failed-jobs, job_organize_tags]
     if: ${{ always() && !cancelled() }}
     steps:
