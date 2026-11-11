@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/a00e5a51e670f2e3a2d949006e28be45acb789ff...07e0d16305d2b5903b37ad7913e33e18795f81a4)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-07e0d1630|David Woodhouse|Sat Oct 31 09:05:07 2026 +0000|domoticz: update to 2026.4
-</details>
