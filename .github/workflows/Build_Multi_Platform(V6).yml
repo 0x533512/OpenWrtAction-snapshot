@@ -380,14 +380,18 @@ jobs:
           sudo -E apt-get -qq update
           sudo -E apt-get -qq install python3-setuptools $(curl -fsSL https://github.com/smallprogram/OpenWrtAction/raw/main/diy_script/${{ matrix.source_code_platform }}_dependence)
 
-          # Ubuntu 26.04: the python3 found in PATH may not see the apt-installed modules
-          echo "python3 in PATH: $(which -a python3 | tr '\n' ' ')"
-          python3 --version
-          if ! python3 -c "import elftools, setuptools"; then
-            echo "Modules missing for $(which python3), installing via pip"
-            python3 -m pip install --break-system-packages pyelftools setuptools
-            python3 -c "import elftools, setuptools"
-          fi
+          # OpenWrt's prereq picks the first of python3.14 ... python3.8, python3 found in PATH
+          # (not necessarily /usr/bin/python3), so every interpreter it may pick needs the modules
+          for py in python3.14 python3.13 python3.12 python3.11 python3.10 python3.9 python3.8 python3; do
+            bin=$(command -v $py) || continue
+            echo "==== $py -> $bin ($($bin -V 2>&1)) ===="
+            if ! $bin -c "import elftools, setuptools"; then
+              echo "Modules missing for $bin, installing via pip"
+              sudo $bin -m pip install --break-system-packages pyelftools setuptools \
+                || sudo $bin -m pip install pyelftools setuptools
+              $bin -c "import elftools, setuptools"
+            fi
+          done
 
       - name: Initialization Directory
         working-directory: /workdir
