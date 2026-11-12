@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/c24ef49cc41b6291941272f503caebb4332e34f2...4e9642517b48bae612ff10fb72fb9199e559500e)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-4e9642517b|David Bauer|Wed Nov 11 22:48:17 2026 +0100|ipq806x: set device-specific mac for AP-325
-</details>
