@@ -1,0 +1,12 @@
+<details> <summary> <b>luci-theme-7dollar new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/itsmaiGe/luci-theme-7dollar/compare/b7cdbbc92fed9e0ed3c829862d94635b9a528fe6...0e844b976e855a44ab0ff31686e178637aa460fb)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+0e844b9|github-actions[bot]|Thu Nov 12 06:03:40 2026 +0000|dist: luci-theme-7dollar-1.0.15-r1.apk
+899a30e|itsmaiGe|Thu Nov 12 14:03:16 2026 +0800|1.0.15
+43d8057|itsmaiGe|Thu Nov 12 13:56:26 2026 +0800|Menu: System takes LuCI's own status/system pages by the view they open, so pages added in newer LuCI (routesj, dns, plugins) land in the right group (#15)
+0ac1bba|sakuradairong|Thu Nov 12 10:07:16 2026 +0800|fix(menu): keep Overview on the 7Dollar home page (#14)
+</details>
